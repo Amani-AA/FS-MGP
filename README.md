@@ -10,8 +10,8 @@ Main programs:
 
 2. Feature extraction and feature selection: 
 Execute  main program that will take orf.coord, orf.seq, frags.seq as input and produce   Test_orfSeqs.csv as output.  It calls two functions:
-1. read_orphelia_file.m that will pick leftmost ORFs from each ORF-set.
-2. orf_feature_extraction_selection.m that will perform feature extraction and feature selection.
+    - read_orphelia_file.m that will pick leftmost ORFs from each ORF-set.
+    - orf_feature_extraction_selection.m that will perform feature extraction and feature selection.
 
 3. Testing:
 Execute test_SVM.R, that will take Test_orfSeqs.csv as input and will produce test.txt file as output.
