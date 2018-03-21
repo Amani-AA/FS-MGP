@@ -9,7 +9,7 @@ Main programs:
 1. Open reading frame (ORF) extraction: We use Orphelia- a metagenomic ORF finding tool- to extract ORFs from each fragment. The output files are: orf.coords, orf.seq, frags.seq
 
 2. Feature extraction and feature selection: 
-Execute  main program that will take orf_coord, orf_seq, frag_seq as input and produce   Test_orfSeqs.csv as output.  It calls two functions:
+Execute  main program that will take orf.coord, orf.seq, frags.seq as input and produce   Test_orfSeqs.csv as output.  It calls two functions:
 1. read_orphelia_file.m that will pick leftmost ORFs from each ORF-set.
 2. orf_feature_extraction_selection.m that will perform feature extraction and feature selection.
 
