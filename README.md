@@ -6,7 +6,7 @@ datasets for training and testing are available in the Orphelia website http://o
 
 Main programs:
 
-1. Open reading frame (ORF) extraction: We use Orphelia- a metagenomic ORF finding tool- to extract ORFs from each fragment. The output files are: orf.coords, orf.seq, frags.seq
+1. Open reading frame (ORF) extraction: We use Orphelia- a metagenomic ORF finding tool- to extract ORFs from each fragment http://orphelia.gobics.de/index.jsp. The output files are: orf.coords, orf.seq, frags.seq
 
 2. Feature extraction and feature selection: 
 Execute  main program that will take orf.coord, orf.seq, frags.seq as input and produce   Test_orfSeqs.csv as output.  It calls two functions:
