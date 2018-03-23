@@ -1,1 +1,10 @@
-put all matlab files including the best 500_features files and input files in a single folder.
+How to test the program using sample input files?
+1. put all matlab files including the best 500_features files and input files in a single folder.
+2. run following command in matlab
+ 
+  - main('orf.coords_2528','orf.seq_2528','frags.seq_2528');
+  - combine_results('test_2528.txt');
+  
+  
+  
+3.the output is the prediction:  output_file.txt
