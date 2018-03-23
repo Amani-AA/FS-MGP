@@ -1,0 +1,10656 @@
+> Fragment 0 
+	0	701	+
+> Fragment 1 
+	562	702	+
+	0	167	+
+	192	443	+
+> Fragment 2 
+	-1	703	+
+> Fragment 3 
+	272	703	+
+	0	302	-
+> Fragment 4 
+	115	675	+
+> Fragment 5 
+	407	703	-
+> Fragment 6 
+	159	701	+
+> Fragment 7 
+	-2	702	+
+> Fragment 8 
+	202	702	+
+	-1	244	+
+> Fragment 9 
+	-2	702	+
+> Fragment 10 
+	0	701	+
+> Fragment 11 
+	-2	366	+
+	494	703	-
+> Fragment 12 
+	-2	702	+
+> Fragment 13 
+	-2	195	+
+	205	702	+
+> Fragment 14 
+	0	701	+
+> Fragment 15 
+	128	703	+
+> Fragment 16 
+	-1	703	+
+> Fragment 17 
+	238	666	+
+> Fragment 18 
+	-2	702	-
+> Fragment 19 
+	-1	703	-
+> Fragment 20 
+	0	266	-
+	417	701	-
+> Fragment 21 
+	-1	703	-
+> Fragment 22 
+	-1	703	+
+> Fragment 23 
+	-2	408	+
+	418	702	+
+> Fragment 24 
+	-1	304	-
+> Fragment 25 
+	517	702	+
+	0	509	+
+> Fragment 26 
+	-1	361	-
+	449	703	-
+> Fragment 27 
+	0	527	+
+> Fragment 28 
+	-1	313	+
+	460	702	-
+> Fragment 29 
+	-1	703	-
+> Fragment 30 
+	-2	276	+
+	296	703	-
+> Fragment 31 
+	-2	366	+
+	404	703	-
+> Fragment 32 
+	-1	157	-
+	205	702	-
+> Fragment 33 
+	-1	703	+
+> Fragment 34 
+	47	703	-
+> Fragment 35 
+	-1	703	+
+> Fragment 36 
+	-1	208	-
+	560	703	-
+	237	542	-
+> Fragment 37 
+	576	701	+
+	0	332	-
+> Fragment 38 
+	391	702	+
+	-1	379	+
+> Fragment 39 
+	-2	702	-
+> Fragment 40 
+	476	703	+
+	0	269	-
+> Fragment 41 
+	0	701	+
+> Fragment 42 
+	204	701	+
+> Fragment 43 
+	0	701	-
+> Fragment 44 
+	-2	195	-
+	295	702	-
+> Fragment 45 
+	0	428	+
+> Fragment 46 
+	-1	703	-
+> Fragment 47 
+	258	701	-
+> Fragment 48 
+	104	703	+
+> Fragment 49 
+	-2	339	+
+	340	702	-
+> Fragment 50 
+	73	702	-
+> Fragment 51 
+	426	701	+
+> Fragment 52 
+	0	479	-
+> Fragment 53 
+	-1	403	+
+	416	703	+
+> Fragment 54 
+	254	664	+
+	0	236	+
+> Fragment 55 
+	128	457	+
+	603	701	+
+> Fragment 56 
+	314	658	+
+	-2	261	-
+> Fragment 57 
+	461	703	-
+> Fragment 58 
+	-2	546	+
+> Fragment 59 
+	-2	531	+
+> Fragment 60 
+	0	701	-
+> Fragment 61 
+	-1	703	-
+> Fragment 62 
+	0	701	+
+> Fragment 63 
+	88	702	+
+> Fragment 64 
+	0	701	-
+> Fragment 65 
+	580	702	+
+	179	478	+
+	0	179	+
+> Fragment 66 
+	-2	339	-
+	406	702	-
+> Fragment 67 
+	-2	255	+
+	339	701	-
+> Fragment 68 
+	220	702	-
+> Fragment 69 
+	0	701	-
+> Fragment 70 
+	174	701	+
+> Fragment 71 
+	-2	702	+
+> Fragment 72 
+	-1	703	-
+> Fragment 73 
+	0	701	+
+> Fragment 74 
+	537	701	+
+	0	350	-
+> Fragment 75 
+	-1	703	+
+> Fragment 76 
+	0	701	+
+> Fragment 77 
+	-2	633	-
+> Fragment 78 
+	272	640	-
+> Fragment 79 
+	-2	702	-
+> Fragment 80 
+	0	689	+
+> Fragment 81 
+	-2	702	+
+> Fragment 82 
+	-2	702	-
+> Fragment 83 
+	623	703	-
+	-2	549	-
+> Fragment 84 
+	-1	703	-
+> Fragment 85 
+	-2	327	+
+> Fragment 86 
+	-2	564	+
+> Fragment 87 
+	0	641	-
+> Fragment 88 
+	-1	286	+
+	411	701	+
+> Fragment 89 
+	-2	447	+
+	488	703	+
+> Fragment 90 
+	504	701	-
+	-2	447	-
+> Fragment 91 
+	-1	703	+
+> Fragment 92 
+	213	701	-
+	-2	216	-
+> Fragment 93 
+	-2	702	-
+> Fragment 94 
+	-2	702	-
+> Fragment 95 
+	-2	702	-
+> Fragment 96 
+	-1	703	-
+> Fragment 97 
+	-2	144	+
+	199	702	-
+> Fragment 98 
+	0	674	-
+> Fragment 99 
+	0	701	-
+> Fragment 100 
+	-1	154	+
+	129	701	+
+> Fragment 101 
+	0	257	-
+	493	702	-
+> Fragment 102 
+	57	701	+
+> Fragment 103 
+	404	703	+
+	0	410	+
+> Fragment 104 
+	-1	703	-
+> Fragment 105 
+	-2	702	-
+> Fragment 106 
+	-1	703	-
+> Fragment 107 
+	-1	703	+
+> Fragment 108 
+	142	702	-
+> Fragment 109 
+	-2	702	-
+> Fragment 110 
+	-1	616	+
+> Fragment 111 
+	0	701	+
+> Fragment 112 
+	41	703	+
+> Fragment 113 
+	192	605	+
+> Fragment 114 
+	-2	423	+
+	439	702	-
+> Fragment 115 
+	-1	703	-
+> Fragment 116 
+	0	530	+
+	527	703	-
+> Fragment 117 
+	-1	292	+
+	312	656	+
+> Fragment 118 
+	101	703	+
+> Fragment 119 
+	-1	460	-
+> Fragment 120 
+	-2	651	+
+> Fragment 121 
+	253	702	+
+	-1	172	+
+> Fragment 122 
+	10	510	-
+> Fragment 123 
+	0	545	+
+> Fragment 124 
+> Fragment 125 
+	-1	67	+
+	525	701	+
+> Fragment 126 
+	-2	645	+
+> Fragment 127 
+	364	702	-
+> Fragment 128 
+	0	458	+
+> Fragment 129 
+	-1	703	+
+> Fragment 130 
+	-2	702	-
+> Fragment 131 
+	197	703	+
+> Fragment 132 
+	-2	702	-
+> Fragment 133 
+	391	702	+
+	0	398	+
+> Fragment 134 
+	-2	702	+
+> Fragment 135 
+	-1	568	-
+	573	701	-
+> Fragment 136 
+	-2	702	+
+> Fragment 137 
+	-1	703	-
+> Fragment 138 
+	0	398	+
+	453	701	+
+> Fragment 139 
+	0	701	-
+> Fragment 140 
+	-1	703	-
+> Fragment 141 
+	139	702	-
+> Fragment 142 
+	0	701	-
+> Fragment 143 
+	372	701	-
+> Fragment 144 
+	164	649	-
+> Fragment 145 
+	307	702	+
+	-2	138	-
+> Fragment 146 
+	-1	703	-
+> Fragment 147 
+	0	701	+
+> Fragment 148 
+	451	702	+
+	0	224	+
+> Fragment 149 
+	-1	703	-
+> Fragment 150 
+	0	617	-
+> Fragment 151 
+	-1	703	+
+> Fragment 152 
+	0	701	-
+> Fragment 153 
+	-1	703	+
+> Fragment 154 
+	155	703	+
+> Fragment 155 
+	0	701	+
+> Fragment 156 
+	-1	703	+
+> Fragment 157 
+	-1	136	-
+	258	701	-
+> Fragment 158 
+	-2	702	-
+> Fragment 159 
+	-2	702	-
+> Fragment 160 
+	-1	337	-
+	342	521	-
+	531	701	-
+> Fragment 161 
+	0	701	-
+> Fragment 162 
+	378	701	-
+> Fragment 163 
+	0	701	+
+> Fragment 164 
+	0	377	+
+	486	701	+
+> Fragment 165 
+	184	702	+
+	0	146	+
+> Fragment 166 
+	-2	114	+
+	201	701	-
+> Fragment 167 
+	-1	703	+
+> Fragment 168 
+	-1	703	+
+> Fragment 169 
+> Fragment 170 
+	440	703	+
+	0	386	+
+> Fragment 171 
+	-2	393	+
+	365	646	+
+> Fragment 172 
+	-2	702	-
+> Fragment 173 
+	282	701	-
+> Fragment 174 
+	-2	606	-
+> Fragment 175 
+	317	586	+
+> Fragment 176 
+	-1	667	-
+> Fragment 177 
+	0	701	+
+> Fragment 178 
+	-1	703	-
+> Fragment 179 
+	-1	205	-
+	407	703	-
+> Fragment 180 
+	-1	703	-
+> Fragment 181 
+	-1	703	-
+> Fragment 182 
+	549	701	+
+> Fragment 183 
+	0	275	+
+	293	703	-
+> Fragment 184 
+	-2	303	+
+	315	701	+
+> Fragment 185 
+	-1	703	+
+> Fragment 186 
+	-2	393	-
+> Fragment 187 
+> Fragment 188 
+	-1	397	-
+	364	702	-
+> Fragment 189 
+	0	701	+
+> Fragment 190 
+	595	702	+
+	-1	595	+
+> Fragment 191 
+	-1	118	-
+	390	701	-
+> Fragment 192 
+	0	701	+
+> Fragment 193 
+	84	638	+
+> Fragment 194 
+	159	701	-
+> Fragment 195 
+	0	701	-
+> Fragment 196 
+> Fragment 197 
+	0	500	+
+> Fragment 198 
+	-1	703	+
+> Fragment 199 
+	105	701	+
+> Fragment 200 
+	-2	702	-
+> Fragment 201 
+	302	703	+
+	0	305	+
+> Fragment 202 
+	-1	703	-
+> Fragment 203 
+	-1	283	+
+	347	703	+
+> Fragment 204 
+	-2	702	-
+> Fragment 205 
+	217	414	+
+	457	702	+
+	-1	130	+
+> Fragment 206 
+	201	701	-
+	-2	249	-
+> Fragment 207 
+	-1	412	+
+	548	703	+
+> Fragment 208 
+	-2	303	+
+	358	702	+
+> Fragment 209 
+	-2	207	+
+	370	702	+
+> Fragment 210 
+	307	702	+
+	-1	349	+
+> Fragment 211 
+	0	701	+
+> Fragment 212 
+	0	584	+
+> Fragment 213 
+	327	701	-
+	-2	159	-
+> Fragment 214 
+	0	701	-
+> Fragment 215 
+	63	701	-
+> Fragment 216 
+	61	702	+
+> Fragment 217 
+	-2	702	+
+> Fragment 218 
+	-2	468	-
+> Fragment 219 
+	-1	508	-
+> Fragment 220 
+	625	702	+
+	-1	628	+
+> Fragment 221 
+	-2	702	+
+> Fragment 222 
+	0	701	-
+> Fragment 223 
+	-2	702	+
+> Fragment 224 
+	-1	703	-
+> Fragment 225 
+	-1	703	-
+> Fragment 226 
+	-2	702	+
+> Fragment 227 
+	0	701	+
+> Fragment 228 
+	400	702	+
+> Fragment 229 
+	-1	703	+
+> Fragment 230 
+	-2	702	+
+> Fragment 231 
+	-1	703	+
+> Fragment 232 
+	-1	703	-
+> Fragment 233 
+	0	434	-
+> Fragment 234 
+	-2	702	-
+> Fragment 235 
+	-2	702	-
+> Fragment 236 
+	0	629	-
+> Fragment 237 
+	76	702	+
+> Fragment 238 
+	-1	703	+
+> Fragment 239 
+> Fragment 240 
+	137	703	-
+> Fragment 241 
+	0	512	-
+> Fragment 242 
+	602	703	+
+	0	593	+
+> Fragment 243 
+	54	506	+
+> Fragment 244 
+	-1	640	+
+> Fragment 245 
+	-2	666	+
+> Fragment 246 
+	-1	289	+
+	298	702	-
+> Fragment 247 
+	-2	702	+
+> Fragment 248 
+	-1	271	-
+	307	702	-
+> Fragment 249 
+	0	623	+
+> Fragment 250 
+	76	702	+
+> Fragment 251 
+	81	701	-
+> Fragment 252 
+	294	608	-
+	-2	282	-
+> Fragment 253 
+	-2	201	+
+	322	702	+
+> Fragment 254 
+	-1	703	+
+> Fragment 255 
+	70	702	+
+> Fragment 256 
+	-2	702	+
+> Fragment 257 
+	-2	702	+
+> Fragment 258 
+	-1	703	+
+> Fragment 259 
+	-2	702	-
+> Fragment 260 
+	397	702	+
+	-1	400	+
+> Fragment 261 
+	145	675	-
+> Fragment 262 
+	559	702	+
+	-1	520	+
+> Fragment 263 
+	0	701	-
+> Fragment 264 
+	-2	702	-
+> Fragment 265 
+	-2	702	-
+> Fragment 266 
+	-2	702	+
+> Fragment 267 
+	-1	265	+
+	512	703	+
+> Fragment 268 
+	-2	174	+
+	515	703	+
+> Fragment 269 
+	-2	702	-
+> Fragment 270 
+	-2	702	+
+> Fragment 271 
+	0	701	+
+> Fragment 272 
+	160	702	+
+> Fragment 273 
+	-2	702	+
+> Fragment 274 
+	206	703	+
+> Fragment 275 
+	-1	703	-
+> Fragment 276 
+	309	701	+
+	-2	192	-
+> Fragment 277 
+	0	701	+
+> Fragment 278 
+	0	506	-
+	556	702	-
+> Fragment 279 
+	0	146	-
+	162	701	-
+> Fragment 280 
+	0	167	+
+> Fragment 281 
+	-2	186	+
+	250	702	+
+> Fragment 282 
+	56	634	-
+	603	701	-
+> Fragment 283 
+	110	703	+
+> Fragment 284 
+	0	431	+
+> Fragment 285 
+	-1	703	-
+> Fragment 286 
+	-2	417	+
+	426	701	+
+> Fragment 287 
+	-2	282	+
+	405	701	-
+> Fragment 288 
+	40	651	+
+> Fragment 289 
+	-1	529	+
+> Fragment 290 
+	-2	291	+
+	378	575	+
+	618	701	+
+> Fragment 291 
+	369	701	+
+> Fragment 292 
+	-2	702	+
+> Fragment 293 
+	210	701	-
+> Fragment 294 
+	-1	538	-
+	579	701	-
+> Fragment 295 
+	190	702	+
+	-1	193	+
+> Fragment 296 
+	-1	172	-
+	169	702	-
+> Fragment 297 
+	0	701	+
+> Fragment 298 
+	-1	289	+
+	629	703	-
+> Fragment 299 
+	-1	703	-
+> Fragment 300 
+	48	701	+
+> Fragment 301 
+	-1	703	-
+> Fragment 302 
+	10	354	+
+	413	703	+
+> Fragment 303 
+	0	701	-
+> Fragment 304 
+	0	401	+
+	564	701	+
+> Fragment 305 
+	-2	663	-
+> Fragment 306 
+	269	499	+
+	0	80	-
+> Fragment 307 
+	0	701	+
+> Fragment 308 
+	0	701	+
+> Fragment 309 
+	-2	525	-
+	535	702	-
+> Fragment 310 
+	419	703	+
+> Fragment 311 
+	453	701	+
+	-2	234	-
+> Fragment 312 
+	374	703	+
+> Fragment 313 
+	-2	201	+
+	322	702	+
+> Fragment 314 
+	167	409	-
+	-2	156	-
+> Fragment 315 
+	388	702	+
+	0	305	+
+> Fragment 316 
+	-2	126	+
+> Fragment 317 
+	490	702	+
+	-1	466	+
+> Fragment 318 
+	0	458	-
+> Fragment 319 
+	0	146	-
+	189	701	-
+> Fragment 320 
+	-2	513	+
+> Fragment 321 
+	7	552	-
+> Fragment 322 
+	0	701	-
+> Fragment 323 
+	597	701	-
+	-2	600	-
+> Fragment 324 
+	-1	430	+
+	434	703	+
+> Fragment 325 
+	101	703	-
+> Fragment 326 
+	0	476	-
+> Fragment 327 
+	-1	703	+
+> Fragment 328 
+	-2	702	-
+> Fragment 329 
+	-2	420	-
+> Fragment 330 
+	225	701	+
+> Fragment 331 
+	-1	190	+
+	257	703	+
+> Fragment 332 
+	286	702	+
+	-1	274	+
+> Fragment 333 
+	395	703	-
+> Fragment 334 
+	432	701	+
+> Fragment 335 
+	500	703	+
+> Fragment 336 
+	-2	141	+
+	336	509	+
+> Fragment 337 
+	-2	207	+
+	380	703	-
+> Fragment 338 
+	-1	703	-
+> Fragment 339 
+	0	701	+
+> Fragment 340 
+	202	702	+
+> Fragment 341 
+	0	701	-
+> Fragment 342 
+	0	701	+
+> Fragment 343 
+	-2	117	+
+	107	703	+
+> Fragment 344 
+	220	702	+
+> Fragment 345 
+	-2	702	-
+> Fragment 346 
+	-1	703	+
+> Fragment 347 
+	-1	133	-
+> Fragment 348 
+	-1	703	-
+> Fragment 349 
+	-2	654	+
+> Fragment 350 
+	0	446	+
+> Fragment 351 
+	-2	702	+
+> Fragment 352 
+	-2	702	+
+> Fragment 353 
+	-1	703	-
+> Fragment 354 
+	-2	363	+
+> Fragment 355 
+	0	701	-
+> Fragment 356 
+> Fragment 357 
+	-2	702	-
+> Fragment 358 
+	164	703	-
+> Fragment 359 
+	179	703	+
+> Fragment 360 
+	596	703	+
+	0	548	+
+> Fragment 361 
+	-2	702	+
+> Fragment 362 
+	-1	703	+
+> Fragment 363 
+	167	535	-
+	-2	141	-
+> Fragment 364 
+	368	703	-
+	0	290	-
+> Fragment 365 
+	0	701	+
+> Fragment 366 
+	420	701	-
+	-2	426	-
+> Fragment 367 
+	0	221	-
+	264	701	-
+> Fragment 368 
+	-1	703	-
+> Fragment 369 
+	0	701	+
+> Fragment 370 
+	-2	621	+
+> Fragment 371 
+	135	701	+
+> Fragment 372 
+	-2	702	+
+> Fragment 373 
+	0	428	+
+> Fragment 374 
+	615	701	+
+	-2	267	-
+> Fragment 375 
+	0	701	-
+> Fragment 376 
+	-2	702	-
+> Fragment 377 
+	452	703	-
+> Fragment 378 
+	-1	703	+
+> Fragment 379 
+	545	703	-
+	-2	279	-
+> Fragment 380 
+	-2	702	-
+> Fragment 381 
+	-2	702	+
+> Fragment 382 
+	0	701	+
+> Fragment 383 
+	0	137	+
+	138	518	-
+> Fragment 384 
+	387	701	-
+> Fragment 385 
+> Fragment 386 
+	304	702	+
+	-2	150	-
+> Fragment 387 
+	115	624	+
+> Fragment 388 
+	-2	462	+
+	470	703	-
+> Fragment 389 
+	454	702	+
+	0	158	-
+> Fragment 390 
+	274	702	+
+> Fragment 391 
+	-2	702	-
+> Fragment 392 
+	-1	703	-
+> Fragment 393 
+	592	702	+
+	-1	505	+
+> Fragment 394 
+	-1	703	+
+> Fragment 395 
+	-2	702	-
+> Fragment 396 
+	-1	703	+
+> Fragment 397 
+	0	701	+
+> Fragment 398 
+	229	402	+
+> Fragment 399 
+	572	703	-
+	-2	498	-
+> Fragment 400 
+	171	701	+
+> Fragment 401 
+	179	703	+
+> Fragment 402 
+	52	702	+
+> Fragment 403 
+	-1	229	-
+	267	701	-
+> Fragment 404 
+	0	701	-
+> Fragment 405 
+	227	703	+
+	0	200	+
+> Fragment 406 
+	-2	702	+
+> Fragment 407 
+	422	703	+
+	-2	261	-
+> Fragment 408 
+	-2	702	-
+> Fragment 409 
+	-1	703	+
+> Fragment 410 
+	-2	702	+
+> Fragment 411 
+	-2	444	-
+	451	702	-
+> Fragment 412 
+	-1	703	+
+> Fragment 413 
+	427	702	+
+> Fragment 414 
+	-2	441	+
+	524	703	+
+> Fragment 415 
+	0	701	+
+> Fragment 416 
+	0	701	-
+> Fragment 417 
+	-1	553	-
+> Fragment 418 
+	-1	367	-
+	354	701	-
+> Fragment 419 
+	-2	297	+
+	433	702	+
+> Fragment 420 
+	455	703	-
+	0	440	-
+> Fragment 421 
+	-2	690	+
+> Fragment 422 
+> Fragment 423 
+	-2	492	+
+	470	703	-
+> Fragment 424 
+	-1	703	+
+> Fragment 425 
+	-2	375	+
+	481	702	-
+> Fragment 426 
+	-2	702	-
+> Fragment 427 
+	0	278	-
+	412	702	-
+> Fragment 428 
+	-2	636	+
+> Fragment 429 
+	-2	288	-
+> Fragment 430 
+	-2	702	+
+> Fragment 431 
+	133	702	+
+> Fragment 432 
+	0	80	+
+	243	701	+
+> Fragment 433 
+	0	701	+
+> Fragment 434 
+	0	572	-
+> Fragment 435 
+	0	701	-
+> Fragment 436 
+	-1	703	+
+> Fragment 437 
+	335	592	-
+	-2	186	-
+> Fragment 438 
+	247	702	+
+> Fragment 439 
+	-2	270	+
+	351	701	+
+> Fragment 440 
+	0	701	-
+> Fragment 441 
+	-1	703	-
+> Fragment 442 
+	196	702	+
+> Fragment 443 
+	-1	169	+
+	170	550	-
+> Fragment 444 
+	-2	198	+
+	195	701	+
+> Fragment 445 
+	0	701	-
+> Fragment 446 
+	0	701	-
+> Fragment 447 
+	-2	501	-
+> Fragment 448 
+	-2	306	+
+	430	702	-
+> Fragment 449 
+	496	702	+
+	0	479	+
+> Fragment 450 
+	0	239	-
+	265	633	-
+> Fragment 451 
+	-1	703	-
+> Fragment 452 
+	-2	513	-
+> Fragment 453 
+	-1	496	+
+> Fragment 454 
+	-2	702	+
+> Fragment 455 
+	142	651	+
+> Fragment 456 
+	-2	555	+
+> Fragment 457 
+	-1	301	-
+	282	701	-
+> Fragment 458 
+	328	702	+
+> Fragment 459 
+	432	701	-
+> Fragment 460 
+	519	701	+
+> Fragment 461 
+	-2	702	+
+> Fragment 462 
+	-2	285	+
+	355	702	+
+> Fragment 463 
+	-1	175	+
+	254	703	-
+> Fragment 464 
+	-2	204	+
+	332	703	-
+> Fragment 465 
+	-1	526	+
+	630	701	+
+> Fragment 466 
+	0	152	+
+	222	602	+
+> Fragment 467 
+	395	604	+
+	0	356	+
+> Fragment 468 
+	-2	702	+
+> Fragment 469 
+	-2	702	+
+> Fragment 470 
+	445	702	+
+	0	452	+
+> Fragment 471 
+	58	702	-
+> Fragment 472 
+	517	702	+
+	-1	472	+
+> Fragment 473 
+	-2	702	-
+> Fragment 474 
+	446	703	+
+	-2	159	-
+> Fragment 475 
+	343	702	-
+> Fragment 476 
+	-2	702	-
+> Fragment 477 
+	411	701	+
+	-2	372	-
+> Fragment 478 
+	0	464	+
+	473	703	-
+> Fragment 479 
+	16	702	+
+> Fragment 480 
+	-1	703	-
+> Fragment 481 
+	62	448	+
+	535	702	-
+> Fragment 482 
+	160	702	+
+	0	98	+
+> Fragment 483 
+	-1	703	+
+> Fragment 484 
+	-2	702	+
+> Fragment 485 
+> Fragment 486 
+> Fragment 487 
+	0	701	+
+> Fragment 488 
+	-1	274	+
+	413	703	+
+> Fragment 489 
+	0	701	-
+> Fragment 490 
+	-2	702	-
+> Fragment 491 
+	-2	702	+
+> Fragment 492 
+	134	703	-
+> Fragment 493 
+	182	703	-
+> Fragment 494 
+	413	703	+
+> Fragment 495 
+	-1	478	-
+	497	703	-
+> Fragment 496 
+	0	701	+
+> Fragment 497 
+	-1	703	-
+> Fragment 498 
+	-1	703	-
+> Fragment 499 
+	567	701	+
+	-2	312	-
+> Fragment 500 
+	-2	360	+
+	532	702	+
+> Fragment 501 
+	513	701	-
+	76	489	-
+> Fragment 502 
+	-2	702	+
+> Fragment 503 
+	38	310	-
+	270	701	-
+> Fragment 504 
+	-2	702	+
+> Fragment 505 
+	-1	229	+
+	305	703	-
+> Fragment 506 
+	69	701	+
+> Fragment 507 
+	-1	565	+
+> Fragment 508 
+	-1	382	-
+	432	701	-
+> Fragment 509 
+	-1	703	-
+> Fragment 510 
+	-1	703	-
+> Fragment 511 
+	-1	373	+
+	531	701	-
+> Fragment 512 
+	-1	157	-
+	176	703	-
+> Fragment 513 
+	367	702	-
+> Fragment 514 
+	0	701	-
+> Fragment 515 
+	-2	702	-
+> Fragment 516 
+	505	702	+
+	-1	244	-
+> Fragment 517 
+	510	701	+
+	-2	291	-
+> Fragment 518 
+	0	701	+
+> Fragment 519 
+	-2	702	+
+> Fragment 520 
+	-2	702	-
+> Fragment 521 
+	-2	702	+
+> Fragment 522 
+	-2	174	+
+	466	702	+
+> Fragment 523 
+	-1	703	+
+> Fragment 524 
+	-2	702	+
+> Fragment 525 
+	600	701	+
+	-1	337	-
+> Fragment 526 
+	11	265	+
+	417	701	+
+> Fragment 527 
+	-1	703	-
+> Fragment 528 
+	-2	375	-
+> Fragment 529 
+	-1	703	-
+> Fragment 530 
+	-1	703	-
+> Fragment 531 
+	117	701	-
+> Fragment 532 
+	130	660	-
+> Fragment 533 
+	0	431	-
+	504	701	-
+> Fragment 534 
+	-2	702	+
+> Fragment 535 
+	75	701	-
+> Fragment 536 
+	0	701	+
+> Fragment 537 
+> Fragment 538 
+	138	701	+
+> Fragment 539 
+	115	645	+
+> Fragment 540 
+	-2	702	-
+> Fragment 541 
+	99	701	-
+> Fragment 542 
+	-2	702	-
+> Fragment 543 
+	-1	358	+
+	355	702	-
+> Fragment 544 
+	-2	702	+
+> Fragment 545 
+	-2	702	+
+> Fragment 546 
+	-1	439	-
+	453	701	-
+> Fragment 547 
+	-1	541	+
+	594	701	-
+> Fragment 548 
+	-1	703	-
+> Fragment 549 
+	0	701	-
+> Fragment 550 
+	-2	702	-
+> Fragment 551 
+	-1	703	+
+> Fragment 552 
+	0	137	+
+	138	518	-
+> Fragment 553 
+	-1	316	+
+	288	701	+
+> Fragment 554 
+	-2	390	+
+	397	702	-
+> Fragment 555 
+	0	419	-
+> Fragment 556 
+	-1	484	-
+> Fragment 557 
+	189	701	-
+	-2	192	-
+> Fragment 558 
+	-1	136	+
+	119	703	-
+> Fragment 559 
+	-2	702	-
+> Fragment 560 
+	-2	702	+
+> Fragment 561 
+	-2	621	-
+> Fragment 562 
+> Fragment 563 
+	535	702	+
+	-1	340	+
+> Fragment 564 
+	198	701	+
+> Fragment 565 
+	-1	703	-
+> Fragment 566 
+	0	701	-
+> Fragment 567 
+	-1	124	+
+	177	701	-
+> Fragment 568 
+	0	701	+
+> Fragment 569 
+	-1	703	-
+> Fragment 570 
+	191	703	+
+> Fragment 571 
+	-1	703	-
+> Fragment 572 
+	41	451	-
+	472	702	-
+> Fragment 573 
+	116	703	-
+> Fragment 574 
+	-1	634	+
+> Fragment 575 
+	-2	510	-
+	520	702	-
+> Fragment 576 
+	0	419	+
+	445	702	-
+> Fragment 577 
+	-2	510	+
+> Fragment 578 
+	0	611	-
+> Fragment 579 
+	0	701	-
+> Fragment 580 
+	0	530	-
+	499	702	-
+> Fragment 581 
+	58	702	+
+> Fragment 582 
+	0	542	+
+> Fragment 583 
+	-2	702	-
+> Fragment 584 
+	634	702	+
+	122	604	+
+	0	83	+
+> Fragment 585 
+	0	239	-
+> Fragment 586 
+	-1	661	+
+> Fragment 587 
+	297	701	-
+	-2	294	-
+> Fragment 588 
+	-1	703	+
+> Fragment 589 
+	0	566	-
+> Fragment 590 
+	0	701	-
+> Fragment 591 
+	-2	702	+
+> Fragment 592 
+	-1	139	+
+	157	702	-
+> Fragment 593 
+	-1	295	-
+	276	701	-
+> Fragment 594 
+	0	347	-
+	369	701	-
+> Fragment 595 
+	-1	358	+
+	368	703	+
+> Fragment 596 
+	535	702	+
+	0	236	+
+> Fragment 597 
+	205	702	-
+> Fragment 598 
+	0	701	+
+> Fragment 599 
+	173	703	+
+	0	194	+
+> Fragment 600 
+	-1	703	+
+> Fragment 601 
+	561	701	-
+	-2	483	-
+> Fragment 602 
+	-1	370	-
+	370	702	-
+> Fragment 603 
+	0	701	+
+> Fragment 604 
+	-2	702	+
+> Fragment 605 
+	-1	301	-
+	423	701	-
+> Fragment 606 
+	-2	600	-
+> Fragment 607 
+	-2	309	+
+	303	701	+
+> Fragment 608 
+	0	701	-
+> Fragment 609 
+	259	702	+
+	0	218	+
+> Fragment 610 
+	550	702	+
+	-1	511	+
+> Fragment 611 
+	84	701	+
+> Fragment 612 
+	-1	634	-
+> Fragment 613 
+	-2	432	+
+> Fragment 614 
+	-2	273	+
+	312	701	+
+> Fragment 615 
+	-2	702	-
+> Fragment 616 
+	17	703	-
+> Fragment 617 
+	251	703	+
+> Fragment 618 
+	0	407	+
+	432	683	+
+> Fragment 619 
+	-1	115	+
+	202	702	-
+> Fragment 620 
+	-2	702	-
+> Fragment 621 
+	-1	145	+
+	215	595	+
+> Fragment 622 
+	-1	523	-
+> Fragment 623 
+	0	449	+
+	481	702	-
+> Fragment 624 
+	0	161	+
+	177	701	+
+> Fragment 625 
+	-2	639	+
+> Fragment 626 
+	-1	703	+
+> Fragment 627 
+	-2	555	-
+> Fragment 628 
+	-1	214	-
+	297	701	-
+> Fragment 629 
+	-2	453	+
+	490	702	+
+> Fragment 630 
+	158	571	-
+	595	702	-
+> Fragment 631 
+	23	502	-
+> Fragment 632 
+	500	703	+
+	0	530	-
+> Fragment 633 
+	-1	703	-
+> Fragment 634 
+	-2	477	+
+	613	702	+
+> Fragment 635 
+	-1	703	+
+> Fragment 636 
+	-1	703	-
+> Fragment 637 
+	0	584	-
+> Fragment 638 
+	200	703	-
+	-2	156	-
+> Fragment 639 
+	-2	702	-
+> Fragment 640 
+	399	701	+
+> Fragment 641 
+	44	703	+
+> Fragment 642 
+	0	347	-
+	358	702	-
+> Fragment 643 
+	131	703	+
+> Fragment 644 
+	211	702	+
+> Fragment 645 
+	-2	702	+
+> Fragment 646 
+	-2	702	-
+> Fragment 647 
+	-2	180	+
+	387	701	+
+> Fragment 648 
+	0	701	+
+> Fragment 649 
+	-2	702	+
+> Fragment 650 
+	-1	703	-
+> Fragment 651 
+	274	702	-
+> Fragment 652 
+	-1	241	+
+	261	605	+
+> Fragment 653 
+	-1	670	-
+> Fragment 654 
+	-2	702	+
+> Fragment 655 
+	0	158	-
+	192	701	-
+> Fragment 656 
+	0	674	+
+> Fragment 657 
+	0	701	-
+> Fragment 658 
+	-1	223	-
+> Fragment 659 
+	-1	82	-
+	175	702	-
+> Fragment 660 
+	526	702	+
+	0	449	+
+> Fragment 661 
+	0	131	-
+	135	701	-
+> Fragment 662 
+	-2	702	-
+> Fragment 663 
+	105	701	+
+> Fragment 664 
+	239	406	-
+	417	659	-
+> Fragment 665 
+	-2	702	-
+> Fragment 666 
+	-1	667	+
+> Fragment 667 
+	128	703	-
+> Fragment 668 
+	0	701	-
+> Fragment 669 
+	-2	582	+
+> Fragment 670 
+	-2	534	+
+	544	702	+
+> Fragment 671 
+	0	77	-
+	193	648	-
+> Fragment 672 
+	-1	703	-
+> Fragment 673 
+	0	239	+
+	375	701	+
+> Fragment 674 
+	0	563	-
+> Fragment 675 
+	-1	598	-
+> Fragment 676 
+	617	703	-
+> Fragment 677 
+	0	701	+
+> Fragment 678 
+	0	575	-
+> Fragment 679 
+	-2	702	-
+> Fragment 680 
+	-2	270	+
+	331	702	+
+> Fragment 681 
+	-1	703	+
+> Fragment 682 
+	156	701	-
+> Fragment 683 
+	-2	702	-
+> Fragment 684 
+	484	702	+
+	-2	153	-
+> Fragment 685 
+	-1	703	+
+> Fragment 686 
+	0	641	+
+> Fragment 687 
+	0	701	-
+> Fragment 688 
+	-2	630	-
+> Fragment 689 
+	0	701	+
+> Fragment 690 
+> Fragment 691 
+	94	702	+
+> Fragment 692 
+	-1	703	+
+> Fragment 693 
+	-2	702	+
+> Fragment 694 
+	-1	448	+
+	527	703	-
+> Fragment 695 
+	85	630	-
+> Fragment 696 
+	-1	250	+
+	332	703	+
+> Fragment 697 
+	-2	213	+
+	210	701	+
+> Fragment 698 
+	185	481	-
+	484	702	-
+> Fragment 699 
+	-2	261	+
+	262	642	-
+> Fragment 700 
+	560	703	-
+	0	593	-
+> Fragment 701 
+	61	348	+
+	418	702	-
+> Fragment 702 
+	0	170	+
+> Fragment 703 
+	262	702	+
+	0	155	+
+> Fragment 704 
+	164	703	-
+> Fragment 705 
+> Fragment 706 
+	0	608	-
+> Fragment 707 
+	0	539	+
+	585	701	+
+> Fragment 708 
+> Fragment 709 
+	209	703	+
+> Fragment 710 
+	289	702	+
+	-1	292	+
+> Fragment 711 
+	-1	325	-
+> Fragment 712 
+	0	701	+
+> Fragment 713 
+	-1	442	+
+	456	701	+
+> Fragment 714 
+	0	701	-
+> Fragment 715 
+	0	701	+
+> Fragment 716 
+	9	701	-
+> Fragment 717 
+	-1	544	+
+	551	703	+
+> Fragment 718 
+	-1	703	+
+> Fragment 719 
+	0	701	+
+> Fragment 720 
+	337	702	+
+	-1	343	+
+> Fragment 721 
+	-1	610	+
+> Fragment 722 
+	478	702	+
+> Fragment 723 
+	0	281	-
+	387	701	-
+> Fragment 724 
+	-1	703	+
+> Fragment 725 
+	174	647	+
+> Fragment 726 
+	-1	187	-
+	539	703	-
+	199	513	-
+> Fragment 727 
+	-2	117	+
+	157	702	+
+> Fragment 728 
+	577	702	+
+	0	155	-
+> Fragment 729 
+	-2	702	+
+> Fragment 730 
+	-1	703	-
+> Fragment 731 
+	414	701	-
+> Fragment 732 
+	405	701	+
+	-1	70	-
+> Fragment 733 
+	211	702	+
+> Fragment 734 
+	-2	666	-
+> Fragment 735 
+	-2	702	+
+> Fragment 736 
+	608	703	+
+	-2	447	-
+> Fragment 737 
+	-1	175	+
+	302	640	+
+> Fragment 738 
+	197	703	+
+	0	203	+
+> Fragment 739 
+	0	701	-
+> Fragment 740 
+	-2	588	-
+> Fragment 741 
+	-1	703	-
+> Fragment 742 
+	-1	376	-
+> Fragment 743 
+	-1	703	-
+> Fragment 744 
+	0	701	+
+> Fragment 745 
+	64	510	-
+	544	702	-
+> Fragment 746 
+	290	703	+
+	0	263	+
+> Fragment 747 
+	-2	702	+
+> Fragment 748 
+	208	405	+
+	448	702	+
+	-1	121	+
+> Fragment 749 
+	-1	703	+
+> Fragment 750 
+	-2	69	+
+	629	703	+
+> Fragment 751 
+	-1	364	-
+	369	701	-
+> Fragment 752 
+	-2	138	+
+	310	702	+
+> Fragment 753 
+	615	701	-
+	-2	522	-
+> Fragment 754 
+	0	701	+
+> Fragment 755 
+	239	703	+
+> Fragment 756 
+	134	703	+
+> Fragment 757 
+	466	702	+
+> Fragment 758 
+	-2	702	+
+> Fragment 759 
+	441	701	+
+	-1	181	-
+> Fragment 760 
+	-1	505	+
+> Fragment 761 
+	478	702	+
+	-1	385	+
+> Fragment 762 
+	585	701	+
+	-1	448	-
+> Fragment 763 
+	-2	669	+
+> Fragment 764 
+	0	437	-
+> Fragment 765 
+> Fragment 766 
+	220	702	+
+	0	125	+
+> Fragment 767 
+	-1	703	+
+> Fragment 768 
+	-1	334	+
+	335	703	-
+> Fragment 769 
+	-1	175	-
+	288	701	-
+> Fragment 770 
+	0	701	+
+> Fragment 771 
+	59	703	-
+> Fragment 772 
+	353	703	-
+> Fragment 773 
+	11	703	-
+> Fragment 774 
+> Fragment 775 
+	329	703	-
+	123	326	-
+> Fragment 776 
+	215	703	-
+> Fragment 777 
+	44	298	-
+	354	701	-
+> Fragment 778 
+	-1	703	+
+> Fragment 779 
+	-1	637	-
+> Fragment 780 
+	1	504	-
+	520	702	-
+> Fragment 781 
+	-1	364	+
+	375	701	-
+> Fragment 782 
+	-2	159	-
+> Fragment 783 
+	-2	606	+
+> Fragment 784 
+	-1	703	-
+> Fragment 785 
+	-2	702	+
+> Fragment 786 
+	-1	523	-
+> Fragment 787 
+	-2	702	+
+> Fragment 788 
+	588	701	+
+	0	362	-
+> Fragment 789 
+	0	359	-
+> Fragment 790 
+	0	701	-
+> Fragment 791 
+	-2	702	-
+> Fragment 792 
+	262	699	+
+	-1	256	+
+> Fragment 793 
+	-1	703	-
+> Fragment 794 
+	-2	648	-
+> Fragment 795 
+	0	701	+
+> Fragment 796 
+	0	596	-
+> Fragment 797 
+	-1	553	-
+	569	703	-
+> Fragment 798 
+	100	702	+
+> Fragment 799 
+	0	92	-
+	142	702	-
+> Fragment 800 
+	587	703	+
+	0	371	+
+> Fragment 801 
+	0	575	+
+> Fragment 802 
+	-2	96	+
+	568	702	+
+	175	474	-
+> Fragment 803 
+	-2	702	+
+> Fragment 804 
+	0	701	+
+> Fragment 805 
+	0	668	+
+> Fragment 806 
+	337	702	+
+	-1	232	-
+> Fragment 807 
+	-1	703	+
+> Fragment 808 
+	43	663	-
+> Fragment 809 
+	-1	304	+
+	467	703	+
+> Fragment 810 
+	161	703	+
+	0	149	+
+> Fragment 811 
+	366	701	+
+> Fragment 812 
+	0	701	-
+> Fragment 813 
+	-1	703	+
+> Fragment 814 
+	-2	702	+
+> Fragment 815 
+	-1	703	+
+> Fragment 816 
+	157	702	-
+> Fragment 817 
+	0	257	-
+	250	702	-
+> Fragment 818 
+	-2	249	+
+	274	609	+
+> Fragment 819 
+	-2	702	+
+> Fragment 820 
+	455	703	+
+	0	260	+
+> Fragment 821 
+	-1	703	+
+> Fragment 822 
+	-2	702	-
+> Fragment 823 
+	0	626	+
+> Fragment 824 
+	-1	535	+
+> Fragment 825 
+	0	701	-
+> Fragment 826 
+	557	703	+
+	0	527	+
+> Fragment 827 
+	100	702	+
+> Fragment 828 
+	0	389	-
+	591	701	-
+> Fragment 829 
+	373	702	+
+> Fragment 830 
+	53	703	+
+> Fragment 831 
+	-2	702	+
+> Fragment 832 
+	40	702	-
+> Fragment 833 
+	65	703	+
+> Fragment 834 
+	0	701	-
+> Fragment 835 
+	218	703	-
+> Fragment 836 
+	-2	174	+
+	309	701	+
+> Fragment 837 
+	-1	256	-
+	253	702	-
+> Fragment 838 
+	131	703	+
+> Fragment 839 
+	360	701	-
+	-2	357	-
+> Fragment 840 
+	19	702	+
+> Fragment 841 
+	-1	133	-
+	353	703	-
+> Fragment 842 
+	-2	702	-
+> Fragment 843 
+	0	701	-
+> Fragment 844 
+	0	701	+
+> Fragment 845 
+	-1	703	-
+> Fragment 846 
+	-1	703	+
+> Fragment 847 
+	-1	631	-
+> Fragment 848 
+	0	701	-
+> Fragment 849 
+> Fragment 850 
+	-1	703	+
+> Fragment 851 
+	0	218	-
+	342	701	-
+> Fragment 852 
+	29	703	+
+> Fragment 853 
+	0	527	-
+> Fragment 854 
+	607	702	+
+	12	278	-
+> Fragment 855 
+	-2	702	-
+> Fragment 856 
+	174	701	-
+> Fragment 857 
+	244	702	+
+	0	203	+
+> Fragment 858 
+	0	701	-
+> Fragment 859 
+	-1	703	-
+> Fragment 860 
+	-2	702	+
+> Fragment 861 
+	0	125	+
+	122	703	-
+> Fragment 862 
+	0	701	+
+> Fragment 863 
+	-2	138	+
+	190	702	-
+> Fragment 864 
+	590	703	-
+	36	578	-
+> Fragment 865 
+	-1	187	+
+	197	703	+
+> Fragment 866 
+	0	353	+
+	350	703	-
+> Fragment 867 
+	-1	703	+
+> Fragment 868 
+	-2	702	+
+> Fragment 869 
+	-1	433	-
+	420	701	-
+> Fragment 870 
+	-1	703	+
+> Fragment 871 
+	201	701	-
+> Fragment 872 
+	0	701	+
+> Fragment 873 
+	611	703	+
+> Fragment 874 
+	-1	148	+
+	188	703	+
+> Fragment 875 
+	0	377	-
+	504	701	-
+> Fragment 876 
+	205	702	+
+> Fragment 877 
+	188	460	-
+	420	701	-
+> Fragment 878 
+	-1	550	-
+> Fragment 879 
+	-2	249	+
+> Fragment 880 
+	68	703	-
+> Fragment 881 
+	143	394	-
+	398	703	-
+> Fragment 882 
+	-1	703	+
+> Fragment 883 
+	602	703	+
+	-1	130	-
+> Fragment 884 
+	0	338	-
+	453	701	-
+> Fragment 885 
+	-2	216	+
+	279	701	-
+> Fragment 886 
+	0	152	-
+	226	702	-
+> Fragment 887 
+	-2	75	+
+	87	701	+
+> Fragment 888 
+	87	356	+
+	407	703	-
+> Fragment 889 
+	42	377	+
+	374	703	-
+> Fragment 890 
+	-2	681	+
+> Fragment 891 
+	526	702	+
+	-1	511	+
+> Fragment 892 
+	0	701	-
+> Fragment 893 
+	189	701	-
+> Fragment 894 
+	-2	702	+
+> Fragment 895 
+	62	508	-
+	542	703	-
+> Fragment 896 
+	-1	184	-
+	199	453	-
+> Fragment 897 
+	0	665	+
+> Fragment 898 
+	0	701	+
+> Fragment 899 
+	-2	579	+
+> Fragment 900 
+	-2	633	+
+> Fragment 901 
+	-1	385	+
+	469	702	-
+> Fragment 902 
+> Fragment 903 
+	-1	703	-
+> Fragment 904 
+	-1	703	-
+> Fragment 905 
+	-1	496	+
+	558	701	-
+> Fragment 906 
+	-2	702	+
+> Fragment 907 
+	-2	702	+
+> Fragment 908 
+	-2	702	+
+> Fragment 909 
+	0	425	+
+	469	702	-
+> Fragment 910 
+	0	701	+
+> Fragment 911 
+	-2	702	+
+> Fragment 912 
+	29	703	-
+> Fragment 913 
+	487	702	+
+	-1	232	-
+> Fragment 914 
+	-2	159	-
+	193	702	-
+> Fragment 915 
+	-2	267	+
+	369	701	+
+> Fragment 916 
+	-1	292	-
+	385	702	-
+> Fragment 917 
+	227	703	+
+	0	230	+
+> Fragment 918 
+	-1	139	+
+	494	703	+
+	144	452	+
+> Fragment 919 
+> Fragment 920 
+	-1	703	+
+> Fragment 921 
+	572	703	-
+	0	473	-
+> Fragment 922 
+	124	702	-
+> Fragment 923 
+	0	389	-
+	364	702	-
+> Fragment 924 
+	75	656	+
+> Fragment 925 
+	-1	76	+
+	245	703	+
+> Fragment 926 
+	45	701	+
+> Fragment 927 
+	-1	703	+
+> Fragment 928 
+	0	170	+
+	291	701	+
+> Fragment 929 
+	236	703	+
+> Fragment 930 
+	-2	309	-
+> Fragment 931 
+	-2	702	-
+> Fragment 932 
+	-2	537	+
+> Fragment 933 
+	-2	210	+
+	240	701	+
+> Fragment 934 
+	197	703	+
+> Fragment 935 
+	-2	564	+
+> Fragment 936 
+	-1	661	+
+> Fragment 937 
+	-1	118	+
+	259	702	-
+> Fragment 938 
+	-1	703	-
+> Fragment 939 
+	0	701	-
+> Fragment 940 
+	-2	702	+
+> Fragment 941 
+	0	446	+
+> Fragment 942 
+	0	701	+
+> Fragment 943 
+	248	703	+
+	0	227	+
+> Fragment 944 
+	51	662	+
+> Fragment 945 
+	0	701	+
+> Fragment 946 
+	-2	573	+
+> Fragment 947 
+	-1	703	+
+> Fragment 948 
+	-2	441	+
+	432	701	+
+> Fragment 949 
+	-1	703	-
+> Fragment 950 
+	-1	106	-
+> Fragment 951 
+	-2	702	-
+> Fragment 952 
+	-1	703	-
+> Fragment 953 
+	0	701	+
+> Fragment 954 
+	0	701	-
+> Fragment 955 
+	528	701	-
+	154	438	-
+> Fragment 956 
+	0	701	+
+> Fragment 957 
+	-1	703	+
+> Fragment 958 
+	-1	172	+
+	199	702	-
+> Fragment 959 
+	511	702	+
+	0	560	+
+> Fragment 960 
+	226	702	+
+	-1	247	+
+> Fragment 961 
+	26	703	-
+> Fragment 962 
+	534	701	-
+	-2	537	-
+> Fragment 963 
+	214	702	+
+	-1	190	+
+> Fragment 964 
+	249	701	-
+> Fragment 965 
+	-1	376	-
+	473	703	-
+> Fragment 966 
+	0	521	+
+	565	702	-
+> Fragment 967 
+	0	647	+
+> Fragment 968 
+	-2	702	-
+> Fragment 969 
+	-2	111	+
+	105	701	+
+> Fragment 970 
+	203	703	+
+> Fragment 971 
+	103	702	-
+> Fragment 972 
+	-2	192	+
+	171	701	+
+> Fragment 973 
+	-2	702	-
+> Fragment 974 
+	69	701	-
+> Fragment 975 
+	-1	703	-
+> Fragment 976 
+	127	702	-
+> Fragment 977 
+	-2	702	-
+> Fragment 978 
+	-1	703	-
+> Fragment 979 
+	-2	702	+
+> Fragment 980 
+	-2	495	-
+	538	702	-
+> Fragment 981 
+	0	701	+
+> Fragment 982 
+	0	701	-
+> Fragment 983 
+	-1	703	-
+> Fragment 984 
+	-1	91	+
+> Fragment 985 
+	-2	117	+
+	124	702	-
+> Fragment 986 
+	134	703	+
+> Fragment 987 
+	-1	703	-
+> Fragment 988 
+	311	703	+
+> Fragment 989 
+	0	503	-
+> Fragment 990 
+	57	701	+
+> Fragment 991 
+	0	614	+
+> Fragment 992 
+	-1	628	-
+> Fragment 993 
+	205	471	-
+> Fragment 994 
+	-2	702	-
+> Fragment 995 
+	-1	703	-
+> Fragment 996 
+	0	161	+
+	168	701	-
+> Fragment 997 
+	-2	546	-
+	565	702	-
+> Fragment 998 
+	-2	702	-
+> Fragment 999 
+	-2	702	+
+> Fragment 1000 
+	-2	702	+
+> Fragment 1001 
+	-2	417	+
+	427	702	+
+> Fragment 1002 
+	-1	703	+
+> Fragment 1003 
+	599	703	-
+	-2	606	-
+> Fragment 1004 
+	491	703	-
+> Fragment 1005 
+	0	431	+
+	465	701	+
+> Fragment 1006 
+	563	703	+
+	0	521	+
+> Fragment 1007 
+	-2	105	+
+	247	702	+
+> Fragment 1008 
+	-1	460	-
+	521	703	-
+> Fragment 1009 
+	-1	220	+
+	293	703	+
+> Fragment 1010 
+	197	703	+
+> Fragment 1011 
+	-1	703	-
+> Fragment 1012 
+	-2	702	+
+> Fragment 1013 
+	169	702	+
+	-1	127	+
+> Fragment 1014 
+	0	701	-
+> Fragment 1015 
+	-2	630	+
+> Fragment 1016 
+	0	701	-
+> Fragment 1017 
+	540	701	-
+	-2	201	-
+> Fragment 1018 
+	101	703	+
+> Fragment 1019 
+	281	703	-
+	-2	243	-
+> Fragment 1020 
+	0	701	-
+> Fragment 1021 
+	22	669	-
+> Fragment 1022 
+	0	701	-
+> Fragment 1023 
+	108	701	+
+> Fragment 1024 
+	-2	423	+
+	464	703	+
+> Fragment 1025 
+	252	701	-
+	-2	183	-
+> Fragment 1026 
+	364	702	+
+	-1	385	+
+> Fragment 1027 
+	-1	703	-
+> Fragment 1028 
+	0	701	-
+> Fragment 1029 
+	-2	702	-
+> Fragment 1030 
+	488	703	+
+	0	416	+
+> Fragment 1031 
+	245	703	+
+	0	185	+
+> Fragment 1032 
+	38	340	-
+	337	702	-
+> Fragment 1033 
+	0	317	+
+	444	701	-
+> Fragment 1034 
+	-2	396	-
+	457	702	-
+> Fragment 1035 
+	0	701	+
+> Fragment 1036 
+	-2	282	+
+	440	703	-
+> Fragment 1037 
+	-1	703	+
+> Fragment 1038 
+	-1	589	-
+> Fragment 1039 
+	561	701	+
+> Fragment 1040 
+	83	694	+
+> Fragment 1041 
+	477	701	+
+	78	308	-
+> Fragment 1042 
+	39	701	-
+> Fragment 1043 
+	-2	555	+
+> Fragment 1044 
+	-1	253	-
+	320	703	-
+> Fragment 1045 
+	360	701	+
+> Fragment 1046 
+	-2	702	+
+> Fragment 1047 
+	0	701	+
+> Fragment 1048 
+	0	524	-
+> Fragment 1049 
+	445	702	+
+	0	422	+
+> Fragment 1050 
+> Fragment 1051 
+	114	701	-
+> Fragment 1052 
+	111	701	-
+> Fragment 1053 
+	0	305	-
+	307	702	-
+> Fragment 1054 
+	89	703	+
+> Fragment 1055 
+	-1	361	-
+	377	703	-
+> Fragment 1056 
+	0	458	-
+> Fragment 1057 
+	-1	703	+
+> Fragment 1058 
+	0	593	+
+> Fragment 1059 
+	-1	478	+
+	599	703	+
+> Fragment 1060 
+	-1	409	+
+	482	703	+
+> Fragment 1061 
+	-2	702	+
+> Fragment 1062 
+	0	440	+
+> Fragment 1063 
+	0	701	-
+> Fragment 1064 
+	0	701	-
+> Fragment 1065 
+	631	702	+
+	119	601	+
+	0	80	+
+> Fragment 1066 
+	-1	157	-
+> Fragment 1067 
+	0	80	-
+	249	701	-
+> Fragment 1068 
+	-2	147	+
+	177	701	+
+> Fragment 1069 
+	-2	411	+
+	518	703	+
+> Fragment 1070 
+	404	703	-
+> Fragment 1071 
+	-1	199	+
+	272	703	+
+> Fragment 1072 
+	0	182	-
+	163	702	-
+> Fragment 1073 
+	-1	565	+
+> Fragment 1074 
+	-1	379	-
+	408	701	-
+> Fragment 1075 
+	-1	520	-
+	590	703	-
+> Fragment 1076 
+	0	701	+
+> Fragment 1077 
+	-1	586	+
+> Fragment 1078 
+	276	701	+
+> Fragment 1079 
+	59	703	-
+> Fragment 1080 
+	-2	486	+
+	549	701	-
+> Fragment 1081 
+	0	701	-
+> Fragment 1082 
+	189	701	+
+> Fragment 1083 
+	168	446	-
+> Fragment 1084 
+	-2	702	+
+> Fragment 1085 
+	-2	594	-
+> Fragment 1086 
+	168	701	-
+	-2	165	-
+> Fragment 1087 
+	-2	702	-
+> Fragment 1088 
+	-1	583	+
+> Fragment 1089 
+	47	478	+
+	533	703	-
+> Fragment 1090 
+	209	703	-
+> Fragment 1091 
+	-2	420	+
+	459	701	+
+> Fragment 1092 
+	493	702	+
+	0	332	-
+> Fragment 1093 
+	0	701	-
+> Fragment 1094 
+	-1	703	+
+> Fragment 1095 
+	-2	663	+
+> Fragment 1096 
+	565	702	+
+	-1	568	+
+> Fragment 1097 
+	497	703	+
+	0	455	+
+> Fragment 1098 
+	549	701	+
+> Fragment 1099 
+	-1	703	+
+> Fragment 1100 
+	238	477	+
+> Fragment 1101 
+	0	701	+
+> Fragment 1102 
+	137	703	+
+	0	140	+
+> Fragment 1103 
+	82	702	+
+> Fragment 1104 
+	-2	702	-
+> Fragment 1105 
+	-2	405	+
+	532	702	+
+> Fragment 1106 
+	-1	442	-
+	557	703	-
+> Fragment 1107 
+	16	702	-
+> Fragment 1108 
+	-1	703	-
+> Fragment 1109 
+	-1	136	+
+	187	702	-
+> Fragment 1110 
+	0	107	+
+	272	703	-
+> Fragment 1111 
+	-2	702	-
+> Fragment 1112 
+	-2	201	+
+	221	703	+
+> Fragment 1113 
+	0	701	+
+> Fragment 1114 
+	-2	522	+
+> Fragment 1115 
+	-2	90	-
+	190	702	-
+> Fragment 1116 
+	-1	454	+
+	522	701	-
+> Fragment 1117 
+	-2	306	-
+> Fragment 1118 
+	-1	415	+
+	519	701	+
+> Fragment 1119 
+	-1	703	+
+> Fragment 1120 
+	184	702	+
+> Fragment 1121 
+	158	703	-
+> Fragment 1122 
+	422	703	+
+	0	413	+
+> Fragment 1123 
+	-2	144	+
+	185	703	+
+> Fragment 1124 
+	477	701	+
+	-1	316	-
+> Fragment 1125 
+	461	703	+
+	0	449	+
+> Fragment 1126 
+	-2	702	+
+> Fragment 1127 
+	94	702	-
+> Fragment 1128 
+	0	701	+
+> Fragment 1129 
+	251	703	+
+> Fragment 1130 
+	-2	267	+
+	276	701	+
+> Fragment 1131 
+	308	703	-
+	-2	321	-
+> Fragment 1132 
+	-1	508	-
+> Fragment 1133 
+	0	632	+
+> Fragment 1134 
+	0	701	+
+> Fragment 1135 
+	-2	702	-
+> Fragment 1136 
+	257	703	+
+> Fragment 1137 
+	-2	702	-
+> Fragment 1138 
+> Fragment 1139 
+	-1	703	-
+> Fragment 1140 
+	0	701	-
+> Fragment 1141 
+	0	701	+
+> Fragment 1142 
+	0	95	-
+> Fragment 1143 
+	0	695	+
+> Fragment 1144 
+	-1	703	-
+> Fragment 1145 
+	0	632	+
+> Fragment 1146 
+	0	701	-
+> Fragment 1147 
+	0	518	-
+> Fragment 1148 
+	-2	702	+
+> Fragment 1149 
+	0	566	-
+> Fragment 1150 
+	0	620	-
+> Fragment 1151 
+	183	701	-
+> Fragment 1152 
+	111	554	+
+	597	701	+
+> Fragment 1153 
+	-2	204	-
+	475	702	-
+> Fragment 1154 
+	218	604	-
+	-2	90	-
+> Fragment 1155 
+	-1	496	+
+	593	703	+
+> Fragment 1156 
+	-2	702	+
+> Fragment 1157 
+	216	701	-
+	-2	120	-
+> Fragment 1158 
+	107	703	-
+> Fragment 1159 
+	22	702	-
+> Fragment 1160 
+	-2	522	-
+> Fragment 1161 
+	-2	246	-
+> Fragment 1162 
+	0	701	-
+> Fragment 1163 
+	-2	702	+
+> Fragment 1164 
+	-1	703	+
+> Fragment 1165 
+	-2	702	-
+> Fragment 1166 
+	227	703	-
+	-2	78	-
+> Fragment 1167 
+	0	701	+
+> Fragment 1168 
+	0	131	+
+> Fragment 1169 
+	-1	82	-
+	198	653	-
+> Fragment 1170 
+	0	425	-
+> Fragment 1171 
+> Fragment 1172 
+	-1	703	+
+> Fragment 1173 
+	-1	475	+
+> Fragment 1174 
+	-1	94	+
+	143	703	+
+> Fragment 1175 
+	241	702	+
+	-1	217	+
+> Fragment 1176 
+	-1	394	-
+> Fragment 1177 
+	263	703	-
+> Fragment 1178 
+	-1	703	-
+> Fragment 1179 
+	0	701	-
+> Fragment 1180 
+	-2	567	+
+> Fragment 1181 
+	0	179	+
+	227	703	-
+> Fragment 1182 
+	545	703	+
+	-1	319	-
+> Fragment 1183 
+	-1	424	+
+	477	701	-
+> Fragment 1184 
+	0	140	-
+	174	701	-
+> Fragment 1185 
+	0	701	+
+> Fragment 1186 
+	-1	703	+
+> Fragment 1187 
+	0	701	+
+> Fragment 1188 
+	-1	703	+
+> Fragment 1189 
+	322	702	-
+> Fragment 1190 
+	-2	210	-
+	211	702	-
+> Fragment 1191 
+	215	703	-
+	0	137	-
+> Fragment 1192 
+	-2	375	+
+	458	703	-
+> Fragment 1193 
+	226	702	-
+> Fragment 1194 
+	-1	187	+
+	538	702	-
+> Fragment 1195 
+	68	703	+
+> Fragment 1196 
+	-2	471	+
+	525	701	+
+> Fragment 1197 
+	-1	703	-
+> Fragment 1198 
+	176	703	-
+> Fragment 1199 
+	-2	354	-
+> Fragment 1200 
+	0	353	-
+	411	701	-
+> Fragment 1201 
+	377	703	-
+	-2	309	-
+> Fragment 1202 
+	489	701	-
+> Fragment 1203 
+	0	206	+
+	203	703	-
+> Fragment 1204 
+	330	701	-
+	-2	237	-
+> Fragment 1205 
+	-2	177	+
+	288	701	+
+> Fragment 1206 
+	131	703	+
+> Fragment 1207 
+	-2	546	+
+> Fragment 1208 
+	174	701	+
+> Fragment 1209 
+	81	701	+
+> Fragment 1210 
+	197	703	-
+> Fragment 1211 
+	-2	702	+
+> Fragment 1212 
+	0	701	-
+> Fragment 1213 
+	202	702	-
+> Fragment 1214 
+	-1	703	-
+> Fragment 1215 
+	-1	703	-
+> Fragment 1216 
+	-1	703	+
+> Fragment 1217 
+	88	528	+
+	0	110	+
+> Fragment 1218 
+	-2	702	+
+> Fragment 1219 
+	-1	361	-
+	419	703	-
+> Fragment 1220 
+	239	703	+
+	0	185	+
+> Fragment 1221 
+	-2	657	+
+> Fragment 1222 
+	0	491	-
+> Fragment 1223 
+	-1	703	-
+> Fragment 1224 
+	0	248	+
+	327	626	-
+> Fragment 1225 
+	395	703	+
+	0	398	+
+> Fragment 1226 
+> Fragment 1227 
+	407	703	-
+	-2	321	-
+> Fragment 1228 
+	-1	91	-
+	191	703	-
+> Fragment 1229 
+	-1	160	+
+	169	702	-
+> Fragment 1230 
+	-1	235	-
+	250	702	-
+> Fragment 1231 
+	152	703	-
+> Fragment 1232 
+	0	581	-
+> Fragment 1233 
+	42	701	-
+> Fragment 1234 
+	0	173	+
+> Fragment 1235 
+	454	702	+
+	0	356	+
+> Fragment 1236 
+	390	701	-
+	-2	375	-
+> Fragment 1237 
+	-1	703	-
+> Fragment 1238 
+	-2	231	+
+	258	701	-
+> Fragment 1239 
+	0	167	+
+	176	703	-
+> Fragment 1240 
+	-2	303	+
+	552	701	-
+> Fragment 1241 
+	-1	415	+
+	452	703	+
+> Fragment 1242 
+	592	702	-
+> Fragment 1243 
+	-2	606	+
+> Fragment 1244 
+	51	701	-
+> Fragment 1245 
+	0	377	-
+> Fragment 1246 
+	0	371	+
+	402	701	+
+> Fragment 1247 
+	-2	246	+
+	347	703	+
+> Fragment 1248 
+	0	701	+
+> Fragment 1249 
+	55	702	-
+> Fragment 1250 
+	268	477	+
+> Fragment 1251 
+	-1	661	-
+> Fragment 1252 
+	-2	702	+
+> Fragment 1253 
+	-2	306	+
+	332	703	+
+> Fragment 1254 
+	-2	285	+
+	282	701	+
+> Fragment 1255 
+	181	702	+
+	-1	151	+
+> Fragment 1256 
+	-1	703	-
+> Fragment 1257 
+	-2	702	+
+> Fragment 1258 
+	-2	702	+
+> Fragment 1259 
+	-2	384	+
+	517	702	+
+> Fragment 1260 
+	-1	115	+
+	288	701	-
+> Fragment 1261 
+	517	702	+
+	0	254	-
+> Fragment 1262 
+	-2	612	+
+> Fragment 1263 
+	-1	226	+
+	261	548	+
+> Fragment 1264 
+	-1	703	-
+> Fragment 1265 
+	-2	702	-
+> Fragment 1266 
+	-1	703	+
+> Fragment 1267 
+	0	272	+
+	395	703	-
+> Fragment 1268 
+	-1	355	+
+	528	701	-
+> Fragment 1269 
+	-2	702	+
+> Fragment 1270 
+	98	703	-
+> Fragment 1271 
+	-2	456	+
+	537	701	+
+> Fragment 1272 
+	38	703	+
+> Fragment 1273 
+	-2	702	+
+> Fragment 1274 
+	-1	703	+
+> Fragment 1275 
+	0	701	-
+> Fragment 1276 
+	318	701	+
+	0	149	-
+> Fragment 1277 
+	19	501	+
+	531	701	+
+> Fragment 1278 
+	271	702	+
+> Fragment 1279 
+	407	703	-
+	-2	282	-
+> Fragment 1280 
+	-2	702	-
+> Fragment 1281 
+	-2	702	-
+> Fragment 1282 
+	-1	703	-
+> Fragment 1283 
+	-1	703	+
+> Fragment 1284 
+	324	701	-
+	-2	228	-
+> Fragment 1285 
+> Fragment 1286 
+	0	371	+
+	492	701	+
+> Fragment 1287 
+	-2	702	+
+> Fragment 1288 
+	228	638	-
+	31	228	-
+> Fragment 1289 
+	-2	675	-
+> Fragment 1290 
+	409	702	+
+> Fragment 1291 
+	-2	702	-
+> Fragment 1292 
+	131	703	+
+> Fragment 1293 
+	5	652	-
+> Fragment 1294 
+	-2	702	-
+> Fragment 1295 
+	-1	244	-
+	268	702	-
+> Fragment 1296 
+	0	467	+
+> Fragment 1297 
+	-1	205	+
+	248	703	+
+> Fragment 1298 
+	-2	453	+
+	457	702	+
+> Fragment 1299 
+	-1	703	+
+> Fragment 1300 
+	-1	577	+
+> Fragment 1301 
+	340	702	-
+> Fragment 1302 
+	98	544	-
+	578	703	-
+> Fragment 1303 
+	0	701	+
+> Fragment 1304 
+	-1	646	-
+> Fragment 1305 
+	-2	702	+
+> Fragment 1306 
+	-1	298	-
+	312	701	-
+> Fragment 1307 
+	-2	702	+
+> Fragment 1308 
+	-2	480	+
+	544	702	+
+> Fragment 1309 
+	118	702	+
+	-1	160	+
+> Fragment 1310 
+	-2	690	+
+> Fragment 1311 
+	-1	280	+
+	305	640	+
+> Fragment 1312 
+	-2	681	+
+> Fragment 1313 
+	536	703	-
+	97	531	-
+> Fragment 1314 
+	0	164	-
+> Fragment 1315 
+	630	701	+
+	-1	316	-
+> Fragment 1316 
+	29	406	-
+	403	702	-
+> Fragment 1317 
+	-1	703	+
+> Fragment 1318 
+	-1	412	+
+	545	703	+
+> Fragment 1319 
+	-2	702	-
+> Fragment 1320 
+	181	702	+
+> Fragment 1321 
+	385	702	+
+	0	266	+
+> Fragment 1322 
+	-2	702	-
+> Fragment 1323 
+	116	703	+
+> Fragment 1324 
+	-2	378	+
+	477	701	+
+> Fragment 1325 
+	514	702	+
+	0	476	+
+> Fragment 1326 
+	-1	394	-
+	413	703	-
+> Fragment 1327 
+	-1	274	-
+	318	701	-
+> Fragment 1328 
+	-2	447	-
+> Fragment 1329 
+	0	701	-
+> Fragment 1330 
+	-2	702	+
+> Fragment 1331 
+	421	702	+
+	-1	382	+
+> Fragment 1332 
+	53	676	+
+> Fragment 1333 
+	0	701	-
+> Fragment 1334 
+	-1	703	-
+> Fragment 1335 
+	0	701	+
+> Fragment 1336 
+	504	701	+
+	0	296	-
+> Fragment 1337 
+	-2	702	+
+> Fragment 1338 
+	-1	703	-
+> Fragment 1339 
+	-2	105	+
+	117	701	-
+> Fragment 1340 
+	-1	613	-
+> Fragment 1341 
+	-2	702	+
+> Fragment 1342 
+	-2	702	+
+> Fragment 1343 
+	-1	703	-
+> Fragment 1344 
+	36	701	+
+> Fragment 1345 
+	6	701	-
+> Fragment 1346 
+	-1	88	+
+	270	701	+
+> Fragment 1347 
+	523	702	+
+	0	560	+
+> Fragment 1348 
+	-1	544	+
+	597	701	-
+> Fragment 1349 
+	0	701	+
+> Fragment 1350 
+	0	272	+
+	376	702	-
+> Fragment 1351 
+	340	702	+
+> Fragment 1352 
+	413	703	+
+	0	416	+
+> Fragment 1353 
+	184	702	+
+	-1	103	+
+> Fragment 1354 
+	-2	114	+
+	144	701	+
+> Fragment 1355 
+	-1	640	-
+	607	702	-
+> Fragment 1356 
+	66	413	+
+	497	703	-
+> Fragment 1357 
+	254	703	-
+	-2	249	-
+> Fragment 1358 
+	-2	531	-
+> Fragment 1359 
+	0	338	-
+	559	702	-
+> Fragment 1360 
+	-2	141	+
+	218	703	+
+> Fragment 1361 
+	-2	135	+
+	159	701	+
+> Fragment 1362 
+	-2	249	+
+	212	703	+
+> Fragment 1363 
+	0	569	+
+> Fragment 1364 
+	0	701	+
+> Fragment 1365 
+	-2	702	+
+> Fragment 1366 
+	-1	703	+
+> Fragment 1367 
+	-2	342	+
+	332	703	+
+> Fragment 1368 
+	342	701	+
+> Fragment 1369 
+	-2	408	+
+	386	703	-
+> Fragment 1370 
+	39	701	-
+> Fragment 1371 
+	-2	603	+
+	594	701	+
+> Fragment 1372 
+	-1	703	+
+> Fragment 1373 
+	-1	184	+
+	206	703	+
+> Fragment 1374 
+	442	702	+
+	-1	376	+
+> Fragment 1375 
+	292	702	+
+> Fragment 1376 
+	-2	420	+
+	450	701	+
+> Fragment 1377 
+	-1	316	+
+	356	703	+
+> Fragment 1378 
+	0	701	-
+> Fragment 1379 
+	278	703	+
+	0	203	+
+> Fragment 1380 
+	-1	703	-
+> Fragment 1381 
+	-2	702	-
+> Fragment 1382 
+	0	701	-
+> Fragment 1383 
+	-2	459	+
+	563	703	+
+> Fragment 1384 
+	0	701	-
+> Fragment 1385 
+	187	702	+
+	-1	160	+
+> Fragment 1386 
+	439	702	+
+	170	439	+
+> Fragment 1387 
+	0	356	+
+	383	703	-
+> Fragment 1388 
+	0	701	-
+> Fragment 1389 
+	0	623	+
+> Fragment 1390 
+	0	701	+
+> Fragment 1391 
+	-1	703	-
+> Fragment 1392 
+	-1	334	-
+	384	701	-
+> Fragment 1393 
+	488	703	+
+	0	131	+
+> Fragment 1394 
+	553	702	+
+	-1	505	+
+> Fragment 1395 
+> Fragment 1396 
+	-2	702	+
+> Fragment 1397 
+	65	703	+
+> Fragment 1398 
+	0	701	-
+> Fragment 1399 
+	31	339	+
+> Fragment 1400 
+	186	701	-
+> Fragment 1401 
+	-1	703	-
+> Fragment 1402 
+	-2	702	-
+> Fragment 1403 
+	-2	366	-
+	424	702	-
+> Fragment 1404 
+	-1	703	-
+> Fragment 1405 
+	0	281	-
+> Fragment 1406 
+	-2	702	-
+> Fragment 1407 
+	0	212	+
+	561	701	+
+> Fragment 1408 
+	-1	703	-
+> Fragment 1409 
+	-2	702	-
+> Fragment 1410 
+	0	419	+
+> Fragment 1411 
+	-1	703	+
+> Fragment 1412 
+	-1	574	-
+> Fragment 1413 
+	-2	297	+
+	399	701	+
+> Fragment 1414 
+	-1	106	-
+	372	701	-
+> Fragment 1415 
+	558	701	-
+	-2	558	-
+> Fragment 1416 
+	-1	505	-
+> Fragment 1417 
+	-2	702	-
+> Fragment 1418 
+	0	701	-
+> Fragment 1419 
+	0	701	+
+> Fragment 1420 
+	119	463	+
+	522	701	+
+> Fragment 1421 
+	75	701	+
+> Fragment 1422 
+	354	701	+
+> Fragment 1423 
+	443	703	+
+	-2	387	-
+> Fragment 1424 
+	0	701	+
+> Fragment 1425 
+	-2	702	-
+> Fragment 1426 
+	552	701	-
+	-2	555	-
+> Fragment 1427 
+	0	218	+
+	234	701	-
+> Fragment 1428 
+	0	701	+
+> Fragment 1429 
+	-2	702	-
+> Fragment 1430 
+> Fragment 1431 
+	-1	703	+
+> Fragment 1432 
+	104	703	+
+> Fragment 1433 
+	-2	702	-
+> Fragment 1434 
+	77	391	-
+	417	701	-
+> Fragment 1435 
+	0	701	+
+> Fragment 1436 
+	-2	702	+
+> Fragment 1437 
+	121	702	+
+> Fragment 1438 
+	77	703	+
+> Fragment 1439 
+	-1	529	+
+> Fragment 1440 
+	-2	267	+
+> Fragment 1441 
+	-1	400	-
+	422	703	-
+> Fragment 1442 
+	387	701	-
+	-2	435	-
+> Fragment 1443 
+	-1	703	-
+> Fragment 1444 
+	0	656	+
+> Fragment 1445 
+	0	515	+
+> Fragment 1446 
+	-1	703	+
+> Fragment 1447 
+	137	703	+
+> Fragment 1448 
+	466	702	+
+	-1	397	+
+> Fragment 1449 
+	0	167	+
+> Fragment 1450 
+	-1	703	+
+> Fragment 1451 
+	-2	450	+
+	514	702	+
+> Fragment 1452 
+	0	140	+
+	258	701	+
+> Fragment 1453 
+	-2	702	+
+> Fragment 1454 
+	304	546	+
+	608	703	+
+> Fragment 1455 
+	49	702	-
+> Fragment 1456 
+	102	701	-
+> Fragment 1457 
+	0	701	+
+> Fragment 1458 
+	-1	340	-
+	283	702	-
+> Fragment 1459 
+	33	701	-
+> Fragment 1460 
+	593	703	-
+	0	212	-
+> Fragment 1461 
+	0	701	+
+> Fragment 1462 
+	-1	280	+
+	510	701	+
+> Fragment 1463 
+	-1	439	-
+	508	702	-
+> Fragment 1464 
+	-2	519	+
+	516	701	+
+> Fragment 1465 
+	-1	100	-
+> Fragment 1466 
+	-1	703	+
+> Fragment 1467 
+	-2	525	+
+	525	701	+
+> Fragment 1468 
+	0	701	-
+> Fragment 1469 
+	-1	364	+
+	380	703	+
+> Fragment 1470 
+	0	701	-
+> Fragment 1471 
+	-2	702	+
+> Fragment 1472 
+	-1	445	+
+	457	702	-
+> Fragment 1473 
+	-2	702	-
+> Fragment 1474 
+	-1	703	+
+> Fragment 1475 
+	-1	703	+
+> Fragment 1476 
+	0	674	-
+> Fragment 1477 
+	405	701	+
+	-2	171	-
+> Fragment 1478 
+	-1	703	-
+> Fragment 1479 
+	0	509	-
+> Fragment 1480 
+	-2	702	-
+> Fragment 1481 
+	-2	702	+
+> Fragment 1482 
+	84	701	+
+> Fragment 1483 
+	-2	582	+
+	606	701	+
+> Fragment 1484 
+	167	703	+
+> Fragment 1485 
+> Fragment 1486 
+	-1	334	-
+	377	703	-
+> Fragment 1487 
+	0	206	+
+> Fragment 1488 
+	98	703	+
+> Fragment 1489 
+	-2	393	-
+> Fragment 1490 
+	-2	246	+
+	398	703	+
+> Fragment 1491 
+	221	703	+
+> Fragment 1492 
+	-2	516	+
+> Fragment 1493 
+	-1	514	-
+	524	703	-
+> Fragment 1494 
+	-1	481	+
+	527	703	+
+> Fragment 1495 
+	-2	702	-
+> Fragment 1496 
+	-1	577	+
+> Fragment 1497 
+	0	701	+
+> Fragment 1498 
+	0	206	+
+	255	701	+
+> Fragment 1499 
+	605	703	-
+	30	515	-
+> Fragment 1500 
+	-2	573	-
+> Fragment 1501 
+	88	702	-
+> Fragment 1502 
+	56	703	+
+> Fragment 1503 
+	-1	187	+
+	191	703	-
+> Fragment 1504 
+	-1	499	-
+> Fragment 1505 
+	537	701	-
+> Fragment 1506 
+	0	344	+
+	471	701	+
+> Fragment 1507 
+	0	554	-
+	627	701	-
+> Fragment 1508 
+	-2	702	-
+> Fragment 1509 
+	-1	403	+
+	411	701	-
+> Fragment 1510 
+	430	702	+
+	0	425	+
+> Fragment 1511 
+	-1	340	-
+	337	702	-
+> Fragment 1512 
+	423	701	-
+> Fragment 1513 
+	0	152	+
+> Fragment 1514 
+	-2	522	-
+	556	702	-
+> Fragment 1515 
+	-1	703	-
+> Fragment 1516 
+	-2	297	-
+	316	702	-
+> Fragment 1517 
+	-2	612	+
+> Fragment 1518 
+	-1	196	+
+> Fragment 1519 
+	-1	382	+
+	375	701	+
+> Fragment 1520 
+	0	701	+
+> Fragment 1521 
+	-1	406	-
+> Fragment 1522 
+	539	703	-
+	-2	462	-
+> Fragment 1523 
+	93	701	+
+> Fragment 1524 
+	-2	321	+
+	328	702	+
+> Fragment 1525 
+	-1	466	+
+	478	702	-
+> Fragment 1526 
+	213	701	-
+> Fragment 1527 
+	-1	307	+
+	443	703	+
+> Fragment 1528 
+	-2	702	-
+> Fragment 1529 
+	0	599	-
+> Fragment 1530 
+	147	701	+
+> Fragment 1531 
+	593	703	+
+	0	551	+
+> Fragment 1532 
+	23	703	+
+> Fragment 1533 
+	-1	76	+
+	180	614	-
+> Fragment 1534 
+	507	701	-
+> Fragment 1535 
+	-2	702	+
+> Fragment 1536 
+	106	702	+
+> Fragment 1537 
+	-1	199	-
+	229	603	-
+> Fragment 1538 
+	148	702	+
+> Fragment 1539 
+	-1	370	-
+	367	702	-
+> Fragment 1540 
+> Fragment 1541 
+> Fragment 1542 
+	0	701	-
+> Fragment 1543 
+	44	703	+
+> Fragment 1544 
+	-2	702	+
+> Fragment 1545 
+	0	701	+
+> Fragment 1546 
+	563	703	+
+> Fragment 1547 
+	90	701	-
+> Fragment 1548 
+	-2	702	+
+> Fragment 1549 
+	-1	484	+
+	551	703	+
+> Fragment 1550 
+	0	701	+
+> Fragment 1551 
+	-1	703	+
+> Fragment 1552 
+	-1	703	-
+> Fragment 1553 
+	0	296	-
+	558	701	-
+> Fragment 1554 
+	0	305	-
+	298	702	-
+> Fragment 1555 
+	-1	526	-
+> Fragment 1556 
+	0	701	+
+> Fragment 1557 
+	83	334	+
+	453	701	+
+> Fragment 1558 
+	442	702	+
+	-1	367	+
+> Fragment 1559 
+	-2	702	-
+> Fragment 1560 
+	-1	703	-
+> Fragment 1561 
+	-2	258	+
+	395	703	-
+> Fragment 1562 
+	-1	88	+
+	335	703	+
+> Fragment 1563 
+	-2	216	+
+	262	648	+
+> Fragment 1564 
+	-1	703	-
+> Fragment 1565 
+	-1	703	-
+> Fragment 1566 
+	0	491	+
+> Fragment 1567 
+	-1	148	+
+	186	629	+
+> Fragment 1568 
+	571	702	+
+	-1	541	+
+> Fragment 1569 
+	45	701	-
+> Fragment 1570 
+	0	701	+
+> Fragment 1571 
+	-1	703	+
+> Fragment 1572 
+	0	701	+
+> Fragment 1573 
+	0	509	+
+	516	701	-
+> Fragment 1574 
+	35	700	+
+> Fragment 1575 
+	127	381	+
+	533	703	+
+	0	122	+
+> Fragment 1576 
+	-2	453	-
+	457	702	-
+> Fragment 1577 
+	295	702	+
+	26	295	+
+> Fragment 1578 
+	452	703	-
+	51	437	-
+> Fragment 1579 
+	85	702	+
+> Fragment 1580 
+	0	398	+
+	507	701	+
+> Fragment 1581 
+	131	703	-
+> Fragment 1582 
+	-2	420	+
+> Fragment 1583 
+	210	701	-
+	-2	216	-
+> Fragment 1584 
+	-1	703	+
+> Fragment 1585 
+	515	703	-
+	0	395	-
+> Fragment 1586 
+	0	152	-
+> Fragment 1587 
+	168	656	-
+> Fragment 1588 
+	-2	663	+
+> Fragment 1589 
+	-2	702	+
+> Fragment 1590 
+	-2	702	+
+> Fragment 1591 
+	-2	702	-
+> Fragment 1592 
+	0	299	+
+	309	701	+
+> Fragment 1593 
+	385	702	+
+> Fragment 1594 
+	411	701	-
+	-2	354	-
+> Fragment 1595 
+	170	556	+
+> Fragment 1596 
+	-1	241	-
+	324	539	-
+	597	701	-
+> Fragment 1597 
+	229	702	-
+> Fragment 1598 
+	-2	255	-
+	280	702	-
+> Fragment 1599 
+	0	701	+
+> Fragment 1600 
+	0	80	+
+	207	620	-
+> Fragment 1601 
+	-1	610	-
+> Fragment 1602 
+	342	701	-
+	-2	315	-
+> Fragment 1603 
+	61	702	+
+> Fragment 1604 
+	0	701	-
+> Fragment 1605 
+	-2	678	+
+> Fragment 1606 
+	46	285	+
+	584	703	+
+> Fragment 1607 
+	-1	400	-
+	405	584	-
+	594	701	-
+> Fragment 1608 
+	-2	657	-
+> Fragment 1609 
+	-2	633	+
+> Fragment 1610 
+	-1	703	+
+> Fragment 1611 
+	0	488	+
+	537	701	+
+> Fragment 1612 
+	-2	702	-
+> Fragment 1613 
+> Fragment 1614 
+	-2	153	+
+	190	702	+
+> Fragment 1615 
+	-2	201	+
+	260	703	+
+> Fragment 1616 
+	0	83	-
+	87	701	-
+> Fragment 1617 
+	-2	324	+
+	359	646	+
+> Fragment 1618 
+	-1	703	+
+> Fragment 1619 
+	-2	702	-
+> Fragment 1620 
+	0	701	-
+> Fragment 1621 
+	329	703	+
+	0	332	+
+> Fragment 1622 
+	115	702	+
+> Fragment 1623 
+	-2	702	+
+> Fragment 1624 
+	442	702	+
+	-2	234	-
+> Fragment 1625 
+	-2	702	-
+> Fragment 1626 
+	-2	531	+
+> Fragment 1627 
+	0	701	+
+> Fragment 1628 
+	-2	702	-
+> Fragment 1629 
+	-2	702	+
+> Fragment 1630 
+	139	702	+
+> Fragment 1631 
+	0	701	+
+> Fragment 1632 
+	0	701	-
+> Fragment 1633 
+	130	603	-
+> Fragment 1634 
+	0	377	+
+	498	701	+
+> Fragment 1635 
+	-1	703	-
+> Fragment 1636 
+	-2	255	+
+	328	702	+
+> Fragment 1637 
+	-2	702	+
+> Fragment 1638 
+	309	701	-
+> Fragment 1639 
+	109	702	-
+> Fragment 1640 
+	500	703	+
+	0	446	+
+> Fragment 1641 
+	451	702	+
+	-2	336	-
+> Fragment 1642 
+	-1	703	+
+> Fragment 1643 
+	0	275	+
+	433	702	-
+> Fragment 1644 
+	-2	702	-
+> Fragment 1645 
+	-2	207	+
+	330	701	-
+> Fragment 1646 
+	390	701	-
+	-2	312	-
+> Fragment 1647 
+	-1	703	-
+> Fragment 1648 
+	0	701	+
+> Fragment 1649 
+	-2	702	-
+> Fragment 1650 
+	-2	402	+
+	418	702	-
+> Fragment 1651 
+	149	703	+
+	0	152	+
+> Fragment 1652 
+	-2	597	+
+> Fragment 1653 
+	-1	148	+
+	271	702	-
+> Fragment 1654 
+	0	701	+
+> Fragment 1655 
+	0	272	-
+	394	702	-
+> Fragment 1656 
+	0	701	-
+> Fragment 1657 
+	-1	703	-
+> Fragment 1658 
+	505	702	+
+	-1	505	+
+> Fragment 1659 
+	-2	702	+
+> Fragment 1660 
+	-2	174	-
+	241	702	-
+> Fragment 1661 
+	-1	703	+
+> Fragment 1662 
+	69	701	-
+> Fragment 1663 
+	0	701	-
+> Fragment 1664 
+	-2	702	+
+> Fragment 1665 
+	0	86	-
+	544	702	-
+> Fragment 1666 
+	38	703	+
+> Fragment 1667 
+	0	344	-
+> Fragment 1668 
+	-2	702	-
+> Fragment 1669 
+	-1	703	+
+> Fragment 1670 
+	120	701	+
+> Fragment 1671 
+	-1	649	-
+> Fragment 1672 
+	-2	147	+
+	144	701	+
+> Fragment 1673 
+	-1	703	-
+> Fragment 1674 
+	0	353	-
+	487	702	-
+> Fragment 1675 
+	421	702	+
+	-1	424	+
+> Fragment 1676 
+	-1	703	+
+> Fragment 1677 
+	-2	399	+
+	458	703	+
+> Fragment 1678 
+	182	703	+
+> Fragment 1679 
+	-2	606	+
+	603	701	+
+> Fragment 1680 
+	-2	564	+
+	568	702	+
+> Fragment 1681 
+	-1	703	-
+> Fragment 1682 
+	33	542	+
+> Fragment 1683 
+	532	702	+
+	0	479	-
+> Fragment 1684 
+	245	703	-
+	0	215	-
+> Fragment 1685 
+	-1	526	-
+	600	701	-
+> Fragment 1686 
+	0	701	+
+> Fragment 1687 
+	0	353	+
+	331	702	-
+> Fragment 1688 
+	-2	702	+
+> Fragment 1689 
+	431	703	-
+	-2	240	-
+> Fragment 1690 
+	167	703	+
+> Fragment 1691 
+	0	599	+
+> Fragment 1692 
+	-2	702	-
+> Fragment 1693 
+	-1	214	-
+	189	701	-
+> Fragment 1694 
+	-1	703	-
+> Fragment 1695 
+	331	702	+
+> Fragment 1696 
+	-1	703	-
+> Fragment 1697 
+	150	701	+
+> Fragment 1698 
+	-1	241	+
+> Fragment 1699 
+	452	703	+
+	30	440	+
+> Fragment 1700 
+	18	701	-
+> Fragment 1701 
+	-1	703	+
+> Fragment 1702 
+	0	701	-
+> Fragment 1703 
+	22	702	+
+> Fragment 1704 
+	-1	703	+
+> Fragment 1705 
+	94	702	+
+> Fragment 1706 
+	-2	225	-
+> Fragment 1707 
+	-2	702	-
+> Fragment 1708 
+	-2	225	+
+	266	703	+
+> Fragment 1709 
+	108	587	-
+> Fragment 1710 
+	-2	702	+
+> Fragment 1711 
+	105	701	-
+	-2	84	-
+> Fragment 1712 
+	0	701	-
+> Fragment 1713 
+	-1	355	-
+	413	703	-
+> Fragment 1714 
+	0	584	+
+> Fragment 1715 
+	0	701	+
+> Fragment 1716 
+	0	656	-
+> Fragment 1717 
+	-2	702	-
+> Fragment 1718 
+	-1	286	-
+	300	701	-
+> Fragment 1719 
+> Fragment 1720 
+	42	701	-
+> Fragment 1721 
+	-1	370	+
+	333	701	+
+> Fragment 1722 
+	0	386	+
+> Fragment 1723 
+	-2	345	+
+	370	702	+
+> Fragment 1724 
+	78	563	-
+	579	701	-
+> Fragment 1725 
+	46	702	-
+> Fragment 1726 
+	0	701	+
+> Fragment 1727 
+	0	701	-
+> Fragment 1728 
+	-1	238	-
+	241	669	-
+> Fragment 1729 
+	-2	702	+
+> Fragment 1730 
+	474	701	+
+	0	257	-
+> Fragment 1731 
+	-1	685	+
+> Fragment 1732 
+	0	371	-
+> Fragment 1733 
+	-1	511	+
+> Fragment 1734 
+	-1	703	+
+> Fragment 1735 
+	-2	702	+
+> Fragment 1736 
+	-2	702	+
+> Fragment 1737 
+	-2	702	+
+> Fragment 1738 
+	357	701	-
+	151	354	-
+> Fragment 1739 
+	-1	436	+
+> Fragment 1740 
+	-1	592	+
+> Fragment 1741 
+	-1	262	+
+	303	701	+
+> Fragment 1742 
+> Fragment 1743 
+	274	702	+
+	0	245	+
+> Fragment 1744 
+	0	701	+
+> Fragment 1745 
+	-1	694	+
+> Fragment 1746 
+	-1	538	+
+	546	701	+
+> Fragment 1747 
+	117	701	-
+> Fragment 1748 
+	0	701	-
+> Fragment 1749 
+	-1	703	+
+> Fragment 1750 
+	274	702	-
+> Fragment 1751 
+	103	702	-
+> Fragment 1752 
+> Fragment 1753 
+	-1	703	-
+> Fragment 1754 
+	-2	231	+
+	237	701	+
+> Fragment 1755 
+	343	702	+
+	0	365	+
+> Fragment 1756 
+	0	317	-
+	534	701	-
+	358	588	-
+> Fragment 1757 
+	-2	702	-
+> Fragment 1758 
+	46	702	-
+> Fragment 1759 
+	-1	76	-
+	405	701	-
+> Fragment 1760 
+	-2	555	-
+> Fragment 1761 
+	-1	703	+
+> Fragment 1762 
+> Fragment 1763 
+	-1	703	+
+> Fragment 1764 
+	-2	702	+
+> Fragment 1765 
+	100	702	+
+> Fragment 1766 
+	-2	591	+
+	637	702	+
+> Fragment 1767 
+	0	701	-
+> Fragment 1768 
+	0	701	+
+> Fragment 1769 
+	-1	427	+
+	524	703	+
+> Fragment 1770 
+	182	682	+
+> Fragment 1771 
+	-2	702	-
+> Fragment 1772 
+	0	701	+
+> Fragment 1773 
+	-1	703	+
+> Fragment 1774 
+	-1	703	+
+> Fragment 1775 
+	233	661	+
+> Fragment 1776 
+	472	702	+
+	0	449	+
+> Fragment 1777 
+	-2	225	+
+	308	703	+
+> Fragment 1778 
+	-1	142	-
+	135	701	-
+> Fragment 1779 
+	224	703	+
+	0	245	+
+> Fragment 1780 
+	562	702	+
+> Fragment 1781 
+	0	701	+
+> Fragment 1782 
+	267	701	+
+> Fragment 1783 
+	-1	703	+
+> Fragment 1784 
+	-2	495	+
+> Fragment 1785 
+	0	347	-
+> Fragment 1786 
+	-2	591	-
+> Fragment 1787 
+	0	701	-
+> Fragment 1788 
+	0	146	+
+	186	701	+
+> Fragment 1789 
+	0	548	-
+> Fragment 1790 
+	0	701	-
+> Fragment 1791 
+	-1	703	+
+> Fragment 1792 
+	-1	658	-
+> Fragment 1793 
+	0	200	+
+	227	703	-
+> Fragment 1794 
+	-2	702	-
+> Fragment 1795 
+	-1	202	-
+	531	701	-
+> Fragment 1796 
+	-2	702	-
+> Fragment 1797 
+	-1	346	+
+	493	702	-
+> Fragment 1798 
+	-2	702	+
+> Fragment 1799 
+	0	644	-
+> Fragment 1800 
+	-2	429	+
+	434	703	+
+> Fragment 1801 
+	-2	702	-
+> Fragment 1802 
+	61	702	-
+> Fragment 1803 
+	114	701	+
+> Fragment 1804 
+	0	488	+
+	533	703	-
+> Fragment 1805 
+	-1	703	-
+> Fragment 1806 
+	-1	229	-
+	226	702	-
+> Fragment 1807 
+	0	344	-
+> Fragment 1808 
+	155	703	+
+> Fragment 1809 
+	-2	702	+
+> Fragment 1810 
+	-1	703	-
+> Fragment 1811 
+	0	341	-
+> Fragment 1812 
+	-2	702	-
+> Fragment 1813 
+	0	575	-
+> Fragment 1814 
+	-1	604	+
+> Fragment 1815 
+	-1	505	+
+	614	703	+
+> Fragment 1816 
+	0	473	+
+	581	703	-
+> Fragment 1817 
+	-2	372	+
+	376	702	+
+> Fragment 1818 
+	-2	702	+
+> Fragment 1819 
+	0	650	+
+> Fragment 1820 
+	-2	702	+
+> Fragment 1821 
+	0	701	-
+> Fragment 1822 
+	0	701	-
+> Fragment 1823 
+	0	512	-
+	546	701	-
+> Fragment 1824 
+	-1	214	-
+	232	702	-
+> Fragment 1825 
+	-2	702	-
+> Fragment 1826 
+	401	703	+
+> Fragment 1827 
+	-1	205	+
+	284	703	-
+> Fragment 1828 
+	-2	702	-
+> Fragment 1829 
+	-2	702	+
+> Fragment 1830 
+	0	701	+
+> Fragment 1831 
+	478	675	+
+	-1	391	+
+> Fragment 1832 
+	0	680	+
+> Fragment 1833 
+	-1	274	+
+	292	702	-
+> Fragment 1834 
+	-1	79	+
+	248	703	+
+> Fragment 1835 
+	-2	702	-
+> Fragment 1836 
+	96	701	+
+> Fragment 1837 
+	-1	703	-
+> Fragment 1838 
+	485	703	+
+> Fragment 1839 
+	0	701	+
+> Fragment 1840 
+	455	703	-
+	-2	474	-
+> Fragment 1841 
+	182	703	-
+> Fragment 1842 
+	-2	303	+
+	487	702	+
+> Fragment 1843 
+	-1	703	-
+> Fragment 1844 
+	0	701	-
+> Fragment 1845 
+	15	701	+
+> Fragment 1846 
+	52	702	+
+> Fragment 1847 
+	-1	643	+
+> Fragment 1848 
+	575	703	+
+	0	557	+
+> Fragment 1849 
+	0	701	+
+> Fragment 1850 
+	526	702	+
+	0	506	+
+> Fragment 1851 
+	-2	702	+
+> Fragment 1852 
+	560	703	+
+> Fragment 1853 
+	-1	703	+
+> Fragment 1854 
+	-1	703	-
+> Fragment 1855 
+	108	701	+
+> Fragment 1856 
+	-1	271	-
+	386	703	-
+> Fragment 1857 
+	0	590	+
+	604	702	-
+> Fragment 1858 
+	0	701	+
+> Fragment 1859 
+	-2	702	+
+> Fragment 1860 
+	0	701	-
+> Fragment 1861 
+	0	701	+
+> Fragment 1862 
+	-2	207	+
+	201	701	+
+> Fragment 1863 
+	0	656	+
+> Fragment 1864 
+	-1	340	+
+	492	701	+
+> Fragment 1865 
+	56	703	+
+> Fragment 1866 
+	0	677	+
+> Fragment 1867 
+	-2	702	-
+> Fragment 1868 
+	-2	702	+
+> Fragment 1869 
+	0	701	-
+> Fragment 1870 
+	-2	501	-
+> Fragment 1871 
+	94	702	+
+> Fragment 1872 
+	-2	411	+
+	472	702	+
+> Fragment 1873 
+	298	702	+
+	0	239	+
+> Fragment 1874 
+	590	703	-
+	114	542	-
+	-2	111	-
+> Fragment 1875 
+	136	702	-
+> Fragment 1876 
+	-2	702	+
+> Fragment 1877 
+	245	703	+
+	0	233	+
+> Fragment 1878 
+	-2	702	+
+> Fragment 1879 
+	0	701	-
+> Fragment 1880 
+	-1	82	-
+	116	703	-
+> Fragment 1881 
+	362	703	-
+	0	335	-
+> Fragment 1882 
+	-1	703	+
+> Fragment 1883 
+	-2	702	+
+> Fragment 1884 
+	180	701	+
+> Fragment 1885 
+	-1	565	-
+> Fragment 1886 
+	0	701	+
+> Fragment 1887 
+	0	701	-
+> Fragment 1888 
+	0	701	+
+> Fragment 1889 
+	-2	702	+
+> Fragment 1890 
+	-2	702	+
+> Fragment 1891 
+	-1	490	+
+> Fragment 1892 
+	0	626	+
+> Fragment 1893 
+	-1	703	-
+> Fragment 1894 
+	-1	343	-
+	358	702	-
+> Fragment 1895 
+	-1	703	+
+> Fragment 1896 
+	-1	703	-
+> Fragment 1897 
+	174	701	-
+	-2	147	-
+> Fragment 1898 
+	0	191	-
+	192	701	-
+> Fragment 1899 
+	-2	195	+
+	185	703	+
+> Fragment 1900 
+	119	703	+
+> Fragment 1901 
+	223	702	-
+> Fragment 1902 
+	0	701	-
+> Fragment 1903 
+	-1	703	-
+> Fragment 1904 
+	0	137	-
+	142	321	-
+	331	702	-
+> Fragment 1905 
+	-1	196	-
+	312	701	-
+> Fragment 1906 
+	11	703	+
+> Fragment 1907 
+	-2	648	-
+> Fragment 1908 
+	90	701	-
+> Fragment 1909 
+> Fragment 1910 
+	496	702	+
+	97	327	-
+> Fragment 1911 
+	0	701	+
+> Fragment 1912 
+	-1	703	+
+> Fragment 1913 
+	0	614	+
+> Fragment 1914 
+	-1	703	-
+> Fragment 1915 
+	0	701	-
+> Fragment 1916 
+	0	701	-
+> Fragment 1917 
+	0	530	-
+> Fragment 1918 
+	-1	703	+
+> Fragment 1919 
+	-1	703	-
+> Fragment 1920 
+	-1	334	-
+	535	702	-
+> Fragment 1921 
+	0	701	+
+> Fragment 1922 
+	-2	525	+
+	540	701	+
+> Fragment 1923 
+	351	701	-
+	-2	231	-
+> Fragment 1924 
+	532	702	+
+	-1	535	+
+> Fragment 1925 
+	-2	681	+
+> Fragment 1926 
+	-2	558	-
+> Fragment 1927 
+	0	359	-
+	483	701	-
+> Fragment 1928 
+	-2	702	-
+> Fragment 1929 
+	-2	702	+
+> Fragment 1930 
+	35	517	-
+	547	702	-
+> Fragment 1931 
+	40	702	-
+> Fragment 1932 
+	338	703	+
+> Fragment 1933 
+	151	702	+
+> Fragment 1934 
+	-1	505	-
+	519	701	-
+> Fragment 1935 
+	-2	297	+
+	327	701	+
+> Fragment 1936 
+	-2	702	+
+> Fragment 1937 
+	0	419	+
+	584	703	-
+> Fragment 1938 
+	-2	135	+
+	146	703	-
+> Fragment 1939 
+	0	548	-
+> Fragment 1940 
+	372	701	+
+> Fragment 1941 
+	-1	703	+
+> Fragment 1942 
+	0	422	+
+	465	701	+
+> Fragment 1943 
+	0	308	-
+	313	702	-
+> Fragment 1944 
+	-1	391	-
+> Fragment 1945 
+	-1	703	+
+> Fragment 1946 
+	-2	702	+
+> Fragment 1947 
+	0	680	+
+> Fragment 1948 
+	-2	609	-
+> Fragment 1949 
+	424	702	-
+> Fragment 1950 
+	-1	703	+
+> Fragment 1951 
+	189	701	+
+> Fragment 1952 
+	0	191	+
+	372	701	+
+> Fragment 1953 
+	415	702	+
+	0	464	+
+> Fragment 1954 
+	-1	703	+
+> Fragment 1955 
+	143	703	-
+> Fragment 1956 
+	0	629	+
+> Fragment 1957 
+	0	701	+
+> Fragment 1958 
+	0	350	+
+	333	701	-
+> Fragment 1959 
+	-1	184	+
+	326	703	+
+> Fragment 1960 
+	136	702	-
+> Fragment 1961 
+	-1	421	+
+> Fragment 1962 
+	-1	703	+
+> Fragment 1963 
+	-1	220	+
+	446	703	+
+> Fragment 1964 
+	-1	703	+
+> Fragment 1965 
+	0	701	+
+> Fragment 1966 
+> Fragment 1967 
+	-1	304	-
+	445	702	-
+> Fragment 1968 
+	223	453	+
+> Fragment 1969 
+	-2	702	+
+> Fragment 1970 
+> Fragment 1971 
+	0	569	+
+> Fragment 1972 
+	-2	249	+
+	358	597	+
+> Fragment 1973 
+	-2	702	+
+> Fragment 1974 
+	292	702	-
+> Fragment 1975 
+	0	701	+
+> Fragment 1976 
+	44	703	-
+> Fragment 1977 
+	253	681	+
+> Fragment 1978 
+	-1	184	+
+	342	701	-
+> Fragment 1979 
+	-1	703	+
+> Fragment 1980 
+	215	703	+
+> Fragment 1981 
+	0	701	-
+> Fragment 1982 
+	-2	615	+
+> Fragment 1983 
+	-2	393	+
+	405	701	+
+> Fragment 1984 
+	222	701	+
+> Fragment 1985 
+	-2	249	-
+> Fragment 1986 
+	0	671	+
+> Fragment 1987 
+	-2	702	-
+> Fragment 1988 
+	-2	702	+
+> Fragment 1989 
+	-1	196	-
+	210	701	-
+> Fragment 1990 
+	0	701	-
+> Fragment 1991 
+	0	701	-
+> Fragment 1992 
+	-2	702	-
+> Fragment 1993 
+	-1	391	-
+> Fragment 1994 
+	-1	418	-
+> Fragment 1995 
+	-2	702	-
+> Fragment 1996 
+	-1	484	-
+> Fragment 1997 
+	182	703	+
+	0	137	+
+> Fragment 1998 
+	-2	258	+
+	355	702	+
+> Fragment 1999 
+	-1	703	-
+> Fragment 2000 
+	-1	703	+
+> Fragment 2001 
+	0	644	-
+> Fragment 2002 
+	-1	703	+
+> Fragment 2003 
+	-2	411	+
+	518	703	+
+> Fragment 2004 
+	-1	703	-
+> Fragment 2005 
+	340	702	+
+	0	134	-
+> Fragment 2006 
+	0	701	+
+> Fragment 2007 
+	332	703	-
+> Fragment 2008 
+	0	227	-
+	429	701	-
+> Fragment 2009 
+	-1	556	+
+> Fragment 2010 
+	0	701	-
+> Fragment 2011 
+	-2	702	+
+> Fragment 2012 
+	0	626	-
+> Fragment 2013 
+	0	557	-
+> Fragment 2014 
+	-1	703	-
+> Fragment 2015 
+	-2	237	-
+> Fragment 2016 
+	0	542	+
+> Fragment 2017 
+	45	590	-
+> Fragment 2018 
+	-2	297	+
+	307	702	+
+> Fragment 2019 
+	0	557	+
+> Fragment 2020 
+	587	703	-
+	0	311	-
+> Fragment 2021 
+	277	702	+
+	0	176	+
+> Fragment 2022 
+	-2	702	+
+> Fragment 2023 
+	-2	192	+
+	167	703	+
+> Fragment 2024 
+	-2	702	+
+> Fragment 2025 
+	-2	588	+
+> Fragment 2026 
+	0	701	-
+> Fragment 2027 
+	-2	702	-
+> Fragment 2028 
+	-1	703	-
+> Fragment 2029 
+	-2	702	-
+> Fragment 2030 
+	0	299	+
+	381	701	+
+> Fragment 2031 
+	-1	466	+
+	438	701	+
+> Fragment 2032 
+	159	686	+
+> Fragment 2033 
+	-2	702	+
+> Fragment 2034 
+	0	668	-
+> Fragment 2035 
+	94	702	+
+> Fragment 2036 
+	429	701	+
+> Fragment 2037 
+	-1	469	+
+	507	701	+
+> Fragment 2038 
+	0	443	+
+> Fragment 2039 
+	84	701	-
+> Fragment 2040 
+	505	702	+
+	-2	189	-
+> Fragment 2041 
+	-1	703	-
+> Fragment 2042 
+	-1	490	+
+	531	701	+
+> Fragment 2043 
+	-1	235	+
+> Fragment 2044 
+	-2	195	-
+	619	702	-
+> Fragment 2045 
+	-2	702	-
+> Fragment 2046 
+	-1	124	-
+	154	528	-
+> Fragment 2047 
+	-2	702	+
+> Fragment 2048 
+	-2	102	+
+	225	701	-
+> Fragment 2049 
+	0	377	+
+> Fragment 2050 
+	-2	702	-
+> Fragment 2051 
+	-2	357	+
+	374	703	+
+> Fragment 2052 
+	524	703	-
+	327	524	-
+	76	327	-
+> Fragment 2053 
+	-1	133	-
+	233	703	-
+> Fragment 2054 
+	0	701	+
+> Fragment 2055 
+	20	703	+
+> Fragment 2056 
+	-1	496	-
+> Fragment 2057 
+	-2	345	+
+	579	701	+
+> Fragment 2058 
+	0	701	-
+> Fragment 2059 
+	0	701	+
+> Fragment 2060 
+	0	701	-
+> Fragment 2061 
+	-2	702	+
+> Fragment 2062 
+	0	350	-
+	388	702	-
+> Fragment 2063 
+	50	703	-
+> Fragment 2064 
+	-1	703	+
+> Fragment 2065 
+	-2	216	+
+	241	492	+
+> Fragment 2066 
+	-1	391	+
+	464	703	+
+> Fragment 2067 
+	39	701	-
+> Fragment 2068 
+	-2	702	-
+> Fragment 2069 
+	-2	702	+
+> Fragment 2070 
+	155	703	-
+> Fragment 2071 
+	-1	703	+
+> Fragment 2072 
+	-1	607	-
+> Fragment 2073 
+	520	702	-
+> Fragment 2074 
+	-2	219	+
+	245	703	+
+> Fragment 2075 
+	-2	702	+
+> Fragment 2076 
+	307	702	+
+	0	278	+
+> Fragment 2077 
+	166	702	-
+> Fragment 2078 
+	-1	703	+
+> Fragment 2079 
+	165	701	-
+> Fragment 2080 
+	-2	246	+
+	281	568	+
+> Fragment 2081 
+	0	578	+
+> Fragment 2082 
+	223	702	+
+> Fragment 2083 
+	278	673	-
+	-2	264	-
+> Fragment 2084 
+	83	703	+
+> Fragment 2085 
+	0	596	-
+> Fragment 2086 
+	0	386	-
+> Fragment 2087 
+	0	701	+
+> Fragment 2088 
+	-2	297	+
+	358	702	+
+> Fragment 2089 
+	-2	702	+
+> Fragment 2090 
+	-2	702	+
+> Fragment 2091 
+	-2	162	+
+	289	702	-
+> Fragment 2092 
+	105	605	-
+> Fragment 2093 
+	-2	702	+
+> Fragment 2094 
+	-2	702	-
+> Fragment 2095 
+	77	703	+
+> Fragment 2096 
+	0	701	+
+> Fragment 2097 
+	-1	250	-
+	265	702	-
+> Fragment 2098 
+	-2	114	+
+	126	590	-
+> Fragment 2099 
+	0	701	+
+> Fragment 2100 
+	0	470	+
+> Fragment 2101 
+	71	703	+
+> Fragment 2102 
+	15	383	-
+	498	701	-
+> Fragment 2103 
+	-1	664	-
+> Fragment 2104 
+	406	702	+
+	0	422	+
+> Fragment 2105 
+	77	703	-
+> Fragment 2106 
+	-2	105	+
+	68	703	+
+> Fragment 2107 
+	263	703	+
+	0	161	+
+> Fragment 2108 
+	80	703	+
+> Fragment 2109 
+	-2	474	+
+	542	703	-
+> Fragment 2110 
+	79	429	+
+	558	701	+
+> Fragment 2111 
+	-2	702	+
+> Fragment 2112 
+	-2	702	+
+> Fragment 2113 
+	0	701	-
+> Fragment 2114 
+	582	701	-
+	-2	381	-
+> Fragment 2115 
+	403	702	+
+	0	398	+
+> Fragment 2116 
+	415	681	-
+> Fragment 2117 
+	-2	702	+
+> Fragment 2118 
+	-1	703	-
+> Fragment 2119 
+	0	293	-
+> Fragment 2120 
+	239	703	+
+	0	167	+
+> Fragment 2121 
+	-2	561	+
+> Fragment 2122 
+	-2	258	+
+	219	701	+
+> Fragment 2123 
+	0	206	-
+	250	702	-
+> Fragment 2124 
+	45	701	+
+> Fragment 2125 
+	-2	702	-
+> Fragment 2126 
+	318	701	+
+	0	104	-
+> Fragment 2127 
+	-1	634	-
+> Fragment 2128 
+	244	702	+
+	-1	199	+
+> Fragment 2129 
+	-1	703	+
+> Fragment 2130 
+	-1	703	-
+> Fragment 2131 
+	-1	667	-
+> Fragment 2132 
+	-2	702	+
+> Fragment 2133 
+	441	701	+
+	-1	280	-
+> Fragment 2134 
+	246	701	+
+> Fragment 2135 
+	-2	702	-
+> Fragment 2136 
+	0	209	-
+	214	393	-
+	403	702	-
+> Fragment 2137 
+	99	701	+
+> Fragment 2138 
+	565	702	+
+	-1	313	-
+> Fragment 2139 
+	25	465	-
+> Fragment 2140 
+	-1	436	+
+	491	703	-
+> Fragment 2141 
+	48	701	+
+> Fragment 2142 
+	-2	543	+
+	521	703	-
+> Fragment 2143 
+	-1	316	+
+	360	701	-
+> Fragment 2144 
+	374	703	+
+	0	158	+
+> Fragment 2145 
+	0	701	+
+> Fragment 2146 
+	-2	528	+
+> Fragment 2147 
+	434	703	-
+	0	419	-
+> Fragment 2148 
+	-1	538	+
+> Fragment 2149 
+	199	684	+
+> Fragment 2150 
+	-1	526	-
+> Fragment 2151 
+	0	647	+
+> Fragment 2152 
+	0	701	+
+> Fragment 2153 
+	-1	514	+
+	581	703	+
+> Fragment 2154 
+	-1	703	+
+> Fragment 2155 
+	148	345	+
+	388	702	+
+> Fragment 2156 
+	0	89	+
+	252	701	+
+> Fragment 2157 
+	237	701	+
+> Fragment 2158 
+	-1	703	+
+> Fragment 2159 
+	-2	702	+
+> Fragment 2160 
+	0	275	-
+> Fragment 2161 
+	85	702	-
+> Fragment 2162 
+	-1	703	+
+> Fragment 2163 
+	105	455	+
+> Fragment 2164 
+	608	703	-
+	-2	486	-
+> Fragment 2165 
+	-1	478	+
+> Fragment 2166 
+	-2	510	+
+> Fragment 2167 
+	-1	703	-
+> Fragment 2168 
+	-2	702	+
+> Fragment 2169 
+	573	701	-
+	-2	483	-
+> Fragment 2170 
+	339	701	+
+> Fragment 2171 
+	-2	291	-
+	340	702	-
+> Fragment 2172 
+	151	702	+
+> Fragment 2173 
+	-1	526	-
+> Fragment 2174 
+	0	626	+
+> Fragment 2175 
+	-1	556	+
+> Fragment 2176 
+	-1	703	+
+> Fragment 2177 
+	-2	702	+
+> Fragment 2178 
+	133	576	+
+	619	702	+
+	0	95	+
+> Fragment 2179 
+> Fragment 2180 
+	569	703	-
+	-2	495	-
+> Fragment 2181 
+	70	660	+
+> Fragment 2182 
+	411	701	+
+> Fragment 2183 
+	251	703	+
+> Fragment 2184 
+	-1	703	+
+> Fragment 2185 
+	547	702	+
+> Fragment 2186 
+	98	703	+
+> Fragment 2187 
+	256	702	+
+> Fragment 2188 
+	-2	321	+
+	427	702	-
+> Fragment 2189 
+	0	359	-
+	447	701	-
+> Fragment 2190 
+	-2	138	+
+	138	671	+
+> Fragment 2191 
+	-1	703	-
+> Fragment 2192 
+	211	651	+
+	0	233	+
+> Fragment 2193 
+	-2	702	+
+> Fragment 2194 
+	-2	702	-
+> Fragment 2195 
+	-1	703	+
+> Fragment 2196 
+	-2	702	+
+> Fragment 2197 
+	-1	703	+
+> Fragment 2198 
+	-2	702	-
+> Fragment 2199 
+	638	703	+
+	87	443	+
+> Fragment 2200 
+	-2	702	-
+> Fragment 2201 
+	-2	702	+
+> Fragment 2202 
+	-2	702	-
+> Fragment 2203 
+	-2	702	-
+> Fragment 2204 
+	-1	703	+
+> Fragment 2205 
+	-1	703	-
+> Fragment 2206 
+	75	701	+
+> Fragment 2207 
+	0	701	-
+> Fragment 2208 
+	-2	669	+
+> Fragment 2209 
+	0	701	+
+> Fragment 2210 
+	-2	327	+
+	335	703	-
+> Fragment 2211 
+	-1	703	+
+> Fragment 2212 
+	31	702	+
+> Fragment 2213 
+	-2	255	+
+	504	701	-
+> Fragment 2214 
+	296	703	+
+> Fragment 2215 
+	577	702	-
+> Fragment 2216 
+	369	701	-
+	70	366	-
+> Fragment 2217 
+	-1	679	-
+> Fragment 2218 
+	-2	513	+
+	627	701	+
+> Fragment 2219 
+	400	669	+
+	0	185	-
+> Fragment 2220 
+	-1	355	+
+	482	703	+
+> Fragment 2221 
+	-2	702	+
+> Fragment 2222 
+	328	702	+
+> Fragment 2223 
+	131	610	-
+> Fragment 2224 
+	-1	559	+
+> Fragment 2225 
+	17	703	-
+> Fragment 2226 
+	301	702	-
+> Fragment 2227 
+	-1	703	+
+> Fragment 2228 
+	-2	360	+
+	375	701	+
+> Fragment 2229 
+	-2	525	+
+> Fragment 2230 
+	16	702	-
+> Fragment 2231 
+	-2	702	-
+> Fragment 2232 
+> Fragment 2233 
+	-1	703	+
+> Fragment 2234 
+	251	703	+
+> Fragment 2235 
+	509	703	+
+	-2	237	-
+> Fragment 2236 
+	208	702	-
+> Fragment 2237 
+	433	702	-
+> Fragment 2238 
+	19	702	-
+> Fragment 2239 
+	-1	466	-
+	509	703	-
+> Fragment 2240 
+	534	701	-
+	-2	195	-
+> Fragment 2241 
+	430	702	+
+	0	437	+
+> Fragment 2242 
+	0	701	+
+> Fragment 2243 
+	0	569	-
+> Fragment 2244 
+	0	254	+
+	393	701	+
+> Fragment 2245 
+	45	623	-
+> Fragment 2246 
+	-2	594	+
+> Fragment 2247 
+	289	702	-
+> Fragment 2248 
+	-2	702	-
+> Fragment 2249 
+	70	702	-
+> Fragment 2250 
+	-1	565	+
+> Fragment 2251 
+	0	599	-
+> Fragment 2252 
+	-2	702	-
+> Fragment 2253 
+	293	703	-
+	-2	243	-
+> Fragment 2254 
+	-1	325	+
+	444	701	+
+> Fragment 2255 
+	-1	394	+
+	387	701	+
+> Fragment 2256 
+	-1	703	-
+> Fragment 2257 
+	52	702	+
+> Fragment 2258 
+	0	701	+
+> Fragment 2259 
+	0	701	+
+> Fragment 2260 
+	-1	703	+
+> Fragment 2261 
+	423	701	+
+	0	215	-
+> Fragment 2262 
+	409	702	+
+	-1	280	+
+> Fragment 2263 
+	-2	264	+
+	264	701	+
+> Fragment 2264 
+	-1	361	-
+> Fragment 2265 
+	-1	238	+
+	374	703	+
+> Fragment 2266 
+	-2	702	+
+> Fragment 2267 
+	121	702	+
+> Fragment 2268 
+	-2	111	+
+	284	703	-
+> Fragment 2269 
+	536	703	-
+	0	506	-
+> Fragment 2270 
+	-2	702	+
+> Fragment 2271 
+	-1	421	+
+	441	701	+
+> Fragment 2272 
+	390	701	+
+	-2	156	-
+> Fragment 2273 
+	-2	702	-
+> Fragment 2274 
+	-1	460	-
+	509	703	-
+> Fragment 2275 
+	-1	703	+
+> Fragment 2276 
+	0	662	-
+> Fragment 2277 
+	103	687	+
+> Fragment 2278 
+	-2	702	+
+> Fragment 2279 
+	199	702	+
+> Fragment 2280 
+	-2	300	+
+	325	702	+
+> Fragment 2281 
+	0	413	+
+	439	702	-
+> Fragment 2282 
+	-2	702	+
+> Fragment 2283 
+	177	701	-
+> Fragment 2284 
+	0	701	+
+> Fragment 2285 
+	193	702	+
+> Fragment 2286 
+	478	702	+
+	-1	481	+
+> Fragment 2287 
+	-2	702	-
+> Fragment 2288 
+	506	703	-
+	0	479	-
+> Fragment 2289 
+	468	668	+
+> Fragment 2290 
+	-1	703	+
+> Fragment 2291 
+	0	701	-
+> Fragment 2292 
+	60	701	+
+> Fragment 2293 
+	-1	703	+
+> Fragment 2294 
+	-2	702	-
+> Fragment 2295 
+	371	703	-
+	0	341	-
+> Fragment 2296 
+	341	703	+
+	0	311	+
+> Fragment 2297 
+	293	703	+
+	0	296	+
+> Fragment 2298 
+	0	605	-
+> Fragment 2299 
+	0	701	+
+> Fragment 2300 
+	0	701	-
+> Fragment 2301 
+	0	701	-
+> Fragment 2302 
+	107	703	+
+> Fragment 2303 
+	-1	703	+
+> Fragment 2304 
+	0	701	+
+> Fragment 2305 
+	-1	370	+
+> Fragment 2306 
+	0	308	+
+	445	702	-
+> Fragment 2307 
+	-2	591	+
+> Fragment 2308 
+	-2	600	+
+> Fragment 2309 
+	128	703	+
+> Fragment 2310 
+	0	701	+
+> Fragment 2311 
+	181	702	+
+> Fragment 2312 
+	37	702	+
+> Fragment 2313 
+	190	702	+
+> Fragment 2314 
+	0	533	-
+> Fragment 2315 
+	0	701	-
+> Fragment 2316 
+	71	703	-
+> Fragment 2317 
+	-2	384	+
+	401	703	+
+> Fragment 2318 
+	-1	655	+
+> Fragment 2319 
+	-1	400	+
+	560	703	+
+> Fragment 2320 
+	-1	703	+
+> Fragment 2321 
+	271	702	+
+	0	308	+
+> Fragment 2322 
+	-2	246	+
+> Fragment 2323 
+	0	599	+
+	577	702	-
+> Fragment 2324 
+	-1	259	-
+	408	665	-
+> Fragment 2325 
+	0	701	-
+> Fragment 2326 
+	0	407	-
+	412	702	-
+> Fragment 2327 
+	62	703	+
+> Fragment 2328 
+	-1	556	+
+> Fragment 2329 
+	-2	186	-
+	187	702	-
+> Fragment 2330 
+	0	701	+
+> Fragment 2331 
+	395	703	-
+	0	326	-
+> Fragment 2332 
+	-1	703	+
+> Fragment 2333 
+	0	701	+
+> Fragment 2334 
+	-1	703	+
+> Fragment 2335 
+> Fragment 2336 
+	334	702	+
+	-1	328	+
+> Fragment 2337 
+	-2	702	-
+> Fragment 2338 
+	223	702	-
+> Fragment 2339 
+	-1	703	+
+> Fragment 2340 
+	0	701	-
+> Fragment 2341 
+> Fragment 2342 
+	-1	703	+
+> Fragment 2343 
+	568	702	+
+	0	461	+
+> Fragment 2344 
+	423	701	-
+	-2	426	-
+> Fragment 2345 
+	471	701	-
+	172	468	-
+> Fragment 2346 
+	157	702	-
+> Fragment 2347 
+	-1	703	+
+> Fragment 2348 
+	468	701	+
+	0	224	-
+> Fragment 2349 
+	-1	649	+
+> Fragment 2350 
+	0	701	+
+> Fragment 2351 
+> Fragment 2352 
+	-2	702	-
+> Fragment 2353 
+	-2	702	-
+> Fragment 2354 
+	193	702	-
+> Fragment 2355 
+	-2	702	-
+> Fragment 2356 
+	0	701	+
+> Fragment 2357 
+> Fragment 2358 
+	67	702	-
+> Fragment 2359 
+	552	701	+
+	-2	435	-
+> Fragment 2360 
+	132	701	-
+> Fragment 2361 
+	-1	298	+
+	372	701	-
+> Fragment 2362 
+	-1	703	-
+> Fragment 2363 
+	0	701	+
+> Fragment 2364 
+	531	701	-
+	-2	453	-
+> Fragment 2365 
+	0	140	+
+	147	701	+
+> Fragment 2366 
+	171	557	-
+> Fragment 2367 
+	34	702	+
+> Fragment 2368 
+	-2	702	+
+> Fragment 2369 
+	-2	135	+
+	165	701	+
+> Fragment 2370 
+	-2	630	+
+> Fragment 2371 
+	182	703	-
+	0	158	-
+> Fragment 2372 
+	-1	526	+
+> Fragment 2373 
+	-1	703	-
+> Fragment 2374 
+	115	453	-
+> Fragment 2375 
+	596	703	-
+	159	572	-
+> Fragment 2376 
+	-2	159	+
+	165	602	+
+> Fragment 2377 
+	-1	508	-
+> Fragment 2378 
+	0	701	-
+> Fragment 2379 
+	38	703	-
+> Fragment 2380 
+	-1	703	+
+> Fragment 2381 
+	-2	702	+
+> Fragment 2382 
+	-2	702	-
+> Fragment 2383 
+	-1	703	+
+> Fragment 2384 
+	-1	553	-
+> Fragment 2385 
+	-2	525	+
+	618	701	+
+> Fragment 2386 
+	-2	702	-
+> Fragment 2387 
+	-1	220	-
+	319	603	-
+> Fragment 2388 
+	0	161	-
+> Fragment 2389 
+	-1	337	+
+	434	703	+
+> Fragment 2390 
+	512	703	-
+	-2	444	-
+> Fragment 2391 
+	476	703	+
+> Fragment 2392 
+	-1	265	+
+	392	703	+
+> Fragment 2393 
+	191	703	-
+	-2	123	-
+> Fragment 2394 
+	-2	291	+
+	315	701	+
+> Fragment 2395 
+	0	482	+
+> Fragment 2396 
+	162	566	+
+	525	701	-
+> Fragment 2397 
+	-2	702	-
+> Fragment 2398 
+	0	701	+
+> Fragment 2399 
+	-1	274	-
+	271	702	-
+> Fragment 2400 
+	-1	703	-
+> Fragment 2401 
+	-2	702	-
+> Fragment 2402 
+	344	703	-
+> Fragment 2403 
+	0	674	-
+> Fragment 2404 
+	0	701	+
+> Fragment 2405 
+	0	701	-
+> Fragment 2406 
+	125	703	+
+> Fragment 2407 
+	0	701	-
+> Fragment 2408 
+	-1	703	-
+> Fragment 2409 
+	0	701	+
+> Fragment 2410 
+	-1	361	+
+	486	701	+
+> Fragment 2411 
+	-2	702	+
+	642	701	-
+> Fragment 2412 
+	0	410	+
+	568	702	-
+> Fragment 2413 
+	-1	703	-
+> Fragment 2414 
+	0	701	+
+> Fragment 2415 
+	416	703	-
+	-2	372	-
+> Fragment 2416 
+	281	703	+
+	0	200	+
+> Fragment 2417 
+	-1	703	+
+> Fragment 2418 
+	482	703	+
+> Fragment 2419 
+	0	152	-
+	159	701	-
+> Fragment 2420 
+	628	702	+
+	-1	604	+
+> Fragment 2421 
+	56	703	+
+> Fragment 2422 
+	-1	475	+
+	480	701	+
+> Fragment 2423 
+	508	702	+
+	0	491	+
+> Fragment 2424 
+	272	646	-
+	0	242	-
+> Fragment 2425 
+	-1	85	+
+	208	702	-
+> Fragment 2426 
+	-2	450	-
+> Fragment 2427 
+	-1	703	+
+> Fragment 2428 
+	-1	703	+
+> Fragment 2429 
+	-1	460	-
+> Fragment 2430 
+	-1	703	-
+> Fragment 2431 
+	430	702	+
+> Fragment 2432 
+	126	701	+
+> Fragment 2433 
+	493	702	-
+> Fragment 2434 
+	-1	703	-
+> Fragment 2435 
+	112	702	+
+	-1	118	+
+> Fragment 2436 
+	-1	703	+
+> Fragment 2437 
+	-2	702	+
+> Fragment 2438 
+	548	703	+
+	0	602	-
+> Fragment 2439 
+	-1	268	+
+	560	703	+
+> Fragment 2440 
+	-1	253	+
+	282	701	+
+> Fragment 2441 
+	0	359	-
+> Fragment 2442 
+	92	703	-
+> Fragment 2443 
+	-2	702	-
+> Fragment 2444 
+	-2	531	+
+	638	703	+
+> Fragment 2445 
+	0	701	+
+> Fragment 2446 
+	0	617	+
+> Fragment 2447 
+	282	701	+
+	-2	312	-
+> Fragment 2448 
+	-1	697	+
+> Fragment 2449 
+	-1	703	-
+> Fragment 2450 
+	563	703	+
+	-1	91	-
+> Fragment 2451 
+	-1	703	+
+> Fragment 2452 
+	0	701	+
+> Fragment 2453 
+	300	701	+
+	0	185	-
+> Fragment 2454 
+	157	645	-
+> Fragment 2455 
+	0	608	-
+> Fragment 2456 
+	0	701	+
+> Fragment 2457 
+	-2	441	-
+	475	702	-
+> Fragment 2458 
+	-1	241	-
+	258	701	-
+> Fragment 2459 
+	-1	703	-
+> Fragment 2460 
+	-1	703	+
+> Fragment 2461 
+	-1	703	+
+> Fragment 2462 
+	0	701	-
+> Fragment 2463 
+	-1	103	-
+	119	703	-
+> Fragment 2464 
+	496	702	-
+> Fragment 2465 
+	559	702	+
+	0	482	+
+> Fragment 2466 
+	416	703	+
+	0	350	+
+> Fragment 2467 
+	-2	702	+
+> Fragment 2468 
+	194	532	-
+> Fragment 2469 
+	194	595	-
+> Fragment 2470 
+	-1	703	+
+> Fragment 2471 
+	0	701	-
+> Fragment 2472 
+	-1	703	-
+> Fragment 2473 
+	-2	468	-
+	526	702	-
+> Fragment 2474 
+	-1	703	+
+> Fragment 2475 
+	-2	534	+
+> Fragment 2476 
+	24	701	+
+> Fragment 2477 
+	-1	703	+
+> Fragment 2478 
+	0	650	+
+> Fragment 2479 
+	404	703	+
+	0	392	+
+> Fragment 2480 
+	0	326	+
+	552	701	+
+> Fragment 2481 
+	-1	442	+
+> Fragment 2482 
+	-2	702	+
+> Fragment 2483 
+	5	373	-
+	375	701	-
+> Fragment 2484 
+	484	702	+
+> Fragment 2485 
+	-2	219	+
+> Fragment 2486 
+	-1	703	-
+> Fragment 2487 
+	0	632	-
+> Fragment 2488 
+	-1	238	+
+	335	703	+
+> Fragment 2489 
+	0	701	+
+> Fragment 2490 
+	0	647	-
+> Fragment 2491 
+	-1	703	-
+> Fragment 2492 
+	-2	642	-
+> Fragment 2493 
+	-1	703	+
+> Fragment 2494 
+	460	702	-
+> Fragment 2495 
+	0	701	-
+> Fragment 2496 
+	-2	702	-
+> Fragment 2497 
+	0	521	-
+> Fragment 2498 
+	78	701	+
+> Fragment 2499 
+	-2	702	+
+> Fragment 2500 
+	-1	703	-
+> Fragment 2501 
+	-2	702	-
+> Fragment 2502 
+	-2	702	+
+> Fragment 2503 
+	-1	703	-
+> Fragment 2504 
+	0	701	-
+> Fragment 2505 
+	-2	480	-
+	541	702	-
+> Fragment 2506 
+	-1	388	+
+	509	703	+
+> Fragment 2507 
+	114	701	+
+> Fragment 2508 
+	-1	553	+
+> Fragment 2509 
+	0	701	-
+> Fragment 2510 
+	-2	702	-
+> Fragment 2511 
+	0	638	-
+> Fragment 2512 
+	0	701	+
+> Fragment 2513 
+	-1	508	+
+	616	702	-
+> Fragment 2514 
+	-2	702	-
+> Fragment 2515 
+	0	473	-
+	492	701	-
+> Fragment 2516 
+	-2	219	+
+	321	701	+
+> Fragment 2517 
+	217	702	+
+> Fragment 2518 
+	0	701	+
+> Fragment 2519 
+	0	524	-
+> Fragment 2520 
+	57	701	-
+> Fragment 2521 
+	0	92	+
+	220	702	-
+> Fragment 2522 
+	3	701	-
+> Fragment 2523 
+	-2	177	+
+	417	701	+
+> Fragment 2524 
+	-1	703	-
+> Fragment 2525 
+	-2	453	+
+	461	703	+
+> Fragment 2526 
+	-2	702	+
+> Fragment 2527 
+	167	703	+
+> Fragment 2528 
+	-1	703	-
+> Fragment 2529 
+	-2	507	+
+	516	701	+
+> Fragment 2530 
+	-1	703	-
+> Fragment 2531 
+	-2	531	+
+	543	701	+
+> Fragment 2532 
+	188	703	+
+> Fragment 2533 
+	0	701	+
+> Fragment 2534 
+	0	698	+
+> Fragment 2535 
+	-2	135	+
+	384	701	-
+> Fragment 2536 
+	-1	703	+
+> Fragment 2537 
+	-2	291	+
+	366	701	+
+> Fragment 2538 
+	0	701	-
+> Fragment 2539 
+	-1	262	+
+	259	702	-
+> Fragment 2540 
+	-2	702	+
+> Fragment 2541 
+	-1	703	+
+> Fragment 2542 
+	-1	283	-
+> Fragment 2543 
+	0	701	-
+> Fragment 2544 
+	90	701	+
+> Fragment 2545 
+	-1	286	+
+	321	608	+
+> Fragment 2546 
+	-2	702	+
+> Fragment 2547 
+	0	701	+
+> Fragment 2548 
+> Fragment 2549 
+	0	302	-
+	306	701	-
+> Fragment 2550 
+	50	682	+
+> Fragment 2551 
+	-2	702	-
+> Fragment 2552 
+	33	479	-
+	513	701	-
+> Fragment 2553 
+	132	701	-
+	-2	111	-
+> Fragment 2554 
+	121	702	-
+> Fragment 2555 
+	-2	459	-
+	502	702	-
+> Fragment 2556 
+	-2	702	+
+> Fragment 2557 
+	308	538	-
+	-2	267	-
+	484	702	-
+> Fragment 2558 
+	-2	522	-
+	568	702	-
+> Fragment 2559 
+	0	701	+
+> Fragment 2560 
+	-1	556	-
+> Fragment 2561 
+	-2	702	+
+> Fragment 2562 
+	-1	700	+
+> Fragment 2563 
+	0	377	-
+	421	702	-
+> Fragment 2564 
+	560	703	-
+	-2	492	-
+> Fragment 2565 
+	-1	703	+
+> Fragment 2566 
+	0	701	-
+> Fragment 2567 
+	-1	703	-
+> Fragment 2568 
+	0	701	-
+> Fragment 2569 
+	-1	703	+
+> Fragment 2570 
+	0	701	+
+> Fragment 2571 
+	468	701	+
+	0	242	-
+> Fragment 2572 
+	112	702	+
+> Fragment 2573 
+	-1	703	+
+> Fragment 2574 
+	7	702	-
+> Fragment 2575 
+	-1	484	+
+> Fragment 2576 
+	-1	187	-
+	508	702	-
+> Fragment 2577 
+	95	703	+
+> Fragment 2578 
+	71	703	+
+> Fragment 2579 
+	-2	702	+
+> Fragment 2580 
+	-2	702	+
+> Fragment 2581 
+	296	703	+
+	-2	141	-
+> Fragment 2582 
+	50	703	-
+> Fragment 2583 
+	214	624	+
+	-1	205	+
+> Fragment 2584 
+	-1	703	+
+> Fragment 2585 
+	0	701	-
+> Fragment 2586 
+	232	702	+
+> Fragment 2587 
+	-2	702	+
+> Fragment 2588 
+	-2	702	-
+> Fragment 2589 
+	-1	703	-
+> Fragment 2590 
+	-2	72	-
+	217	702	-
+> Fragment 2591 
+	0	701	+
+> Fragment 2592 
+	0	77	-
+	106	702	-
+> Fragment 2593 
+	0	593	-
+> Fragment 2594 
+	-2	702	-
+> Fragment 2595 
+	0	656	+
+> Fragment 2596 
+	149	703	-
+	-2	132	-
+> Fragment 2597 
+	328	702	+
+> Fragment 2598 
+	467	703	-
+	270	467	-
+	19	270	-
+> Fragment 2599 
+	155	703	-
+> Fragment 2600 
+	-1	703	+
+> Fragment 2601 
+	0	701	+
+> Fragment 2602 
+	0	701	+
+> Fragment 2603 
+	-1	562	-
+> Fragment 2604 
+	-2	465	+
+	504	701	+
+> Fragment 2605 
+	-2	594	+
+> Fragment 2606 
+	-1	310	+
+	470	703	+
+> Fragment 2607 
+	0	701	-
+> Fragment 2608 
+	-1	703	-
+> Fragment 2609 
+	-2	315	-
+	376	702	-
+> Fragment 2610 
+	-2	702	+
+> Fragment 2611 
+	0	701	+
+> Fragment 2612 
+	0	701	+
+> Fragment 2613 
+	-2	552	+
+	545	703	+
+> Fragment 2614 
+	-2	258	+
+	365	703	+
+> Fragment 2615 
+	0	701	-
+> Fragment 2616 
+	202	702	+
+	0	191	+
+> Fragment 2617 
+	50	430	+
+	413	703	-
+> Fragment 2618 
+	-2	672	+
+> Fragment 2619 
+	266	703	+
+> Fragment 2620 
+	-1	703	+
+> Fragment 2621 
+	0	701	-
+> Fragment 2622 
+	-2	702	+
+> Fragment 2623 
+	0	587	+
+> Fragment 2624 
+	376	675	+
+	-1	376	+
+> Fragment 2625 
+	-2	702	-
+> Fragment 2626 
+	0	701	+
+> Fragment 2627 
+	0	701	-
+> Fragment 2628 
+	345	701	-
+	-2	144	-
+> Fragment 2629 
+	-2	567	-
+> Fragment 2630 
+	0	320	+
+	485	703	-
+> Fragment 2631 
+	269	703	+
+	0	224	+
+> Fragment 2632 
+	0	701	+
+> Fragment 2633 
+	-2	450	-
+	595	702	-
+> Fragment 2634 
+	560	703	-
+	0	545	-
+> Fragment 2635 
+	614	703	-
+	0	227	-
+	246	578	-
+> Fragment 2636 
+	-2	195	+
+	179	703	+
+> Fragment 2637 
+	-1	703	-
+> Fragment 2638 
+	0	695	+
+> Fragment 2639 
+	-1	703	-
+> Fragment 2640 
+	-1	607	+
+> Fragment 2641 
+	0	701	-
+> Fragment 2642 
+	-2	702	-
+> Fragment 2643 
+	-1	466	+
+	504	701	+
+> Fragment 2644 
+	142	702	-
+> Fragment 2645 
+	0	104	+
+	180	701	-
+> Fragment 2646 
+	-2	222	+
+	219	701	+
+> Fragment 2647 
+	587	703	-
+	-2	513	-
+> Fragment 2648 
+	-1	136	-
+	353	646	-
+	177	407	-
+> Fragment 2649 
+	-1	703	-
+> Fragment 2650 
+	-1	703	-
+> Fragment 2651 
+	-1	703	-
+> Fragment 2652 
+	0	89	-
+	105	701	-
+> Fragment 2653 
+	0	227	+
+	594	701	+
+> Fragment 2654 
+	-2	261	+
+	339	701	-
+> Fragment 2655 
+	-1	703	+
+> Fragment 2656 
+	-2	135	+
+	159	602	+
+> Fragment 2657 
+	-1	391	+
+	403	702	-
+> Fragment 2658 
+	-2	375	+
+	462	701	-
+> Fragment 2659 
+	0	701	+
+> Fragment 2660 
+> Fragment 2661 
+	-1	703	-
+> Fragment 2662 
+	294	701	-
+	-2	297	-
+> Fragment 2663 
+	-1	196	-
+> Fragment 2664 
+	-1	703	-
+> Fragment 2665 
+	-1	703	-
+> Fragment 2666 
+	-1	703	-
+> Fragment 2667 
+	341	703	-
+	-2	339	-
+> Fragment 2668 
+	350	703	+
+	-2	189	-
+> Fragment 2669 
+	152	703	+
+> Fragment 2670 
+	122	703	+
+> Fragment 2671 
+	-2	702	+
+> Fragment 2672 
+	141	701	+
+> Fragment 2673 
+	171	668	+
+> Fragment 2674 
+	-1	703	+
+> Fragment 2675 
+	-1	493	-
+> Fragment 2676 
+	-1	703	+
+> Fragment 2677 
+	-1	703	-
+> Fragment 2678 
+	165	554	+
+	625	702	-
+> Fragment 2679 
+	-1	703	-
+> Fragment 2680 
+	21	701	-
+> Fragment 2681 
+	-1	703	-
+> Fragment 2682 
+	72	653	+
+> Fragment 2683 
+	0	647	+
+> Fragment 2684 
+	-1	346	+
+	494	703	+
+> Fragment 2685 
+	0	701	-
+> Fragment 2686 
+	244	702	+
+	-1	133	+
+> Fragment 2687 
+	-1	703	+
+> Fragment 2688 
+	-2	420	+
+	494	703	-
+> Fragment 2689 
+	198	701	+
+> Fragment 2690 
+	0	212	-
+	213	701	-
+> Fragment 2691 
+	-1	541	-
+	538	702	-
+> Fragment 2692 
+	0	677	-
+> Fragment 2693 
+	-1	703	+
+> Fragment 2694 
+	-1	703	-
+> Fragment 2695 
+	-1	640	+
+> Fragment 2696 
+	-1	703	+
+> Fragment 2697 
+	-1	703	+
+> Fragment 2698 
+	-2	480	+
+	510	701	+
+> Fragment 2699 
+	6	701	-
+> Fragment 2700 
+	-1	460	+
+	504	701	-
+> Fragment 2701 
+	99	701	+
+> Fragment 2702 
+	-1	703	-
+> Fragment 2703 
+	33	701	-
+> Fragment 2704 
+	-2	702	-
+> Fragment 2705 
+	-2	96	+
+	147	701	-
+> Fragment 2706 
+	0	170	-
+	192	506	-
+> Fragment 2707 
+	0	89	-
+	310	702	-
+> Fragment 2708 
+	-1	703	+
+> Fragment 2709 
+	0	701	+
+> Fragment 2710 
+	0	422	+
+> Fragment 2711 
+	0	383	+
+	392	703	-
+> Fragment 2712 
+	-1	703	+
+> Fragment 2713 
+	-2	669	+
+> Fragment 2714 
+	-2	702	-
+> Fragment 2715 
+	218	703	-
+> Fragment 2716 
+	-1	265	-
+	291	659	-
+> Fragment 2717 
+	-2	495	+
+	593	703	+
+> Fragment 2718 
+	375	701	+
+	-1	319	-
+> Fragment 2719 
+	-2	702	-
+> Fragment 2720 
+	-2	327	+
+	375	701	+
+> Fragment 2721 
+	-2	702	+
+> Fragment 2722 
+	73	702	-
+> Fragment 2723 
+	423	701	+
+> Fragment 2724 
+	-2	702	+
+> Fragment 2725 
+	-2	702	-
+> Fragment 2726 
+> Fragment 2727 
+	437	703	-
+	0	410	-
+> Fragment 2728 
+	0	488	+
+> Fragment 2729 
+	-2	186	+
+	173	703	+
+> Fragment 2730 
+	-1	703	-
+> Fragment 2731 
+	245	703	-
+> Fragment 2732 
+	-1	703	-
+> Fragment 2733 
+	-1	652	+
+> Fragment 2734 
+	-1	442	-
+> Fragment 2735 
+	-1	358	-
+	352	702	-
+> Fragment 2736 
+	-2	348	+
+	320	703	+
+> Fragment 2737 
+	0	701	-
+> Fragment 2738 
+	0	380	+
+	363	701	-
+> Fragment 2739 
+	-1	703	+
+> Fragment 2740 
+	-2	309	-
+	334	702	-
+> Fragment 2741 
+	0	371	-
+	421	702	-
+> Fragment 2742 
+	-2	96	-
+	160	504	-
+> Fragment 2743 
+	61	702	-
+> Fragment 2744 
+	76	570	-
+> Fragment 2745 
+	0	656	-
+> Fragment 2746 
+	-1	703	-
+> Fragment 2747 
+	-1	277	-
+	390	701	-
+> Fragment 2748 
+	-2	627	+
+> Fragment 2749 
+	530	703	-
+> Fragment 2750 
+	70	702	-
+> Fragment 2751 
+	-1	703	+
+> Fragment 2752 
+	-2	483	-
+> Fragment 2753 
+	-1	703	-
+> Fragment 2754 
+	0	701	+
+> Fragment 2755 
+	34	681	+
+> Fragment 2756 
+	0	701	-
+> Fragment 2757 
+	-1	316	+
+	323	703	-
+> Fragment 2758 
+	0	701	+
+> Fragment 2759 
+	74	703	+
+> Fragment 2760 
+	0	701	+
+> Fragment 2761 
+	499	702	-
+> Fragment 2762 
+	-2	702	+
+> Fragment 2763 
+	0	701	-
+> Fragment 2764 
+	-2	126	+
+	134	526	-
+> Fragment 2765 
+	-2	507	+
+> Fragment 2766 
+	629	703	-
+	-2	591	-
+> Fragment 2767 
+	-1	589	-
+	607	702	-
+> Fragment 2768 
+	-1	517	-
+> Fragment 2769 
+	-2	702	-
+> Fragment 2770 
+	0	701	+
+> Fragment 2771 
+> Fragment 2772 
+	-1	703	+
+> Fragment 2773 
+	0	701	-
+> Fragment 2774 
+	-1	703	+
+> Fragment 2775 
+	0	701	+
+> Fragment 2776 
+	-2	195	+
+	220	555	+
+> Fragment 2777 
+	-2	492	+
+	533	703	+
+> Fragment 2778 
+	69	701	-
+> Fragment 2779 
+	-2	552	-
+> Fragment 2780 
+	-2	702	-
+> Fragment 2781 
+	-1	637	+
+> Fragment 2782 
+	-1	421	+
+	574	702	-
+> Fragment 2783 
+	272	703	+
+	0	248	+
+> Fragment 2784 
+	0	170	-
+	201	701	-
+> Fragment 2785 
+	0	665	-
+> Fragment 2786 
+	0	269	+
+	342	701	+
+> Fragment 2787 
+	86	499	+
+> Fragment 2788 
+	0	701	-
+> Fragment 2789 
+	-2	702	-
+> Fragment 2790 
+	548	703	+
+	-1	433	-
+> Fragment 2791 
+	-1	583	+
+> Fragment 2792 
+	-2	579	+
+	623	703	-
+> Fragment 2793 
+	-1	472	-
+	545	703	-
+> Fragment 2794 
+	-2	492	-
+> Fragment 2795 
+	0	701	+
+> Fragment 2796 
+	-2	702	+
+> Fragment 2797 
+	-2	369	-
+> Fragment 2798 
+	-1	703	-
+> Fragment 2799 
+	0	701	+
+> Fragment 2800 
+	-2	498	+
+	528	701	+
+> Fragment 2801 
+	63	701	-
+> Fragment 2802 
+	-1	703	-
+> Fragment 2803 
+	0	701	-
+> Fragment 2804 
+	-1	703	+
+> Fragment 2805 
+	0	353	-
+	400	702	-
+> Fragment 2806 
+	9	701	+
+> Fragment 2807 
+	0	701	+
+> Fragment 2808 
+	-1	703	+
+> Fragment 2809 
+	0	701	-
+> Fragment 2810 
+	55	495	-
+> Fragment 2811 
+	336	701	+
+> Fragment 2812 
+	497	703	+
+	0	386	+
+> Fragment 2813 
+	0	491	-
+> Fragment 2814 
+	454	702	+
+	-1	235	+
+> Fragment 2815 
+	0	605	-
+> Fragment 2816 
+	-1	193	+
+	216	701	+
+> Fragment 2817 
+	0	338	-
+	486	701	-
+> Fragment 2818 
+	602	703	+
+	-2	201	-
+> Fragment 2819 
+	-1	133	+
+	287	676	+
+> Fragment 2820 
+	0	701	-
+> Fragment 2821 
+	568	702	+
+> Fragment 2822 
+	0	194	-
+	208	702	-
+> Fragment 2823 
+	260	703	-
+	-2	195	-
+> Fragment 2824 
+	0	236	-
+	342	701	-
+> Fragment 2825 
+	-2	636	+
+	633	701	+
+> Fragment 2826 
+	-1	703	+
+> Fragment 2827 
+	-1	232	+
+	281	703	+
+> Fragment 2828 
+	513	701	+
+	-1	256	-
+> Fragment 2829 
+	-2	702	+
+> Fragment 2830 
+	452	703	-
+> Fragment 2831 
+	-2	702	+
+> Fragment 2832 
+	-2	702	-
+> Fragment 2833 
+	171	701	-
+> Fragment 2834 
+	-2	96	+
+	114	701	-
+> Fragment 2835 
+	0	701	+
+> Fragment 2836 
+	79	702	+
+> Fragment 2837 
+	-2	555	+
+> Fragment 2838 
+	-1	229	+
+	204	701	+
+> Fragment 2839 
+	141	701	+
+> Fragment 2840 
+	119	703	+
+> Fragment 2841 
+	-2	702	+
+> Fragment 2842 
+	-1	151	+
+	260	499	+
+> Fragment 2843 
+	-2	702	-
+> Fragment 2844 
+	-2	558	+
+> Fragment 2845 
+	0	455	-
+> Fragment 2846 
+	58	702	+
+> Fragment 2847 
+	0	701	-
+> Fragment 2848 
+	0	701	+
+> Fragment 2849 
+> Fragment 2850 
+	-2	123	+
+	155	418	-
+	421	702	-
+> Fragment 2851 
+	-1	703	+
+> Fragment 2852 
+	-2	180	+
+	203	703	+
+> Fragment 2853 
+	-2	702	-
+> Fragment 2854 
+	0	365	+
+	383	703	-
+> Fragment 2855 
+	0	701	+
+> Fragment 2856 
+	0	146	-
+	165	701	-
+> Fragment 2857 
+	0	701	+
+> Fragment 2858 
+	395	703	-
+	-2	318	-
+> Fragment 2859 
+	-2	312	+
+	320	703	+
+> Fragment 2860 
+> Fragment 2861 
+	-1	703	-
+> Fragment 2862 
+	-2	636	+
+> Fragment 2863 
+	335	703	-
+	0	209	-
+> Fragment 2864 
+	-2	702	-
+> Fragment 2865 
+	-1	703	-
+> Fragment 2866 
+	-2	582	-
+> Fragment 2867 
+	432	641	+
+> Fragment 2868 
+	-2	276	+
+	349	702	+
+> Fragment 2869 
+	177	701	+
+> Fragment 2870 
+> Fragment 2871 
+	-1	385	-
+	429	701	-
+> Fragment 2872 
+	-1	124	-
+	145	573	-
+> Fragment 2873 
+	-1	703	-
+> Fragment 2874 
+	-1	130	+
+	272	703	+
+> Fragment 2875 
+	-1	703	+
+> Fragment 2876 
+	-2	702	-
+> Fragment 2877 
+	-2	702	+
+> Fragment 2878 
+	-1	703	-
+> Fragment 2879 
+	555	701	+
+	-2	450	-
+> Fragment 2880 
+	589	702	+
+	48	482	+
+> Fragment 2881 
+	-2	165	-
+> Fragment 2882 
+	-1	703	-
+> Fragment 2883 
+	-2	702	-
+> Fragment 2884 
+	-1	124	-
+	182	703	-
+> Fragment 2885 
+	-1	103	-
+	305	703	-
+> Fragment 2886 
+	202	702	-
+> Fragment 2887 
+	-1	703	+
+> Fragment 2888 
+	-1	703	+
+> Fragment 2889 
+	465	701	-
+> Fragment 2890 
+	-1	406	-
+> Fragment 2891 
+	87	356	+
+	407	703	-
+> Fragment 2892 
+	40	702	+
+> Fragment 2893 
+	-2	474	-
+> Fragment 2894 
+	-1	208	-
+	265	702	-
+> Fragment 2895 
+	-2	507	-
+> Fragment 2896 
+> Fragment 2897 
+	58	405	+
+	414	701	+
+> Fragment 2898 
+	318	701	-
+	-2	375	-
+> Fragment 2899 
+	0	293	+
+	542	703	-
+> Fragment 2900 
+	47	703	-
+> Fragment 2901 
+	0	701	-
+> Fragment 2902 
+	-2	252	+
+	306	701	+
+> Fragment 2903 
+	-1	139	+
+	215	703	-
+> Fragment 2904 
+	0	701	+
+> Fragment 2905 
+	-1	703	-
+> Fragment 2906 
+	-1	166	+
+> Fragment 2907 
+	-2	573	-
+	607	702	-
+> Fragment 2908 
+	-2	702	+
+> Fragment 2909 
+	0	701	+
+> Fragment 2910 
+	-1	703	+
+> Fragment 2911 
+	-1	703	-
+> Fragment 2912 
+	195	467	-
+	427	702	-
+> Fragment 2913 
+	-2	702	+
+> Fragment 2914 
+	521	703	-
+	-2	507	-
+> Fragment 2915 
+	0	701	+
+> Fragment 2916 
+	0	701	+
+> Fragment 2917 
+	152	496	+
+> Fragment 2918 
+	-1	355	-
+	380	703	-
+> Fragment 2919 
+	159	701	-
+	-2	192	-
+> Fragment 2920 
+	-1	703	+
+> Fragment 2921 
+	405	701	+
+	-2	396	-
+> Fragment 2922 
+	574	702	+
+	0	584	+
+> Fragment 2923 
+	-2	702	-
+> Fragment 2924 
+	-1	433	+
+	558	701	+
+> Fragment 2925 
+	-2	702	+
+> Fragment 2926 
+	569	703	-
+	0	572	-
+> Fragment 2927 
+	-1	112	-
+	195	410	-
+	468	701	-
+> Fragment 2928 
+	0	701	+
+> Fragment 2929 
+	-2	702	+
+> Fragment 2930 
+	0	323	-
+> Fragment 2931 
+	-1	703	+
+> Fragment 2932 
+	531	701	-
+> Fragment 2933 
+	-1	703	-
+> Fragment 2934 
+	26	703	-
+> Fragment 2935 
+	419	703	+
+	0	419	+
+> Fragment 2936 
+	-2	186	+
+	231	701	+
+> Fragment 2937 
+	0	701	+
+> Fragment 2938 
+	-1	703	+
+> Fragment 2939 
+	182	703	-
+> Fragment 2940 
+	120	701	+
+> Fragment 2941 
+	0	701	-
+> Fragment 2942 
+	-2	636	+
+> Fragment 2943 
+	-2	702	-
+> Fragment 2944 
+	-1	433	-
+	437	703	-
+> Fragment 2945 
+	-1	703	-
+> Fragment 2946 
+	0	539	+
+> Fragment 2947 
+	0	701	+
+> Fragment 2948 
+	-1	703	+
+> Fragment 2949 
+	332	703	-
+	-2	285	-
+> Fragment 2950 
+	481	702	-
+> Fragment 2951 
+	300	701	-
+	-2	306	-
+> Fragment 2952 
+	-2	702	+
+> Fragment 2953 
+	-1	184	+
+	181	702	-
+> Fragment 2954 
+	578	703	+
+	-2	282	-
+> Fragment 2955 
+	-1	703	+
+> Fragment 2956 
+	458	703	+
+	0	263	+
+> Fragment 2957 
+	-1	703	-
+> Fragment 2958 
+	0	701	+
+> Fragment 2959 
+> Fragment 2960 
+	-2	702	-
+> Fragment 2961 
+	0	701	-
+> Fragment 2962 
+	0	533	+
+	545	703	-
+> Fragment 2963 
+	-1	505	-
+> Fragment 2964 
+	-1	412	+
+> Fragment 2965 
+	-1	676	+
+> Fragment 2966 
+	-1	703	-
+> Fragment 2967 
+	391	702	+
+> Fragment 2968 
+	59	703	+
+> Fragment 2969 
+	173	703	+
+	0	131	+
+> Fragment 2970 
+	-2	702	+
+> Fragment 2971 
+	-1	247	+
+	393	701	+
+> Fragment 2972 
+	254	703	-
+	0	227	-
+> Fragment 2973 
+	0	701	-
+> Fragment 2974 
+	98	703	+
+> Fragment 2975 
+	0	701	+
+> Fragment 2976 
+	-1	301	+
+	384	701	+
+> Fragment 2977 
+	0	329	-
+	363	701	-
+> Fragment 2978 
+	-2	702	-
+> Fragment 2979 
+	-1	484	-
+> Fragment 2980 
+	438	701	-
+	-2	237	-
+> Fragment 2981 
+	-1	478	-
+	623	703	-
+> Fragment 2982 
+	-1	700	+
+> Fragment 2983 
+	-1	703	+
+> Fragment 2984 
+> Fragment 2985 
+	-1	631	+
+> Fragment 2986 
+	151	486	+
+	-1	151	+
+	483	701	-
+> Fragment 2987 
+	183	701	+
+> Fragment 2988 
+	-1	703	-
+> Fragment 2989 
+	188	703	+
+> Fragment 2990 
+	203	631	-
+	0	200	-
+> Fragment 2991 
+	145	702	-
+> Fragment 2992 
+	-1	703	-
+> Fragment 2993 
+	-1	418	+
+> Fragment 2994 
+	325	702	+
+> Fragment 2995 
+	0	452	+
+	528	701	-
+> Fragment 2996 
+	17	385	-
+	452	703	-
+> Fragment 2997 
+	-2	702	-
+> Fragment 2998 
+	-2	702	-
+> Fragment 2999 
+	-2	702	+
+> Fragment 3000 
+	-1	703	-
+> Fragment 3001 
+	-1	703	+
+> Fragment 3002 
+	467	703	+
+	0	437	+
+> Fragment 3003 
+	268	702	+
+	-1	271	+
+> Fragment 3004 
+	-1	703	+
+> Fragment 3005 
+	0	701	+
+> Fragment 3006 
+	529	702	+
+	-2	321	-
+> Fragment 3007 
+	-2	489	-
+> Fragment 3008 
+	-2	702	+
+> Fragment 3009 
+> Fragment 3010 
+	-1	703	+
+> Fragment 3011 
+	118	702	+
+> Fragment 3012 
+	-1	70	-
+> Fragment 3013 
+	423	701	-
+	-2	366	-
+> Fragment 3014 
+	-1	535	+
+> Fragment 3015 
+	122	703	-
+> Fragment 3016 
+	-1	703	-
+> Fragment 3017 
+	0	701	-
+> Fragment 3018 
+	0	701	+
+> Fragment 3019 
+	0	269	+
+	392	703	-
+> Fragment 3020 
+	-2	702	-
+> Fragment 3021 
+	0	701	+
+> Fragment 3022 
+	-2	702	+
+> Fragment 3023 
+	0	170	+
+	537	701	+
+> Fragment 3024 
+	-2	312	+
+	376	702	+
+> Fragment 3025 
+	-1	703	+
+> Fragment 3026 
+	0	515	-
+> Fragment 3027 
+	240	596	-
+	-2	222	-
+> Fragment 3028 
+	523	702	+
+	45	428	+
+> Fragment 3029 
+	79	702	-
+> Fragment 3030 
+	-2	702	+
+> Fragment 3031 
+	-2	702	+
+> Fragment 3032 
+	350	703	-
+	-2	306	-
+> Fragment 3033 
+	323	703	-
+	-2	309	-
+> Fragment 3034 
+	0	701	-
+> Fragment 3035 
+	-1	703	+
+> Fragment 3036 
+	-1	703	-
+> Fragment 3037 
+	47	703	+
+> Fragment 3038 
+	-1	559	+
+> Fragment 3039 
+	461	703	-
+	87	371	-
+> Fragment 3040 
+	1	315	-
+> Fragment 3041 
+	-1	355	-
+	401	703	-
+> Fragment 3042 
+	-1	703	+
+> Fragment 3043 
+	0	428	+
+	446	703	-
+> Fragment 3044 
+	208	702	+
+	0	245	+
+> Fragment 3045 
+	-1	646	+
+> Fragment 3046 
+	-1	103	+
+> Fragment 3047 
+	-1	532	-
+> Fragment 3048 
+	-1	214	+
+	253	702	-
+> Fragment 3049 
+	-1	193	-
+	242	469	-
+	595	702	-
+> Fragment 3050 
+	-1	703	-
+> Fragment 3051 
+	0	314	+
+	387	701	+
+> Fragment 3052 
+	-1	319	+
+	423	701	-
+> Fragment 3053 
+	213	428	-
+	-2	132	-
+> Fragment 3054 
+	-2	702	+
+> Fragment 3055 
+	559	702	+
+	-1	211	-
+> Fragment 3056 
+	0	701	+
+> Fragment 3057 
+	-2	702	-
+> Fragment 3058 
+	0	701	+
+> Fragment 3059 
+	-1	265	-
+> Fragment 3060 
+	-2	417	+
+	427	702	+
+> Fragment 3061 
+	394	702	+
+	0	98	-
+> Fragment 3062 
+	-2	441	+
+	453	701	-
+> Fragment 3063 
+	-1	703	+
+> Fragment 3064 
+	-2	702	-
+> Fragment 3065 
+	379	702	+
+	-1	370	-
+> Fragment 3066 
+	-1	703	+
+> Fragment 3067 
+	-1	301	+
+	371	703	+
+> Fragment 3068 
+	0	599	-
+> Fragment 3069 
+	-2	702	+
+> Fragment 3070 
+	-2	702	+
+> Fragment 3071 
+	0	701	+
+> Fragment 3072 
+	559	702	+
+	203	550	+
+> Fragment 3073 
+	-1	259	-
+	256	702	-
+> Fragment 3074 
+	-2	702	-
+> Fragment 3075 
+	0	701	-
+> Fragment 3076 
+	15	701	+
+> Fragment 3077 
+	-1	700	+
+> Fragment 3078 
+	-2	126	+
+	150	701	+
+> Fragment 3079 
+	-2	351	+
+	363	701	-
+> Fragment 3080 
+	-1	703	-
+> Fragment 3081 
+	0	701	+
+> Fragment 3082 
+	132	641	+
+> Fragment 3083 
+	0	701	+
+> Fragment 3084 
+	-1	658	-
+> Fragment 3085 
+	-1	703	+
+> Fragment 3086 
+	53	703	-
+> Fragment 3087 
+	236	703	-
+> Fragment 3088 
+	0	701	-
+> Fragment 3089 
+	54	482	+
+> Fragment 3090 
+	0	536	-
+> Fragment 3091 
+	437	703	+
+> Fragment 3092 
+	0	620	+
+> Fragment 3093 
+	0	701	-
+> Fragment 3094 
+	191	703	+
+> Fragment 3095 
+	0	224	+
+	516	701	+
+> Fragment 3096 
+> Fragment 3097 
+	42	677	+
+> Fragment 3098 
+	85	675	+
+> Fragment 3099 
+	-2	495	+
+	512	703	+
+> Fragment 3100 
+	518	703	+
+	0	479	+
+> Fragment 3101 
+	0	332	-
+	366	701	-
+> Fragment 3102 
+	506	703	+
+	0	371	+
+> Fragment 3103 
+	97	702	-
+> Fragment 3104 
+	0	701	+
+> Fragment 3105 
+	-2	318	-
+> Fragment 3106 
+	0	701	+
+> Fragment 3107 
+	-1	217	-
+> Fragment 3108 
+	-2	702	+
+> Fragment 3109 
+	284	703	-
+	-2	273	-
+> Fragment 3110 
+	0	95	+
+	369	701	+
+> Fragment 3111 
+	-2	702	-
+> Fragment 3112 
+	-2	702	-
+> Fragment 3113 
+	598	702	+
+	0	203	+
+	228	479	+
+> Fragment 3114 
+	0	623	+
+> Fragment 3115 
+	210	701	+
+> Fragment 3116 
+	-1	703	-
+> Fragment 3117 
+	77	703	-
+> Fragment 3118 
+	125	703	-
+> Fragment 3119 
+	0	365	+
+> Fragment 3120 
+	-2	702	+
+> Fragment 3121 
+	23	703	-
+> Fragment 3122 
+	-2	702	-
+> Fragment 3123 
+	100	702	-
+> Fragment 3124 
+	426	701	-
+	52	336	-
+> Fragment 3125 
+	-2	702	+
+> Fragment 3126 
+	222	701	+
+> Fragment 3127 
+	-2	702	-
+> Fragment 3128 
+	0	233	+
+	370	702	-
+> Fragment 3129 
+	-1	478	-
+> Fragment 3130 
+	120	701	+
+> Fragment 3131 
+	360	701	+
+> Fragment 3132 
+	-1	703	+
+> Fragment 3133 
+	-2	144	+
+	444	701	+
+> Fragment 3134 
+	147	701	+
+> Fragment 3135 
+	238	702	+
+	-1	205	+
+> Fragment 3136 
+	541	702	+
+	0	590	+
+> Fragment 3137 
+	-1	703	+
+> Fragment 3138 
+	0	701	+
+> Fragment 3139 
+	-1	355	+
+	399	701	-
+> Fragment 3140 
+	-1	703	+
+> Fragment 3141 
+	-2	702	-
+> Fragment 3142 
+	-2	702	-
+> Fragment 3143 
+	442	702	+
+	0	458	+
+> Fragment 3144 
+	-2	279	+
+	266	703	+
+> Fragment 3145 
+	397	702	-
+> Fragment 3146 
+	-1	703	+
+> Fragment 3147 
+	350	703	+
+> Fragment 3148 
+	0	701	-
+> Fragment 3149 
+	98	703	+
+> Fragment 3150 
+	349	702	+
+	-2	132	-
+> Fragment 3151 
+	-1	703	+
+> Fragment 3152 
+	-1	469	+
+	573	701	+
+> Fragment 3153 
+	-2	273	-
+> Fragment 3154 
+	-1	703	-
+> Fragment 3155 
+	0	701	+
+> Fragment 3156 
+	-2	357	+
+	462	701	+
+> Fragment 3157 
+	0	191	-
+> Fragment 3158 
+	-1	190	-
+	424	702	-
+> Fragment 3159 
+	-1	703	+
+> Fragment 3160 
+	-2	702	-
+> Fragment 3161 
+	296	703	-
+	0	206	-
+> Fragment 3162 
+	-2	351	-
+	397	702	-
+> Fragment 3163 
+	239	703	-
+	0	242	-
+> Fragment 3164 
+	0	668	-
+> Fragment 3165 
+	-1	400	-
+	424	702	-
+> Fragment 3166 
+	0	701	-
+> Fragment 3167 
+	407	703	+
+	-1	160	-
+> Fragment 3168 
+	-1	703	+
+> Fragment 3169 
+	0	572	-
+> Fragment 3170 
+	-2	240	+
+	237	701	+
+> Fragment 3171 
+	-2	543	+
+> Fragment 3172 
+	-1	703	+
+> Fragment 3173 
+	167	364	-
+	0	167	-
+	364	702	-
+> Fragment 3174 
+	0	77	+
+	324	701	+
+> Fragment 3175 
+	-2	702	+
+> Fragment 3176 
+	-1	124	-
+	138	701	-
+> Fragment 3177 
+	-1	703	-
+> Fragment 3178 
+	-2	702	+
+> Fragment 3179 
+	-1	703	+
+> Fragment 3180 
+	95	703	+
+	0	71	+
+> Fragment 3181 
+	-2	441	+
+> Fragment 3182 
+	-1	703	+
+> Fragment 3183 
+	0	701	+
+> Fragment 3184 
+	0	602	+
+> Fragment 3185 
+	-2	609	+
+> Fragment 3186 
+	-1	703	+
+> Fragment 3187 
+	115	630	-
+> Fragment 3188 
+	374	703	-
+> Fragment 3189 
+	-1	211	+
+	204	701	+
+> Fragment 3190 
+	-1	508	+
+	635	703	+
+> Fragment 3191 
+	0	605	+
+> Fragment 3192 
+	95	703	+
+> Fragment 3193 
+	-2	702	-
+> Fragment 3194 
+	42	701	-
+> Fragment 3195 
+	-1	703	+
+> Fragment 3196 
+	-2	702	+
+> Fragment 3197 
+	-1	703	+
+> Fragment 3198 
+	0	701	+
+> Fragment 3199 
+	-1	478	+
+	509	703	+
+> Fragment 3200 
+	-2	702	+
+> Fragment 3201 
+	0	638	+
+> Fragment 3202 
+	42	701	+
+> Fragment 3203 
+	185	703	+
+> Fragment 3204 
+	0	701	+
+> Fragment 3205 
+	74	703	-
+> Fragment 3206 
+	-1	538	+
+	612	701	-
+> Fragment 3207 
+	0	701	-
+> Fragment 3208 
+	292	702	-
+> Fragment 3209 
+	0	701	+
+> Fragment 3210 
+	-1	193	-
+> Fragment 3211 
+	0	701	-
+> Fragment 3212 
+	-1	703	-
+> Fragment 3213 
+	343	702	+
+	-1	304	-
+> Fragment 3214 
+	105	395	+
+	444	701	+
+> Fragment 3215 
+	-2	381	+
+	500	703	+
+> Fragment 3216 
+	-2	213	+
+	247	702	+
+> Fragment 3217 
+	-2	702	+
+> Fragment 3218 
+	0	701	+
+> Fragment 3219 
+	89	703	+
+> Fragment 3220 
+	-1	703	-
+> Fragment 3221 
+	-1	703	+
+> Fragment 3222 
+	567	701	-
+> Fragment 3223 
+	-1	181	+
+	159	599	+
+> Fragment 3224 
+	32	703	-
+> Fragment 3225 
+	-1	316	+
+> Fragment 3226 
+	-2	702	-
+> Fragment 3227 
+	545	703	-
+	-2	540	-
+> Fragment 3228 
+	-2	702	-
+> Fragment 3229 
+	-2	606	+
+> Fragment 3230 
+	121	702	+
+> Fragment 3231 
+	-2	141	+
+	152	703	-
+> Fragment 3232 
+	-2	666	-
+> Fragment 3233 
+	0	251	-
+	301	702	-
+> Fragment 3234 
+	602	703	+
+	0	578	+
+> Fragment 3235 
+	182	703	+
+> Fragment 3236 
+	0	392	-
+> Fragment 3237 
+	273	701	-
+> Fragment 3238 
+	-2	594	-
+> Fragment 3239 
+	-2	702	-
+> Fragment 3240 
+	-1	703	-
+> Fragment 3241 
+	0	344	+
+	388	702	-
+> Fragment 3242 
+	325	702	+
+> Fragment 3243 
+	-2	702	-
+> Fragment 3244 
+	155	703	-
+> Fragment 3245 
+	-2	702	-
+> Fragment 3246 
+	0	530	+
+	540	701	+
+> Fragment 3247 
+	-1	700	+
+> Fragment 3248 
+> Fragment 3249 
+	-1	430	+
+	483	701	-
+> Fragment 3250 
+	-1	223	-
+> Fragment 3251 
+	-1	703	+
+> Fragment 3252 
+	206	703	-
+	0	128	-
+> Fragment 3253 
+	-2	249	+
+	261	701	-
+> Fragment 3254 
+	0	701	+
+> Fragment 3255 
+	-2	702	-
+> Fragment 3256 
+	-1	703	+
+> Fragment 3257 
+	342	701	-
+> Fragment 3258 
+	-1	703	+
+> Fragment 3259 
+	193	702	+
+	-1	181	+
+> Fragment 3260 
+	-1	703	-
+> Fragment 3261 
+	-1	211	+
+	332	703	+
+> Fragment 3262 
+	-1	220	+
+	446	703	+
+> Fragment 3263 
+	123	701	-
+	-2	126	-
+> Fragment 3264 
+	-2	702	-
+> Fragment 3265 
+	-2	702	-
+> Fragment 3266 
+	0	380	-
+> Fragment 3267 
+	0	494	+
+	539	703	-
+> Fragment 3268 
+	0	290	+
+	474	701	+
+> Fragment 3269 
+	-2	138	+
+	197	703	+
+> Fragment 3270 
+	-2	702	+
+> Fragment 3271 
+	0	362	+
+	399	701	+
+> Fragment 3272 
+	-2	609	+
+	639	701	+
+> Fragment 3273 
+	637	702	+
+	0	455	+
+> Fragment 3274 
+	-1	427	-
+	513	701	-
+> Fragment 3275 
+	-2	702	-
+> Fragment 3276 
+	-1	703	+
+> Fragment 3277 
+	0	701	-
+> Fragment 3278 
+	-2	597	-
+> Fragment 3279 
+	-2	702	-
+> Fragment 3280 
+	539	703	-
+	-2	174	-
+> Fragment 3281 
+	259	702	-
+> Fragment 3282 
+	-2	357	+
+> Fragment 3283 
+	62	406	+
+	465	701	+
+> Fragment 3284 
+	54	701	+
+> Fragment 3285 
+	133	702	-
+> Fragment 3286 
+	-2	369	+
+	387	701	-
+> Fragment 3287 
+	0	701	-
+> Fragment 3288 
+	244	702	+
+> Fragment 3289 
+	103	702	+
+> Fragment 3290 
+	-1	703	+
+> Fragment 3291 
+	234	701	-
+> Fragment 3292 
+	-2	702	-
+> Fragment 3293 
+	-2	504	+
+	520	702	+
+> Fragment 3294 
+	-2	690	+
+> Fragment 3295 
+	-2	288	+
+	333	701	+
+> Fragment 3296 
+	0	701	-
+> Fragment 3297 
+	-2	702	-
+> Fragment 3298 
+	-2	321	-
+> Fragment 3299 
+> Fragment 3300 
+	0	701	+
+> Fragment 3301 
+	0	701	-
+> Fragment 3302 
+	-2	369	+
+	456	653	+
+> Fragment 3303 
+	319	702	+
+	-1	85	-
+> Fragment 3304 
+	-1	586	-
+	624	701	-
+> Fragment 3305 
+	-2	366	+
+	378	701	+
+> Fragment 3306 
+	-2	126	+
+	289	702	+
+> Fragment 3307 
+	-1	703	+
+> Fragment 3308 
+	-2	702	+
+> Fragment 3309 
+	-1	703	-
+> Fragment 3310 
+	0	677	-
+> Fragment 3311 
+	582	701	+
+> Fragment 3312 
+	-1	367	+
+> Fragment 3313 
+	-1	703	-
+> Fragment 3314 
+	274	702	+
+	0	212	+
+> Fragment 3315 
+	-2	702	-
+> Fragment 3316 
+	580	702	+
+	-1	550	+
+> Fragment 3317 
+	341	703	+
+	0	98	-
+> Fragment 3318 
+	-2	702	+
+> Fragment 3319 
+	-2	147	+
+	387	701	+
+> Fragment 3320 
+	-1	457	+
+	475	702	-
+> Fragment 3321 
+	-2	702	+
+> Fragment 3322 
+	-1	619	+
+> Fragment 3323 
+	-2	555	-
+> Fragment 3324 
+	-1	412	+
+> Fragment 3325 
+	0	701	-
+> Fragment 3326 
+	0	650	+
+> Fragment 3327 
+	183	452	+
+	503	703	-
+> Fragment 3328 
+	528	701	+
+	-1	391	-
+> Fragment 3329 
+	-1	268	+
+	316	702	-
+> Fragment 3330 
+	-1	376	-
+	516	701	-
+> Fragment 3331 
+	0	293	-
+	309	701	-
+> Fragment 3332 
+	-2	684	-
+> Fragment 3333 
+	-1	181	-
+	195	701	-
+> Fragment 3334 
+	-2	660	+
+> Fragment 3335 
+	-1	574	+
+	525	701	+
+> Fragment 3336 
+	-1	397	-
+	349	702	-
+> Fragment 3337 
+	0	701	+
+> Fragment 3338 
+	-2	387	-
+	484	702	-
+> Fragment 3339 
+	-2	480	+
+	489	701	-
+> Fragment 3340 
+	208	702	+
+	0	149	+
+> Fragment 3341 
+	0	701	-
+> Fragment 3342 
+	-1	616	-
+	627	701	-
+> Fragment 3343 
+	-1	259	+
+	308	703	+
+> Fragment 3344 
+	-2	507	-
+> Fragment 3345 
+	-2	702	-
+> Fragment 3346 
+	0	521	+
+> Fragment 3347 
+	0	701	-
+> Fragment 3348 
+	-2	702	-
+> Fragment 3349 
+	-2	522	-
+> Fragment 3350 
+	0	701	-
+> Fragment 3351 
+	-1	703	+
+> Fragment 3352 
+	-1	343	-
+	357	701	-
+> Fragment 3353 
+	-2	702	+
+> Fragment 3354 
+	-1	703	-
+> Fragment 3355 
+	0	701	-
+> Fragment 3356 
+	-1	703	-
+> Fragment 3357 
+	94	612	-
+> Fragment 3358 
+	431	703	-
+	61	429	-
+> Fragment 3359 
+	0	458	-
+> Fragment 3360 
+	-2	702	+
+> Fragment 3361 
+	-2	462	+
+	507	701	-
+> Fragment 3362 
+	122	703	-
+	-2	141	-
+> Fragment 3363 
+	-1	703	-
+> Fragment 3364 
+	-2	702	+
+> Fragment 3365 
+	-1	703	-
+> Fragment 3366 
+	0	701	+
+> Fragment 3367 
+	-1	703	+
+> Fragment 3368 
+	-2	390	-
+	397	702	-
+> Fragment 3369 
+	-1	703	+
+> Fragment 3370 
+	-1	703	-
+> Fragment 3371 
+	388	702	-
+> Fragment 3372 
+	0	701	-
+> Fragment 3373 
+	-2	303	+
+	282	701	+
+> Fragment 3374 
+	-1	211	-
+	186	701	-
+> Fragment 3375 
+	-2	702	+
+> Fragment 3376 
+> Fragment 3377 
+	-1	496	-
+> Fragment 3378 
+	0	701	+
+> Fragment 3379 
+	0	701	+
+> Fragment 3380 
+	-1	703	-
+> Fragment 3381 
+	0	701	-
+> Fragment 3382 
+	-2	255	+
+	285	701	+
+> Fragment 3383 
+	298	642	+
+	0	278	+
+> Fragment 3384 
+	0	293	-
+	363	701	-
+> Fragment 3385 
+	-2	690	+
+> Fragment 3386 
+	-1	703	+
+> Fragment 3387 
+	0	611	+
+	601	702	-
+> Fragment 3388 
+	-1	703	-
+> Fragment 3389 
+	0	401	+
+	414	701	+
+> Fragment 3390 
+	-2	366	+
+	374	703	+
+> Fragment 3391 
+	-2	246	-
+	295	702	-
+> Fragment 3392 
+	0	701	+
+> Fragment 3393 
+	63	701	-
+> Fragment 3394 
+	43	702	+
+> Fragment 3395 
+	-2	423	+
+	461	703	-
+> Fragment 3396 
+	0	152	+
+	325	702	-
+> Fragment 3397 
+	24	458	-
+	463	642	-
+> Fragment 3398 
+	-2	702	+
+> Fragment 3399 
+	-2	702	+
+> Fragment 3400 
+	-2	339	+
+	323	703	+
+> Fragment 3401 
+	-2	702	+
+> Fragment 3402 
+	-1	589	+
+> Fragment 3403 
+	-1	703	+
+> Fragment 3404 
+	243	701	-
+> Fragment 3405 
+	-2	249	+
+	378	701	+
+> Fragment 3406 
+	-1	703	-
+> Fragment 3407 
+	-2	393	+
+> Fragment 3408 
+	-1	703	+
+> Fragment 3409 
+	45	701	+
+> Fragment 3410 
+	-1	355	+
+> Fragment 3411 
+	-1	289	+
+	414	701	+
+> Fragment 3412 
+	-2	243	+
+	568	702	-
+> Fragment 3413 
+	550	702	+
+	0	128	+
+> Fragment 3414 
+	-1	556	-
+	537	701	-
+> Fragment 3415 
+	0	701	+
+> Fragment 3416 
+	136	702	-
+> Fragment 3417 
+	184	702	+
+> Fragment 3418 
+	-1	109	-
+	143	703	-
+> Fragment 3419 
+	-1	601	+
+> Fragment 3420 
+	-1	703	-
+> Fragment 3421 
+	107	451	+
+	510	701	+
+> Fragment 3422 
+	176	703	-
+> Fragment 3423 
+	0	701	-
+> Fragment 3424 
+	-2	675	+
+> Fragment 3425 
+	-2	615	+
+> Fragment 3426 
+	27	701	-
+> Fragment 3427 
+	-2	642	-
+> Fragment 3428 
+	-1	703	+
+> Fragment 3429 
+	0	545	+
+	553	702	-
+> Fragment 3430 
+	-1	181	+
+	188	703	+
+> Fragment 3431 
+	50	628	-
+	597	701	-
+> Fragment 3432 
+	125	703	-
+> Fragment 3433 
+	148	438	+
+	487	702	+
+> Fragment 3434 
+	0	701	+
+> Fragment 3435 
+	-2	372	+
+> Fragment 3436 
+	-1	703	+
+> Fragment 3437 
+	208	702	-
+> Fragment 3438 
+	-1	703	-
+> Fragment 3439 
+	514	702	+
+	-2	375	-
+> Fragment 3440 
+	-2	702	-
+> Fragment 3441 
+	-1	703	-
+> Fragment 3442 
+	541	702	+
+	-1	514	+
+> Fragment 3443 
+	-1	283	-
+	484	702	-
+> Fragment 3444 
+	-1	178	+
+	317	703	+
+> Fragment 3445 
+	503	703	-
+	0	473	-
+> Fragment 3446 
+	-1	493	-
+> Fragment 3447 
+	62	430	-
+	497	703	-
+> Fragment 3448 
+	0	701	+
+> Fragment 3449 
+	-1	703	+
+> Fragment 3450 
+	163	672	+
+	-1	166	+
+> Fragment 3451 
+	0	701	+
+> Fragment 3452 
+	471	701	+
+	-1	211	-
+> Fragment 3453 
+	0	452	+
+	561	701	+
+> Fragment 3454 
+	-1	703	+
+> Fragment 3455 
+	214	702	+
+	-1	133	+
+> Fragment 3456 
+	248	685	+
+	0	242	+
+> Fragment 3457 
+	0	701	+
+> Fragment 3458 
+	406	702	+
+	-1	379	+
+> Fragment 3459 
+	-1	703	+
+> Fragment 3460 
+	-2	702	+
+> Fragment 3461 
+	0	368	-
+	442	702	-
+> Fragment 3462 
+	0	596	-
+> Fragment 3463 
+	-1	703	+
+> Fragment 3464 
+	392	703	+
+	0	197	+
+> Fragment 3465 
+	0	242	+
+	582	701	-
+> Fragment 3466 
+	-2	702	-
+> Fragment 3467 
+	-2	141	+
+	222	701	+
+> Fragment 3468 
+	32	316	-
+	412	702	-
+> Fragment 3469 
+	0	302	+
+> Fragment 3470 
+	0	701	+
+> Fragment 3471 
+	-2	702	+
+> Fragment 3472 
+	47	703	-
+> Fragment 3473 
+	0	494	-
+	621	701	-
+> Fragment 3474 
+	-2	702	+
+> Fragment 3475 
+	-2	90	+
+	211	702	+
+> Fragment 3476 
+	0	701	-
+> Fragment 3477 
+	-1	565	+
+	602	703	+
+> Fragment 3478 
+	13	702	-
+> Fragment 3479 
+	0	653	+
+> Fragment 3480 
+	-1	502	+
+	539	703	+
+> Fragment 3481 
+	-1	532	+
+> Fragment 3482 
+	-1	703	-
+> Fragment 3483 
+	-1	703	+
+> Fragment 3484 
+	0	701	-
+> Fragment 3485 
+	-2	702	-
+> Fragment 3486 
+	-2	702	-
+> Fragment 3487 
+	0	701	-
+> Fragment 3488 
+	35	703	+
+> Fragment 3489 
+	163	702	+
+	0	146	+
+> Fragment 3490 
+	129	701	-
+> Fragment 3491 
+	218	703	+
+	0	221	+
+> Fragment 3492 
+	184	702	+
+	0	101	+
+> Fragment 3493 
+	-2	702	-
+> Fragment 3494 
+	-2	183	+
+	294	701	+
+> Fragment 3495 
+	-2	681	-
+> Fragment 3496 
+	-1	655	-
+> Fragment 3497 
+	0	662	-
+> Fragment 3498 
+	80	703	-
+> Fragment 3499 
+	-2	96	-
+	196	702	-
+> Fragment 3500 
+	-1	202	-
+> Fragment 3501 
+	197	703	+
+> Fragment 3502 
+	7	702	-
+> Fragment 3503 
+	490	702	+
+	-1	79	+
+	84	338	+
+> Fragment 3504 
+	-2	237	+
+	247	702	+
+> Fragment 3505 
+	-2	702	-
+> Fragment 3506 
+	-1	703	+
+> Fragment 3507 
+	0	701	-
+> Fragment 3508 
+	-2	510	-
+> Fragment 3509 
+	0	701	+
+> Fragment 3510 
+	0	701	+
+> Fragment 3511 
+	89	703	+
+> Fragment 3512 
+	368	703	-
+	0	329	-
+> Fragment 3513 
+	418	702	+
+	15	359	+
+> Fragment 3514 
+	0	701	+
+> Fragment 3515 
+	302	703	+
+> Fragment 3516 
+	-2	516	-
+> Fragment 3517 
+	-2	702	-
+> Fragment 3518 
+	-1	310	-
+	356	703	-
+> Fragment 3519 
+	-1	703	-
+> Fragment 3520 
+	46	702	-
+> Fragment 3521 
+	0	701	+
+> Fragment 3522 
+	0	701	+
+> Fragment 3523 
+	-1	703	+
+> Fragment 3524 
+	-1	703	+
+> Fragment 3525 
+	0	701	-
+> Fragment 3526 
+	-1	634	-
+> Fragment 3527 
+	-2	702	+
+> Fragment 3528 
+	-1	604	+
+> Fragment 3529 
+	-1	247	+
+	371	703	-
+> Fragment 3530 
+	-1	703	+
+> Fragment 3531 
+	-1	703	-
+> Fragment 3532 
+	-2	702	+
+> Fragment 3533 
+	0	671	-
+> Fragment 3534 
+	103	489	+
+> Fragment 3535 
+	0	410	-
+> Fragment 3536 
+	490	702	+
+	0	476	+
+> Fragment 3537 
+	-1	322	+
+	441	701	+
+> Fragment 3538 
+	-2	561	+
+	614	703	-
+> Fragment 3539 
+	0	701	+
+> Fragment 3540 
+	0	182	+
+	220	702	-
+> Fragment 3541 
+	198	701	-
+> Fragment 3542 
+	481	702	+
+	0	458	+
+> Fragment 3543 
+	-2	702	-
+> Fragment 3544 
+	115	612	-
+> Fragment 3545 
+	-1	703	-
+> Fragment 3546 
+	-2	702	+
+> Fragment 3547 
+	-2	702	+
+> Fragment 3548 
+	269	703	-
+	0	143	-
+> Fragment 3549 
+	-1	703	+
+> Fragment 3550 
+	-1	703	+
+> Fragment 3551 
+	-1	703	-
+> Fragment 3552 
+	454	702	+
+	0	353	+
+> Fragment 3553 
+	481	702	-
+> Fragment 3554 
+	-1	349	+
+	457	675	-
+> Fragment 3555 
+	0	173	+
+	151	702	-
+> Fragment 3556 
+	0	701	+
+> Fragment 3557 
+	-2	309	+
+	423	701	+
+> Fragment 3558 
+	-2	321	-
+	409	702	-
+> Fragment 3559 
+	115	702	+
+> Fragment 3560 
+	-1	703	-
+> Fragment 3561 
+	-2	504	+
+	504	701	+
+> Fragment 3562 
+	578	703	-
+	-2	465	-
+> Fragment 3563 
+	-1	322	+
+	340	702	-
+> Fragment 3564 
+	0	701	-
+> Fragment 3565 
+	-2	702	+
+> Fragment 3566 
+	-2	354	+
+	415	645	+
+> Fragment 3567 
+	-1	703	+
+> Fragment 3568 
+	0	701	-
+> Fragment 3569 
+	-1	703	+
+> Fragment 3570 
+	-1	703	+
+> Fragment 3571 
+	-2	570	+
+	618	701	+
+> Fragment 3572 
+	0	701	+
+> Fragment 3573 
+	0	701	+
+> Fragment 3574 
+	-1	247	+
+	257	703	+
+> Fragment 3575 
+	0	701	+
+> Fragment 3576 
+	200	703	-
+	0	173	-
+> Fragment 3577 
+	0	701	+
+> Fragment 3578 
+	-2	702	+
+> Fragment 3579 
+	-2	702	-
+> Fragment 3580 
+	156	701	-
+> Fragment 3581 
+	55	702	-
+> Fragment 3582 
+	-1	244	-
+	301	702	-
+> Fragment 3583 
+	323	703	-
+	-2	258	-
+> Fragment 3584 
+	-2	702	+
+> Fragment 3585 
+	0	518	-
+> Fragment 3586 
+	547	702	+
+	0	332	-
+> Fragment 3587 
+	475	702	+
+	-1	361	+
+> Fragment 3588 
+	0	701	+
+> Fragment 3589 
+	-1	286	+
+	315	701	+
+> Fragment 3590 
+	253	702	-
+> Fragment 3591 
+	-2	702	-
+> Fragment 3592 
+	0	680	-
+> Fragment 3593 
+	-2	219	+
+	614	703	-
+> Fragment 3594 
+	52	702	-
+> Fragment 3595 
+	-2	177	+
+> Fragment 3596 
+	0	701	+
+> Fragment 3597 
+	-1	703	+
+> Fragment 3598 
+	-2	552	+
+	576	701	+
+> Fragment 3599 
+	0	176	+
+	198	701	+
+> Fragment 3600 
+	0	701	+
+> Fragment 3601 
+	-2	702	-
+> Fragment 3602 
+	344	703	+
+> Fragment 3603 
+	-2	153	+
+	165	629	-
+> Fragment 3604 
+	-1	670	-
+> Fragment 3605 
+	-2	381	+
+	495	701	+
+> Fragment 3606 
+	405	701	-
+	-2	387	-
+> Fragment 3607 
+	-1	604	-
+> Fragment 3608 
+	-2	702	-
+> Fragment 3609 
+	-2	702	-
+> Fragment 3610 
+	-2	702	+
+> Fragment 3611 
+	-1	703	+
+> Fragment 3612 
+	470	703	+
+> Fragment 3613 
+	-1	703	-
+> Fragment 3614 
+	-2	702	+
+> Fragment 3615 
+	-2	702	-
+> Fragment 3616 
+	401	703	-
+	102	398	-
+> Fragment 3617 
+	-2	702	+
+> Fragment 3618 
+	-1	550	+
+	555	701	+
+> Fragment 3619 
+	-2	702	-
+> Fragment 3620 
+	-1	193	-
+	208	462	-
+> Fragment 3621 
+	-1	505	+
+> Fragment 3622 
+	-2	702	-
+> Fragment 3623 
+	0	701	-
+> Fragment 3624 
+	-2	171	+
+	436	702	+
+> Fragment 3625 
+	0	701	+
+> Fragment 3626 
+	177	701	+
+> Fragment 3627 
+	0	701	+
+> Fragment 3628 
+	144	317	+
+> Fragment 3629 
+	0	203	+
+	186	701	-
+> Fragment 3630 
+	-1	703	+
+> Fragment 3631 
+	53	703	+
+> Fragment 3632 
+	-2	702	+
+> Fragment 3633 
+	-1	703	-
+> Fragment 3634 
+	131	703	+
+> Fragment 3635 
+	-2	609	+
+> Fragment 3636 
+	-1	703	+
+> Fragment 3637 
+	143	637	-
+	0	143	-
+> Fragment 3638 
+	-2	336	+
+	402	701	+
+> Fragment 3639 
+	-2	702	-
+> Fragment 3640 
+	138	638	+
+> Fragment 3641 
+	0	701	-
+> Fragment 3642 
+	509	703	+
+	0	437	+
+> Fragment 3643 
+	454	702	+
+	84	335	+
+> Fragment 3644 
+	-2	702	+
+> Fragment 3645 
+	0	701	+
+> Fragment 3646 
+	-2	702	-
+> Fragment 3647 
+	-1	118	-
+	139	567	-
+> Fragment 3648 
+	-2	384	+
+	415	702	+
+> Fragment 3649 
+	-1	487	-
+	484	702	-
+> Fragment 3650 
+	0	494	+
+	539	703	-
+> Fragment 3651 
+	-1	703	+
+> Fragment 3652 
+	0	599	-
+> Fragment 3653 
+	-1	703	-
+> Fragment 3654 
+	-2	702	+
+> Fragment 3655 
+	-2	702	+
+> Fragment 3656 
+	0	134	+
+	138	701	-
+> Fragment 3657 
+	533	703	-
+	-2	456	-
+> Fragment 3658 
+	-2	381	-
+	583	702	-
+> Fragment 3659 
+	-2	702	+
+> Fragment 3660 
+	0	701	-
+> Fragment 3661 
+	0	701	+
+> Fragment 3662 
+	-2	87	+
+	282	455	+
+> Fragment 3663 
+	316	702	-
+> Fragment 3664 
+	-2	153	-
+	157	702	-
+> Fragment 3665 
+	70	702	+
+> Fragment 3666 
+	-2	702	+
+> Fragment 3667 
+	-1	703	+
+> Fragment 3668 
+	-2	702	+
+> Fragment 3669 
+	-1	376	-
+	434	703	-
+> Fragment 3670 
+	441	701	-
+	-2	393	-
+> Fragment 3671 
+	-2	594	-
+> Fragment 3672 
+	-2	366	+
+	412	702	+
+> Fragment 3673 
+	0	380	+
+	388	702	-
+> Fragment 3674 
+	512	703	+
+	-1	304	-
+> Fragment 3675 
+	256	702	+
+	0	236	+
+> Fragment 3676 
+	-2	264	-
+> Fragment 3677 
+	-1	703	-
+> Fragment 3678 
+	173	703	-
+> Fragment 3679 
+	0	701	-
+> Fragment 3680 
+	244	702	+
+> Fragment 3681 
+	0	170	+
+	216	602	+
+> Fragment 3682 
+	-2	441	-
+> Fragment 3683 
+	0	605	+
+> Fragment 3684 
+	0	701	-
+> Fragment 3685 
+	0	356	-
+	414	701	-
+> Fragment 3686 
+	541	702	+
+	0	314	+
+> Fragment 3687 
+	-2	702	+
+> Fragment 3688 
+	-1	154	+
+> Fragment 3689 
+	-1	703	+
+> Fragment 3690 
+	0	701	+
+> Fragment 3691 
+	-2	639	+
+> Fragment 3692 
+	289	486	+
+	529	702	+
+	-1	202	+
+> Fragment 3693 
+	162	701	+
+> Fragment 3694 
+	199	687	+
+	-2	105	-
+> Fragment 3695 
+	-1	703	-
+> Fragment 3696 
+	0	701	+
+> Fragment 3697 
+	-2	702	-
+> Fragment 3698 
+	-2	702	+
+> Fragment 3699 
+	-2	396	+
+	572	703	+
+> Fragment 3700 
+> Fragment 3701 
+	280	702	-
+> Fragment 3702 
+	-2	477	+
+	474	701	+
+> Fragment 3703 
+	347	703	-
+	0	290	-
+> Fragment 3704 
+	0	203	+
+	361	633	-
+> Fragment 3705 
+	311	703	+
+	0	302	+
+> Fragment 3706 
+	-2	414	-
+> Fragment 3707 
+	-2	567	-
+> Fragment 3708 
+	101	703	+
+> Fragment 3709 
+	494	703	+
+> Fragment 3710 
+	0	701	+
+> Fragment 3711 
+	27	341	-
+> Fragment 3712 
+	81	701	+
+> Fragment 3713 
+	0	701	+
+> Fragment 3714 
+	-1	385	+
+	410	703	+
+> Fragment 3715 
+	185	703	-
+	-2	135	-
+> Fragment 3716 
+	-1	511	-
+> Fragment 3717 
+	-2	159	+
+	156	701	-
+> Fragment 3718 
+	512	703	-
+> Fragment 3719 
+	-2	663	-
+> Fragment 3720 
+	41	703	-
+> Fragment 3721 
+	176	703	-
+> Fragment 3722 
+	328	702	+
+	-1	280	+
+> Fragment 3723 
+	-2	702	+
+> Fragment 3724 
+	-1	703	+
+> Fragment 3725 
+	236	703	+
+	-1	118	-
+> Fragment 3726 
+	-2	702	+
+> Fragment 3727 
+	205	702	+
+> Fragment 3728 
+	552	701	+
+	-2	606	-
+> Fragment 3729 
+	-1	703	-
+> Fragment 3730 
+	-1	253	+
+	279	701	-
+> Fragment 3731 
+	-1	607	+
+> Fragment 3732 
+	439	702	+
+> Fragment 3733 
+	166	702	-
+> Fragment 3734 
+	-2	171	-
+	175	702	-
+> Fragment 3735 
+	121	330	+
+> Fragment 3736 
+	-2	702	+
+> Fragment 3737 
+	-1	520	+
+	543	701	+
+> Fragment 3738 
+	147	314	-
+	325	567	-
+> Fragment 3739 
+	-1	703	-
+> Fragment 3740 
+	0	701	-
+> Fragment 3741 
+	0	701	-
+> Fragment 3742 
+	0	701	+
+> Fragment 3743 
+	451	702	+
+	-1	322	+
+> Fragment 3744 
+	-2	237	-
+> Fragment 3745 
+	-2	348	+
+	472	702	-
+> Fragment 3746 
+	0	701	-
+> Fragment 3747 
+	0	701	-
+> Fragment 3748 
+	-2	702	+
+> Fragment 3749 
+	118	546	+
+> Fragment 3750 
+	598	702	+
+	-1	565	-
+> Fragment 3751 
+	-2	702	-
+> Fragment 3752 
+	-1	124	-
+	315	701	-
+> Fragment 3753 
+	-1	703	+
+> Fragment 3754 
+	0	443	-
+> Fragment 3755 
+	0	701	+
+> Fragment 3756 
+	182	703	-
+	-2	132	-
+> Fragment 3757 
+	0	701	-
+> Fragment 3758 
+	-2	606	+
+> Fragment 3759 
+	0	701	+
+> Fragment 3760 
+	-2	234	+
+	206	703	+
+> Fragment 3761 
+	405	701	-
+	-2	384	-
+> Fragment 3762 
+	153	701	-
+> Fragment 3763 
+	0	701	+
+> Fragment 3764 
+	-2	702	-
+> Fragment 3765 
+	255	638	-
+	-2	252	-
+> Fragment 3766 
+	-2	702	-
+> Fragment 3767 
+	-2	702	+
+> Fragment 3768 
+	141	701	+
+> Fragment 3769 
+	527	703	+
+	105	515	+
+> Fragment 3770 
+	-2	666	+
+> Fragment 3771 
+	-2	702	+
+> Fragment 3772 
+	283	702	+
+> Fragment 3773 
+	253	693	+
+	0	275	+
+> Fragment 3774 
+	-2	702	-
+> Fragment 3775 
+	-1	112	-
+	123	365	-
+> Fragment 3776 
+	-1	520	-
+> Fragment 3777 
+	-2	429	+
+> Fragment 3778 
+	0	530	+
+> Fragment 3779 
+	587	703	+
+	-2	393	-
+> Fragment 3780 
+	-1	145	-
+	149	703	-
+> Fragment 3781 
+	-1	451	-
+	476	703	-
+> Fragment 3782 
+	-2	393	-
+> Fragment 3783 
+	-2	702	-
+> Fragment 3784 
+	-2	702	-
+> Fragment 3785 
+	-2	702	+
+> Fragment 3786 
+	381	701	-
+> Fragment 3787 
+	30	701	-
+> Fragment 3788 
+	-1	703	-
+> Fragment 3789 
+	-2	702	-
+> Fragment 3790 
+	0	269	+
+	450	701	+
+> Fragment 3791 
+	209	703	-
+> Fragment 3792 
+	-2	702	+
+> Fragment 3793 
+	142	702	+
+	-1	193	+
+> Fragment 3794 
+	317	703	-
+> Fragment 3795 
+	34	702	-
+> Fragment 3796 
+	-2	702	-
+> Fragment 3797 
+	-2	702	-
+> Fragment 3798 
+	0	701	-
+> Fragment 3799 
+	-1	304	-
+	314	703	-
+> Fragment 3800 
+	0	701	+
+> Fragment 3801 
+	-2	339	+
+	427	702	-
+> Fragment 3802 
+	-1	250	+
+	386	703	+
+> Fragment 3803 
+	620	703	+
+	42	623	+
+> Fragment 3804 
+	-1	703	+
+> Fragment 3805 
+	-1	703	-
+> Fragment 3806 
+	-1	703	-
+> Fragment 3807 
+	-1	703	-
+> Fragment 3808 
+	-2	702	-
+> Fragment 3809 
+	298	702	+
+> Fragment 3810 
+	65	451	+
+	538	702	-
+> Fragment 3811 
+	-2	702	-
+> Fragment 3812 
+	0	437	-
+> Fragment 3813 
+> Fragment 3814 
+	0	515	-
+	556	702	-
+> Fragment 3815 
+	-1	661	-
+> Fragment 3816 
+	517	702	+
+	0	332	+
+> Fragment 3817 
+	145	702	-
+> Fragment 3818 
+	66	701	+
+> Fragment 3819 
+	0	701	+
+> Fragment 3820 
+	-1	703	+
+> Fragment 3821 
+	-1	703	+
+> Fragment 3822 
+	-2	702	-
+> Fragment 3823 
+	498	701	+
+	0	359	-
+> Fragment 3824 
+	-1	682	+
+> Fragment 3825 
+	0	332	-
+	354	701	-
+> Fragment 3826 
+	115	543	+
+> Fragment 3827 
+	240	701	+
+> Fragment 3828 
+	-1	703	+
+> Fragment 3829 
+	255	701	+
+> Fragment 3830 
+	-1	625	+
+> Fragment 3831 
+	0	701	+
+> Fragment 3832 
+	-2	702	-
+> Fragment 3833 
+	0	611	+
+> Fragment 3834 
+	94	702	-
+> Fragment 3835 
+	179	703	+
+> Fragment 3836 
+	-1	703	+
+> Fragment 3837 
+	65	703	-
+> Fragment 3838 
+	-1	217	-
+	232	486	-
+> Fragment 3839 
+	16	501	-
+> Fragment 3840 
+	-1	703	-
+> Fragment 3841 
+	0	701	+
+> Fragment 3842 
+	-1	703	+
+> Fragment 3843 
+	26	703	-
+> Fragment 3844 
+	0	701	-
+> Fragment 3845 
+	0	701	-
+> Fragment 3846 
+	-1	703	+
+> Fragment 3847 
+	-1	502	-
+> Fragment 3848 
+	0	701	+
+> Fragment 3849 
+	-2	258	+
+> Fragment 3850 
+	0	650	+
+> Fragment 3851 
+	0	344	+
+	356	703	-
+> Fragment 3852 
+	-1	703	+
+> Fragment 3853 
+	57	701	-
+> Fragment 3854 
+	-2	702	-
+> Fragment 3855 
+	0	437	-
+	424	702	-
+> Fragment 3856 
+	215	655	-
+	0	179	-
+> Fragment 3857 
+	240	701	+
+> Fragment 3858 
+	3	701	-
+> Fragment 3859 
+	108	362	-
+	418	702	-
+> Fragment 3860 
+	419	703	-
+> Fragment 3861 
+	-2	108	+
+	143	430	+
+	500	703	-
+> Fragment 3862 
+	-2	450	+
+	554	703	+
+> Fragment 3863 
+	0	701	+
+> Fragment 3864 
+	271	702	+
+	0	308	+
+> Fragment 3865 
+	-2	702	-
+> Fragment 3866 
+	0	701	+
+> Fragment 3867 
+	-2	702	+
+> Fragment 3868 
+	-1	139	-
+> Fragment 3869 
+	-1	241	+
+	432	701	-
+> Fragment 3870 
+	0	701	-
+> Fragment 3871 
+> Fragment 3872 
+	610	702	+
+	0	383	+
+> Fragment 3873 
+	-1	703	+
+> Fragment 3874 
+	-1	559	+
+	537	701	+
+> Fragment 3875 
+	0	653	-
+> Fragment 3876 
+	-2	669	-
+> Fragment 3877 
+	-2	408	+
+	428	703	+
+> Fragment 3878 
+	-2	702	+
+> Fragment 3879 
+	0	593	+
+> Fragment 3880 
+	0	140	+
+	305	703	-
+> Fragment 3881 
+	134	703	-
+> Fragment 3882 
+	96	701	-
+> Fragment 3883 
+	355	702	+
+	0	335	+
+> Fragment 3884 
+	-2	702	-
+> Fragment 3885 
+	-1	595	+
+> Fragment 3886 
+	38	703	+
+> Fragment 3887 
+	106	702	+
+	-1	76	+
+> Fragment 3888 
+	0	80	-
+	229	702	-
+> Fragment 3889 
+	-1	82	-
+	79	702	-
+> Fragment 3890 
+	-2	702	-
+> Fragment 3891 
+	497	703	-
+	-2	483	-
+> Fragment 3892 
+	0	701	+
+> Fragment 3893 
+	-2	702	+
+> Fragment 3894 
+	-2	366	+
+	378	701	+
+> Fragment 3895 
+	-2	702	-
+> Fragment 3896 
+	191	421	+
+	568	702	-
+> Fragment 3897 
+	209	664	-
+> Fragment 3898 
+	289	702	+
+	-1	277	+
+> Fragment 3899 
+	35	703	+
+> Fragment 3900 
+	387	701	+
+	0	173	-
+> Fragment 3901 
+	2	703	-
+> Fragment 3902 
+	0	701	-
+> Fragment 3903 
+	583	702	-
+> Fragment 3904 
+	-1	703	+
+> Fragment 3905 
+	-2	186	-
+> Fragment 3906 
+	217	702	+
+> Fragment 3907 
+	-2	702	-
+> Fragment 3908 
+	194	703	-
+> Fragment 3909 
+	-1	703	-
+> Fragment 3910 
+	-1	703	-
+> Fragment 3911 
+	-2	702	+
+> Fragment 3912 
+	-2	702	-
+> Fragment 3913 
+	-2	462	+
+> Fragment 3914 
+	0	701	-
+> Fragment 3915 
+	-1	496	-
+> Fragment 3916 
+	297	464	-
+	475	702	-
+> Fragment 3917 
+	277	702	+
+	-1	262	+
+> Fragment 3918 
+	-2	540	+
+	560	703	-
+> Fragment 3919 
+	-2	702	+
+> Fragment 3920 
+	0	641	+
+> Fragment 3921 
+	483	701	+
+	-1	187	-
+> Fragment 3922 
+	44	703	-
+> Fragment 3923 
+	-2	111	+
+	431	703	+
+> Fragment 3924 
+	-2	123	-
+> Fragment 3925 
+	148	702	+
+> Fragment 3926 
+	-2	702	+
+> Fragment 3927 
+	-2	222	-
+	349	702	-
+> Fragment 3928 
+	152	703	+
+> Fragment 3929 
+	0	701	-
+> Fragment 3930 
+	527	703	+
+	-2	231	-
+> Fragment 3931 
+	0	701	+
+> Fragment 3932 
+	0	701	-
+> Fragment 3933 
+	340	702	+
+	-1	391	+
+> Fragment 3934 
+	266	703	+
+	0	236	+
+> Fragment 3935 
+	-1	703	+
+> Fragment 3936 
+	-1	325	+
+	458	703	+
+> Fragment 3937 
+	103	702	-
+> Fragment 3938 
+	579	701	+
+	-1	178	-
+> Fragment 3939 
+	0	269	+
+	410	703	-
+> Fragment 3940 
+	0	536	+
+> Fragment 3941 
+	-1	703	+
+> Fragment 3942 
+	273	542	+
+> Fragment 3943 
+	-1	628	-
+> Fragment 3944 
+	34	702	+
+> Fragment 3945 
+	-1	703	-
+> Fragment 3946 
+	-2	366	+
+	387	701	+
+> Fragment 3947 
+	-2	702	-
+> Fragment 3948 
+	528	701	+
+> Fragment 3949 
+	0	701	-
+> Fragment 3950 
+	480	701	+
+> Fragment 3951 
+	-2	612	-
+> Fragment 3952 
+	-2	372	+
+	390	701	-
+> Fragment 3953 
+	-1	703	-
+> Fragment 3954 
+	95	454	-
+	473	703	-
+> Fragment 3955 
+	409	702	+
+	0	257	+
+> Fragment 3956 
+	-2	702	+
+> Fragment 3957 
+	0	701	-
+> Fragment 3958 
+	-1	64	-
+	543	701	-
+	67	495	-
+> Fragment 3959 
+	-1	703	+
+> Fragment 3960 
+	0	302	-
+> Fragment 3961 
+	83	703	+
+> Fragment 3962 
+	-2	702	-
+> Fragment 3963 
+	-2	147	+
+	228	701	+
+> Fragment 3964 
+	0	701	-
+> Fragment 3965 
+	-1	436	+
+	456	701	+
+> Fragment 3966 
+	0	305	-
+	324	701	-
+> Fragment 3967 
+	-1	418	-
+> Fragment 3968 
+	605	703	+
+	0	500	+
+> Fragment 3969 
+	0	701	+
+> Fragment 3970 
+	-1	415	+
+	435	701	+
+> Fragment 3971 
+	0	701	+
+> Fragment 3972 
+	0	701	+
+> Fragment 3973 
+	581	703	+
+> Fragment 3974 
+	-1	502	-
+> Fragment 3975 
+	-2	468	-
+> Fragment 3976 
+	0	701	+
+> Fragment 3977 
+	0	701	+
+> Fragment 3978 
+	-2	216	-
+	361	702	-
+> Fragment 3979 
+	-2	309	+
+	313	702	+
+> Fragment 3980 
+	129	701	+
+> Fragment 3981 
+	0	143	+
+	231	701	-
+> Fragment 3982 
+	0	410	-
+	444	701	-
+> Fragment 3983 
+	108	596	-
+	589	702	-
+> Fragment 3984 
+	570	701	-
+> Fragment 3985 
+	0	701	+
+> Fragment 3986 
+	-2	303	-
+	325	702	-
+> Fragment 3987 
+	355	702	+
+	-1	346	+
+> Fragment 3988 
+	-1	703	+
+> Fragment 3989 
+	0	701	-
+> Fragment 3990 
+	0	701	-
+> Fragment 3991 
+	0	701	+
+> Fragment 3992 
+	0	701	+
+> Fragment 3993 
+	0	701	+
+> Fragment 3994 
+	-2	162	+
+	125	703	-
+> Fragment 3995 
+	-1	379	-
+	575	703	-
+> Fragment 3996 
+	-1	304	-
+	524	703	-
+> Fragment 3997 
+	-1	703	-
+> Fragment 3998 
+	-2	702	-
+> Fragment 3999 
+	-2	702	-
+> Fragment 4000 
+	-1	223	+
+	618	701	-
+> Fragment 4001 
+	-2	219	+
+	246	701	-
+> Fragment 4002 
+	-2	702	+
+> Fragment 4003 
+> Fragment 4004 
+	-2	702	-
+> Fragment 4005 
+	61	702	-
+> Fragment 4006 
+	-1	703	+
+> Fragment 4007 
+	451	702	-
+> Fragment 4008 
+	272	556	-
+> Fragment 4009 
+	435	701	+
+> Fragment 4010 
+	0	701	-
+> Fragment 4011 
+	0	254	-
+	312	701	-
+> Fragment 4012 
+	-1	106	+
+	110	703	-
+> Fragment 4013 
+	0	701	-
+> Fragment 4014 
+	0	701	-
+> Fragment 4015 
+	-2	285	+
+	243	701	+
+> Fragment 4016 
+	-2	702	-
+> Fragment 4017 
+	0	455	-
+	493	702	-
+> Fragment 4018 
+	632	703	+
+	81	437	+
+> Fragment 4019 
+	0	701	-
+> Fragment 4020 
+	-2	702	+
+> Fragment 4021 
+	-1	88	-
+	124	564	-
+> Fragment 4022 
+	591	701	+
+	-2	339	-
+> Fragment 4023 
+	-1	670	+
+> Fragment 4024 
+	64	273	+
+> Fragment 4025 
+	365	703	+
+> Fragment 4026 
+	-1	703	+
+> Fragment 4027 
+	392	703	+
+	0	359	+
+> Fragment 4028 
+	-2	510	+
+> Fragment 4029 
+	-1	703	-
+> Fragment 4030 
+	-1	703	+
+> Fragment 4031 
+	307	702	-
+> Fragment 4032 
+	-1	703	+
+> Fragment 4033 
+	0	536	-
+> Fragment 4034 
+	0	245	-
+	264	701	-
+> Fragment 4035 
+	416	703	-
+	-2	399	-
+> Fragment 4036 
+	-1	703	+
+> Fragment 4037 
+	407	703	-
+	0	329	-
+> Fragment 4038 
+	-1	703	-
+> Fragment 4039 
+	0	647	+
+> Fragment 4040 
+	0	701	+
+> Fragment 4041 
+	0	701	-
+> Fragment 4042 
+	-1	703	-
+> Fragment 4043 
+	-2	702	+
+> Fragment 4044 
+	-2	702	+
+> Fragment 4045 
+	460	702	-
+> Fragment 4046 
+	-2	702	+
+> Fragment 4047 
+	-2	702	-
+> Fragment 4048 
+> Fragment 4049 
+	26	703	+
+> Fragment 4050 
+	-1	523	-
+> Fragment 4051 
+	188	703	-
+> Fragment 4052 
+	-1	679	+
+> Fragment 4053 
+	0	701	-
+> Fragment 4054 
+	-1	190	-
+	224	703	-
+> Fragment 4055 
+	336	605	+
+> Fragment 4056 
+	-2	702	+
+> Fragment 4057 
+	-1	655	+
+> Fragment 4058 
+	-1	409	-
+	466	702	-
+> Fragment 4059 
+	0	701	+
+> Fragment 4060 
+	-2	384	+
+	409	660	+
+> Fragment 4061 
+	-1	538	-
+	554	703	-
+> Fragment 4062 
+	377	703	+
+> Fragment 4063 
+	-1	103	+
+	190	702	-
+> Fragment 4064 
+	0	701	-
+> Fragment 4065 
+	0	587	+
+> Fragment 4066 
+	-2	702	+
+> Fragment 4067 
+	103	540	+
+	-1	97	+
+	614	703	-
+> Fragment 4068 
+	-2	378	+
+	541	702	+
+> Fragment 4069 
+	-1	703	+
+> Fragment 4070 
+	536	703	+
+	-2	537	-
+> Fragment 4071 
+	-1	703	+
+> Fragment 4072 
+	-1	367	+
+	360	701	+
+> Fragment 4073 
+	-2	702	-
+> Fragment 4074 
+	-1	703	+
+> Fragment 4075 
+	0	413	-
+	406	702	-
+> Fragment 4076 
+	-2	702	+
+> Fragment 4077 
+	203	703	+
+> Fragment 4078 
+	0	701	+
+> Fragment 4079 
+	-2	702	+
+> Fragment 4080 
+	334	702	+
+	0	341	+
+> Fragment 4081 
+	-2	648	-
+> Fragment 4082 
+	473	703	-
+	0	239	-
+> Fragment 4083 
+	-2	702	-
+> Fragment 4084 
+	0	701	+
+> Fragment 4085 
+	-1	703	+
+> Fragment 4086 
+	54	701	+
+> Fragment 4087 
+	0	701	+
+> Fragment 4088 
+	-2	591	+
+> Fragment 4089 
+	-1	664	-
+> Fragment 4090 
+	625	702	+
+	0	353	-
+> Fragment 4091 
+	67	414	+
+	423	701	+
+> Fragment 4092 
+	0	701	+
+> Fragment 4093 
+	-1	703	-
+> Fragment 4094 
+	0	389	-
+	438	665	-
+> Fragment 4095 
+	-2	507	+
+> Fragment 4096 
+	-1	703	-
+> Fragment 4097 
+	-2	504	+
+	455	703	+
+> Fragment 4098 
+	-1	703	+
+> Fragment 4099 
+	-2	327	+
+	508	702	+
+> Fragment 4100 
+	173	703	+
+> Fragment 4101 
+	201	701	+
+> Fragment 4102 
+	-1	406	+
+	431	682	+
+> Fragment 4103 
+	453	701	-
+> Fragment 4104 
+	-2	228	+
+	276	701	-
+> Fragment 4105 
+	0	701	-
+> Fragment 4106 
+	-1	580	+
+> Fragment 4107 
+	-1	670	+
+> Fragment 4108 
+	-1	703	+
+> Fragment 4109 
+	-1	664	+
+> Fragment 4110 
+	-1	313	+
+	400	702	-
+> Fragment 4111 
+	-2	702	+
+> Fragment 4112 
+	-1	262	+
+	389	703	-
+> Fragment 4113 
+	-2	702	-
+> Fragment 4114 
+	-1	703	-
+> Fragment 4115 
+	261	701	+
+> Fragment 4116 
+	316	489	+
+	-1	121	+
+> Fragment 4117 
+	-1	106	+
+	338	703	+
+> Fragment 4118 
+	82	702	+
+> Fragment 4119 
+	-1	259	-
+	336	701	-
+> Fragment 4120 
+	226	702	-
+> Fragment 4121 
+	-2	702	-
+> Fragment 4122 
+	0	377	-
+	427	702	-
+> Fragment 4123 
+	270	548	-
+	-2	129	-
+> Fragment 4124 
+	-1	703	+
+> Fragment 4125 
+	17	703	-
+> Fragment 4126 
+	0	425	+
+	403	702	-
+> Fragment 4127 
+	0	701	-
+> Fragment 4128 
+	599	703	-
+	-2	555	-
+> Fragment 4129 
+	-1	571	+
+	606	701	+
+> Fragment 4130 
+	0	620	+
+> Fragment 4131 
+	0	149	+
+> Fragment 4132 
+	-1	625	-
+> Fragment 4133 
+	456	701	+
+> Fragment 4134 
+	-1	409	-
+	447	701	-
+> Fragment 4135 
+	0	701	+
+> Fragment 4136 
+	0	653	-
+> Fragment 4137 
+	-2	702	-
+> Fragment 4138 
+	-1	262	+
+> Fragment 4139 
+	-1	496	+
+	556	702	-
+> Fragment 4140 
+	0	68	-
+	102	701	-
+> Fragment 4141 
+	0	701	-
+> Fragment 4142 
+	-1	703	-
+> Fragment 4143 
+	452	703	+
+	0	440	+
+> Fragment 4144 
+	-2	297	+
+	492	665	+
+> Fragment 4145 
+	35	382	+
+	466	702	-
+> Fragment 4146 
+	-2	702	-
+> Fragment 4147 
+	0	701	-
+> Fragment 4148 
+	0	701	-
+> Fragment 4149 
+	-1	439	+
+	597	701	-
+> Fragment 4150 
+	-1	703	-
+> Fragment 4151 
+	21	701	-
+> Fragment 4152 
+	-2	702	+
+> Fragment 4153 
+	-2	702	-
+> Fragment 4154 
+> Fragment 4155 
+	-2	267	-
+> Fragment 4156 
+	-2	177	+
+	156	701	+
+> Fragment 4157 
+	-1	703	-
+> Fragment 4158 
+	-2	702	+
+> Fragment 4159 
+	-2	657	+
+> Fragment 4160 
+	-2	702	+
+> Fragment 4161 
+	-2	702	-
+> Fragment 4162 
+	150	701	+
+> Fragment 4163 
+	-1	265	+
+	303	701	+
+> Fragment 4164 
+	-2	498	-
+> Fragment 4165 
+	129	701	-
+> Fragment 4166 
+	128	685	-
+	0	110	-
+> Fragment 4167 
+	77	703	+
+> Fragment 4168 
+	51	701	-
+> Fragment 4169 
+	0	701	+
+> Fragment 4170 
+	0	701	-
+> Fragment 4171 
+	-1	139	+
+	132	701	+
+> Fragment 4172 
+	2	703	-
+> Fragment 4173 
+	0	701	-
+> Fragment 4174 
+	0	701	+
+> Fragment 4175 
+	0	701	+
+> Fragment 4176 
+	-1	568	-
+> Fragment 4177 
+	0	701	-
+> Fragment 4178 
+	-2	702	+
+> Fragment 4179 
+	0	131	-
+	189	701	-
+> Fragment 4180 
+	-1	703	+
+> Fragment 4181 
+	0	314	+
+	330	701	-
+> Fragment 4182 
+	0	701	+
+> Fragment 4183 
+	-1	190	-
+	286	702	-
+> Fragment 4184 
+	527	703	+
+> Fragment 4185 
+	0	701	-
+> Fragment 4186 
+	76	702	+
+> Fragment 4187 
+	617	703	+
+	0	524	+
+> Fragment 4188 
+	-2	387	+
+	378	701	+
+> Fragment 4189 
+	-2	426	+
+	449	703	+
+> Fragment 4190 
+	0	401	+
+	432	701	+
+> Fragment 4191 
+	-2	612	+
+> Fragment 4192 
+	240	701	-
+> Fragment 4193 
+	74	703	+
+> Fragment 4194 
+	-2	702	+
+> Fragment 4195 
+	458	703	-
+	0	458	-
+> Fragment 4196 
+	310	702	+
+	-1	217	+
+> Fragment 4197 
+	563	703	+
+	0	518	+
+> Fragment 4198 
+	-1	604	+
+> Fragment 4199 
+	0	701	+
+> Fragment 4200 
+	0	398	+
+> Fragment 4201 
+	-2	702	+
+> Fragment 4202 
+	-2	702	+
+> Fragment 4203 
+	-1	703	+
+> Fragment 4204 
+	0	701	+
+> Fragment 4205 
+	-2	186	-
+	205	702	-
+> Fragment 4206 
+	-2	249	+
+	316	702	+
+> Fragment 4207 
+	-1	703	+
+> Fragment 4208 
+	-1	694	+
+> Fragment 4209 
+	0	143	-
+	172	702	-
+> Fragment 4210 
+	-2	702	-
+> Fragment 4211 
+	0	701	-
+> Fragment 4212 
+	472	702	+
+	-1	475	+
+> Fragment 4213 
+	313	702	-
+> Fragment 4214 
+	-1	703	+
+> Fragment 4215 
+	268	465	+
+	508	702	+
+	-1	181	+
+> Fragment 4216 
+	44	703	-
+> Fragment 4217 
+	489	701	+
+	-1	244	-
+> Fragment 4218 
+	521	703	+
+	0	530	+
+> Fragment 4219 
+	-2	702	-
+> Fragment 4220 
+	-2	243	-
+	265	702	-
+> Fragment 4221 
+	0	701	+
+> Fragment 4222 
+	0	701	+
+> Fragment 4223 
+	-1	484	-
+	451	702	-
+> Fragment 4224 
+	0	701	+
+> Fragment 4225 
+	-1	508	-
+	527	703	-
+> Fragment 4226 
+	-1	703	-
+> Fragment 4227 
+	0	347	+
+	344	703	-
+> Fragment 4228 
+	-2	477	-
+> Fragment 4229 
+	-2	702	-
+> Fragment 4230 
+	0	701	+
+> Fragment 4231 
+	0	701	+
+> Fragment 4232 
+	-2	168	+
+	186	596	+
+> Fragment 4233 
+	-2	345	-
+	412	702	-
+> Fragment 4234 
+	-1	355	+
+	398	703	+
+> Fragment 4235 
+	-2	417	+
+	395	703	+
+> Fragment 4236 
+	-2	309	+
+	501	701	+
+> Fragment 4237 
+	-2	606	-
+> Fragment 4238 
+	-1	703	+
+> Fragment 4239 
+	0	635	+
+> Fragment 4240 
+> Fragment 4241 
+	-1	493	-
+> Fragment 4242 
+	-2	465	-
+> Fragment 4243 
+	0	701	+
+> Fragment 4244 
+	-1	703	+
+> Fragment 4245 
+	-2	702	+
+> Fragment 4246 
+	-1	259	+
+	336	701	+
+> Fragment 4247 
+	49	492	+
+	0	98	+
+> Fragment 4248 
+	266	703	-
+> Fragment 4249 
+	0	497	+
+	501	701	+
+> Fragment 4250 
+	69	701	+
+> Fragment 4251 
+	134	478	+
+> Fragment 4252 
+	-1	307	-
+	432	701	-
+> Fragment 4253 
+	-2	396	-
+	415	702	-
+> Fragment 4254 
+	247	702	+
+> Fragment 4255 
+	479	703	-
+	-2	465	-
+> Fragment 4256 
+	392	703	-
+	-2	423	-
+> Fragment 4257 
+	-2	702	+
+> Fragment 4258 
+	-2	243	+
+	313	702	-
+> Fragment 4259 
+	253	495	+
+	545	703	+
+	0	176	+
+> Fragment 4260 
+	-2	156	+
+	195	677	+
+> Fragment 4261 
+	0	701	+
+> Fragment 4262 
+	-1	703	+
+> Fragment 4263 
+	89	703	-
+> Fragment 4264 
+	191	703	+
+> Fragment 4265 
+	-1	703	+
+> Fragment 4266 
+	0	494	-
+	537	701	-
+> Fragment 4267 
+	111	701	-
+> Fragment 4268 
+	0	635	-
+> Fragment 4269 
+	-1	703	-
+> Fragment 4270 
+	-1	703	+
+> Fragment 4271 
+	-1	517	+
+> Fragment 4272 
+	-1	703	-
+> Fragment 4273 
+	0	86	+
+	135	701	+
+> Fragment 4274 
+	168	701	+
+> Fragment 4275 
+	377	703	+
+	0	275	+
+> Fragment 4276 
+	-1	703	+
+> Fragment 4277 
+	-1	268	-
+	287	703	-
+> Fragment 4278 
+	-1	703	-
+> Fragment 4279 
+	-2	588	+
+> Fragment 4280 
+	-2	351	+
+	497	703	-
+> Fragment 4281 
+	-2	363	-
+	421	702	-
+> Fragment 4282 
+	-2	408	+
+> Fragment 4283 
+	-1	544	-
+> Fragment 4284 
+	-2	702	+
+> Fragment 4285 
+	101	622	+
+> Fragment 4286 
+	146	703	-
+> Fragment 4287 
+	128	703	+
+> Fragment 4288 
+	28	702	-
+> Fragment 4289 
+	0	416	+
+	469	702	-
+> Fragment 4290 
+	609	701	-
+> Fragment 4291 
+	12	701	-
+> Fragment 4292 
+	89	703	+
+> Fragment 4293 
+	418	702	+
+	-1	226	+
+> Fragment 4294 
+	-2	306	+
+	299	703	+
+> Fragment 4295 
+	90	701	+
+> Fragment 4296 
+	174	701	+
+> Fragment 4297 
+	-1	481	+
+	628	702	-
+> Fragment 4298 
+	264	602	-
+> Fragment 4299 
+	-1	496	+
+	530	703	+
+> Fragment 4300 
+	219	701	+
+> Fragment 4301 
+	-2	405	+
+> Fragment 4302 
+	-2	327	-
+	475	702	-
+> Fragment 4303 
+	-1	703	-
+> Fragment 4304 
+	-1	415	+
+	420	701	+
+> Fragment 4305 
+	414	701	-
+> Fragment 4306 
+	-1	703	-
+> Fragment 4307 
+	242	703	+
+> Fragment 4308 
+	-1	703	+
+> Fragment 4309 
+	-2	702	-
+> Fragment 4310 
+	0	701	-
+> Fragment 4311 
+	-2	306	+
+	513	701	+
+> Fragment 4312 
+	46	702	-
+> Fragment 4313 
+	-2	192	-
+	289	702	-
+> Fragment 4314 
+	2	703	-
+> Fragment 4315 
+	-1	682	-
+> Fragment 4316 
+	266	703	+
+	-1	127	-
+> Fragment 4317 
+	0	488	-
+> Fragment 4318 
+	267	701	+
+> Fragment 4319 
+	-1	703	-
+> Fragment 4320 
+	-1	703	+
+> Fragment 4321 
+	0	446	-
+> Fragment 4322 
+	-1	604	+
+	618	701	-
+> Fragment 4323 
+	-1	145	-
+	346	702	-
+> Fragment 4324 
+	-1	703	+
+> Fragment 4325 
+	591	701	+
+	0	452	-
+> Fragment 4326 
+	0	512	+
+> Fragment 4327 
+	0	377	-
+	415	702	-
+> Fragment 4328 
+	-2	282	+
+	346	702	+
+> Fragment 4329 
+	201	701	+
+> Fragment 4330 
+	-2	702	-
+> Fragment 4331 
+	-2	123	+
+> Fragment 4332 
+	0	338	-
+	466	702	-
+> Fragment 4333 
+	508	702	+
+	-1	265	-
+> Fragment 4334 
+	0	449	+
+> Fragment 4335 
+	559	702	+
+	-1	121	+
+	229	447	-
+> Fragment 4336 
+	185	703	+
+	0	119	+
+> Fragment 4337 
+	-2	702	-
+> Fragment 4338 
+	0	701	+
+> Fragment 4339 
+	0	479	-
+	579	701	-
+> Fragment 4340 
+	124	702	+
+> Fragment 4341 
+	-1	703	+
+> Fragment 4342 
+	-2	423	+
+	467	703	-
+> Fragment 4343 
+	-1	703	-
+> Fragment 4344 
+	585	701	-
+	-2	447	-
+> Fragment 4345 
+	-1	508	-
+> Fragment 4346 
+	-2	366	-
+> Fragment 4347 
+	409	702	+
+	-1	385	+
+> Fragment 4348 
+	-1	157	-
+	117	701	-
+> Fragment 4349 
+	-2	702	-
+> Fragment 4350 
+	-1	703	-
+> Fragment 4351 
+	0	701	+
+> Fragment 4352 
+	0	701	-
+> Fragment 4353 
+	0	701	+
+> Fragment 4354 
+	-2	636	+
+> Fragment 4355 
+	-1	703	+
+> Fragment 4356 
+	0	632	-
+> Fragment 4357 
+	0	701	-
+> Fragment 4358 
+	503	703	+
+> Fragment 4359 
+	124	702	-
+> Fragment 4360 
+	-2	384	+
+> Fragment 4361 
+	-2	300	+
+	297	701	+
+> Fragment 4362 
+	86	703	+
+> Fragment 4363 
+	-2	702	+
+> Fragment 4364 
+	-1	703	-
+> Fragment 4365 
+	-2	702	-
+> Fragment 4366 
+	100	702	-
+> Fragment 4367 
+	265	702	+
+> Fragment 4368 
+	-2	702	-
+> Fragment 4369 
+	-2	663	+
+> Fragment 4370 
+	587	703	+
+	0	572	+
+> Fragment 4371 
+	0	701	-
+> Fragment 4372 
+	0	266	-
+	366	701	-
+> Fragment 4373 
+	152	703	+
+> Fragment 4374 
+	86	703	+
+> Fragment 4375 
+	128	703	+
+> Fragment 4376 
+	617	703	+
+	-1	400	-
+> Fragment 4377 
+	196	702	+
+> Fragment 4378 
+	-1	652	+
+> Fragment 4379 
+	0	467	-
+> Fragment 4380 
+	292	702	+
+	0	317	+
+> Fragment 4381 
+	-2	702	-
+> Fragment 4382 
+	66	701	+
+> Fragment 4383 
+	281	703	+
+	0	242	+
+> Fragment 4384 
+	-2	702	-
+> Fragment 4385 
+	0	701	+
+> Fragment 4386 
+	-1	703	+
+> Fragment 4387 
+	0	365	-
+	411	701	-
+> Fragment 4388 
+	-1	703	+
+> Fragment 4389 
+	0	692	+
+> Fragment 4390 
+	-2	264	+
+	471	701	+
+> Fragment 4391 
+	-1	703	-
+> Fragment 4392 
+	-1	703	+
+> Fragment 4393 
+	0	701	-
+> Fragment 4394 
+	521	703	-
+	-2	534	-
+> Fragment 4395 
+	-1	703	-
+> Fragment 4396 
+	380	703	-
+	-2	315	-
+> Fragment 4397 
+	437	703	+
+	0	242	+
+> Fragment 4398 
+	0	326	-
+	333	701	-
+> Fragment 4399 
+	217	702	+
+	-1	145	+
+> Fragment 4400 
+	-2	495	+
+> Fragment 4401 
+	-2	702	-
+> Fragment 4402 
+	-1	259	-
+	461	703	-
+> Fragment 4403 
+> Fragment 4404 
+	545	703	+
+	0	506	+
+> Fragment 4405 
+	-1	550	-
+> Fragment 4406 
+	-1	703	+
+> Fragment 4407 
+	524	703	-
+	-2	456	-
+> Fragment 4408 
+	412	702	+
+	62	370	+
+> Fragment 4409 
+	-1	703	-
+> Fragment 4410 
+	0	530	-
+> Fragment 4411 
+	0	203	+
+> Fragment 4412 
+	-2	444	+
+	525	701	+
+> Fragment 4413 
+	106	702	+
+> Fragment 4414 
+	47	703	+
+> Fragment 4415 
+	35	703	+
+> Fragment 4416 
+	0	233	+
+	337	702	-
+> Fragment 4417 
+	-2	702	+
+> Fragment 4418 
+	-1	703	+
+> Fragment 4419 
+	0	701	-
+> Fragment 4420 
+	-1	400	+
+> Fragment 4421 
+	-2	702	-
+> Fragment 4422 
+	163	702	+
+> Fragment 4423 
+	-1	703	+
+> Fragment 4424 
+	140	703	-
+> Fragment 4425 
+	0	353	+
+	461	679	-
+> Fragment 4426 
+	0	386	-
+	472	702	-
+> Fragment 4427 
+	-2	702	-
+> Fragment 4428 
+	244	702	+
+	-1	232	+
+> Fragment 4429 
+	91	309	+
+	478	702	+
+> Fragment 4430 
+	156	701	-
+	-2	108	-
+> Fragment 4431 
+	46	702	-
+> Fragment 4432 
+	0	701	-
+> Fragment 4433 
+	576	701	+
+> Fragment 4434 
+	-1	286	+
+	302	703	+
+> Fragment 4435 
+	-1	208	-
+	205	702	-
+> Fragment 4436 
+	303	701	-
+	-2	285	-
+> Fragment 4437 
+	-2	702	+
+> Fragment 4438 
+	119	703	+
+> Fragment 4439 
+	-1	220	-
+	440	703	-
+> Fragment 4440 
+> Fragment 4441 
+	-1	703	+
+> Fragment 4442 
+	-2	219	-
+	289	702	-
+> Fragment 4443 
+	-2	702	-
+> Fragment 4444 
+	0	494	-
+> Fragment 4445 
+	-2	510	+
+	523	702	+
+> Fragment 4446 
+	-2	162	+
+	394	702	+
+> Fragment 4447 
+	99	701	+
+> Fragment 4448 
+	11	703	-
+> Fragment 4449 
+	-2	564	+
+> Fragment 4450 
+	464	703	+
+> Fragment 4451 
+	-1	472	-
+	477	701	-
+> Fragment 4452 
+	0	242	-
+	366	701	-
+> Fragment 4453 
+	35	592	-
+> Fragment 4454 
+	127	702	-
+> Fragment 4455 
+	398	703	-
+	-2	69	-
+> Fragment 4456 
+	-2	702	+
+> Fragment 4457 
+	-2	702	-
+> Fragment 4458 
+	370	678	+
+	0	365	+
+> Fragment 4459 
+	-1	400	+
+> Fragment 4460 
+	0	701	+
+> Fragment 4461 
+	0	701	+
+> Fragment 4462 
+	-1	703	+
+> Fragment 4463 
+	-1	547	+
+> Fragment 4464 
+	0	674	-
+> Fragment 4465 
+	-2	345	+
+> Fragment 4466 
+	0	701	-
+> Fragment 4467 
+	-1	703	+
+> Fragment 4468 
+	508	702	-
+> Fragment 4469 
+	0	701	-
+> Fragment 4470 
+> Fragment 4471 
+	-2	363	+
+	347	703	+
+> Fragment 4472 
+	-1	703	-
+> Fragment 4473 
+	0	308	+
+	312	701	+
+> Fragment 4474 
+	-1	703	-
+> Fragment 4475 
+	-1	703	-
+> Fragment 4476 
+	593	703	+
+	-2	279	-
+> Fragment 4477 
+	0	701	-
+> Fragment 4478 
+	-1	703	-
+> Fragment 4479 
+	-2	384	+
+	398	703	+
+> Fragment 4480 
+	0	599	+
+> Fragment 4481 
+	-2	399	+
+	436	702	+
+> Fragment 4482 
+	-2	561	+
+> Fragment 4483 
+	114	701	+
+> Fragment 4484 
+	-1	337	+
+	398	703	+
+> Fragment 4485 
+	-2	702	-
+> Fragment 4486 
+	-2	267	-
+> Fragment 4487 
+	-1	259	-
+	219	701	-
+> Fragment 4488 
+	0	701	-
+> Fragment 4489 
+	-1	355	+
+	548	703	-
+> Fragment 4490 
+	65	433	-
+	500	703	-
+> Fragment 4491 
+	-1	703	+
+> Fragment 4492 
+	0	701	+
+> Fragment 4493 
+	-2	702	-
+> Fragment 4494 
+	-2	702	+
+> Fragment 4495 
+	0	452	-
+	490	702	-
+> Fragment 4496 
+	-2	702	+
+> Fragment 4497 
+	95	703	+
+> Fragment 4498 
+	0	701	-
+> Fragment 4499 
+	-2	159	+
+	408	701	-
+> Fragment 4500 
+	-1	703	+
+> Fragment 4501 
+	-2	228	+
+	189	701	+
+> Fragment 4502 
+	-2	702	+
+> Fragment 4503 
+	76	453	-
+	484	702	-
+> Fragment 4504 
+	-2	702	+
+> Fragment 4505 
+	110	703	-
+> Fragment 4506 
+	-1	703	+
+> Fragment 4507 
+	579	701	+
+	0	365	-
+> Fragment 4508 
+	-1	310	-
+	349	702	-
+> Fragment 4509 
+	524	703	-
+	0	524	-
+> Fragment 4510 
+	-1	556	+
+	553	702	-
+> Fragment 4511 
+	-2	702	+
+> Fragment 4512 
+	0	701	+
+> Fragment 4513 
+	0	197	-
+	202	381	-
+	391	702	-
+> Fragment 4514 
+	-1	379	+
+	533	703	+
+> Fragment 4515 
+	-2	702	-
+> Fragment 4516 
+	0	701	+
+> Fragment 4517 
+	-1	229	+
+	569	703	-
+> Fragment 4518 
+	-2	702	-
+> Fragment 4519 
+	-1	439	-
+	561	701	-
+> Fragment 4520 
+	115	702	+
+	-1	106	+
+> Fragment 4521 
+	-1	613	+
+> Fragment 4522 
+	0	629	+
+> Fragment 4523 
+	421	702	+
+	0	176	-
+> Fragment 4524 
+	0	137	+
+	386	703	-
+> Fragment 4525 
+	0	425	-
+> Fragment 4526 
+	70	702	-
+> Fragment 4527 
+	-1	130	-
+	332	703	-
+> Fragment 4528 
+	0	701	-
+> Fragment 4529 
+	0	149	-
+	415	702	-
+> Fragment 4530 
+	-1	406	+
+	384	701	-
+> Fragment 4531 
+	563	703	+
+> Fragment 4532 
+	-2	681	-
+> Fragment 4533 
+	-2	702	+
+> Fragment 4534 
+	-1	703	+
+> Fragment 4535 
+	187	702	+
+> Fragment 4536 
+	-2	702	+
+> Fragment 4537 
+	-2	702	+
+> Fragment 4538 
+	-2	207	+
+	219	701	+
+> Fragment 4539 
+	329	703	+
+	0	329	+
+> Fragment 4540 
+	-2	702	-
+> Fragment 4541 
+	-2	615	+
+> Fragment 4542 
+	-1	190	+
+	284	703	+
+> Fragment 4543 
+	-1	127	+
+	149	703	+
+> Fragment 4544 
+	553	702	-
+> Fragment 4545 
+	-1	703	-
+> Fragment 4546 
+	104	703	-
+	0	101	-
+> Fragment 4547 
+	-2	669	-
+> Fragment 4548 
+	-2	333	-
+	349	702	-
+> Fragment 4549 
+	-2	264	+
+	274	702	+
+> Fragment 4550 
+	-2	582	+
+> Fragment 4551 
+	-2	702	+
+> Fragment 4552 
+	-2	702	-
+> Fragment 4553 
+	-1	340	-
+	359	703	-
+> Fragment 4554 
+	0	491	+
+	507	701	-
+> Fragment 4555 
+	-2	702	-
+> Fragment 4556 
+	541	702	+
+	-1	502	-
+> Fragment 4557 
+	-1	703	+
+> Fragment 4558 
+	0	182	-
+> Fragment 4559 
+	-1	475	+
+	491	703	+
+> Fragment 4560 
+	0	701	+
+> Fragment 4561 
+	-1	556	-
+> Fragment 4562 
+	-1	364	-
+	403	702	-
+> Fragment 4563 
+	-2	702	+
+> Fragment 4564 
+	-2	249	+
+	228	701	+
+> Fragment 4565 
+	-2	702	+
+> Fragment 4566 
+	-2	702	-
+> Fragment 4567 
+	-2	396	+
+> Fragment 4568 
+	-1	703	+
+> Fragment 4569 
+	-2	582	-
+> Fragment 4570 
+	126	701	+
+> Fragment 4571 
+	455	703	+
+	0	380	+
+> Fragment 4572 
+	283	702	+
+	-1	91	+
+> Fragment 4573 
+	0	611	+
+> Fragment 4574 
+	190	702	-
+> Fragment 4575 
+	-1	703	-
